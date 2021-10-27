@@ -2,11 +2,9 @@
 <project version="4">
     <component name="ProjectModuleManager">
         <modules>
-            <module fileurl="file:////android/master-tv-dev/frameworks/base/base.iml" filepath="/android/master-tv-dev/frameworks/base/base.iml" />
-            <module fileurl="file:////android/master-tv-dev/frameworks/base/dependencies.iml" filepath="/android/master-tv-dev/frameworks/base/dependencies.iml" />
-            <module fileurl="file:////android/master-tv-dev/frameworks/base/framework_srcjars.iml" filepath="/android/master-tv-dev/frameworks/base/framework_srcjars.iml" />
-            <module fileurl="file:////android/master-tv-dev/frameworks/base/base.iml" filepath="/android/master-tv-dev/frameworks/base/base.iml" />
-@ENABLE_DEBUGGER_MODULE@
+            <module fileurl="file:///$PROJECT_DIR$/base.iml" filepath="$PROJECT_DIR$/base.iml" />
+            <module fileurl="file:///$PROJECT_DIR$/dependencies.iml" filepath="$PROJECT_DIR$/dependencies.iml" />
+            <module fileurl="file:///$PROJECT_DIR$/framework_srcjars.iml" filepath="$PROJECT_DIR$/framework_srcjars.iml" />
         </modules>
     </component>
 </project>
