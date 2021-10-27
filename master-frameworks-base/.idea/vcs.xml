@@ -35,7 +35,7 @@
     </option>
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="/android/master-tv-dev/frameworks/base/" vcs="Git" />
+    <mapping directory="/android/master/frameworks/base/" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
   </component>
 </project>
