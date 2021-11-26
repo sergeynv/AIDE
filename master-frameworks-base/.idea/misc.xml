@@ -13,9 +13,6 @@
       <build intervalToCheckBuild="1" buildKey="" buildLabel="" enabled="false" tapBuild="false" />
     </builds>
   </component>
-  <component name="EntryPointsManager">
-    <entry_points version="2.0" />
-  </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <type id="android" />
   </component>
@@ -40,6 +37,6 @@
   <component name="ProjectResources">
     <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Java 11" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Java 11" project-jdk-type="JavaSDK" />
   <component name="WebServicesPlugin" addRequiredLibraries="true" />
 </project>
