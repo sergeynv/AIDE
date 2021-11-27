@@ -39,6 +39,8 @@
       <sourceFolder url="file:///android/master/frameworks/base/cmds/uiautomator/library/testrunner-src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/cmds/uinput/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/cmds/vr/src" isTestSource="false" />
+
+
       <sourceFolder url="file:///android/master/frameworks/base/core/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/BroadcastRadioTests/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/ConnectivityManagerTest/src" isTestSource="true" />
@@ -122,6 +124,8 @@
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/systemproperties/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/utillib/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/utiltests/src" isTestSource="true" />
+
+
       <sourceFolder url="file:///android/master/frameworks/base/drm/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/errorprone/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/errorprone/tests/java" isTestSource="true" />
@@ -262,6 +266,68 @@
       <sourceFolder url="file:///android/master/frameworks/base/samples/demo/haptic-assessment/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/sax/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/sax/tests/saxtests/src" isTestSource="true" />
+
+
+      <sourceFolder url="file:///android/master/frameworks/base/services/accessibility/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/appprediction/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/appwidget/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/autofill/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/backup/backuplib/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/backup/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/companion/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/contentcapture/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/contentsuggestions/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/core/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/coverage/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/devicepolicy/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/midi/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/musicrecognition/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/net/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/people/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/print/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/profcollect/src" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/restrictions/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/robotests/backup/src" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/robotests/src" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/searchui/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/smartspace/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/systemcaptions/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/PackageManager/packageinstaller/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/PackageManagerComponentOverrideTests/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/PackageManagerServiceTests/appenumeration/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/PackageManagerServiceTests/appenumeration/test-apps/target/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/PackageManagerServiceTests/host/libs/IntentVerifyUtils/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/PackageManagerServiceTests/host/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/PackageManagerServiceTests/host/test-apps/DeviceSide/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/PackageManagerServiceTests/host/test-apps/DeviceSide/src/com/android/server/pm/cts/test/deviceside" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/PackageManagerServiceTests/host/test-apps/OverlayActor/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/PackageManagerServiceTests/unit/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/inprocesstests/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/mockingservicestests/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/mockingservicestests/utils-mockito" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/servicestests/apks/install-split-base/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/servicestests/apks/install-split-feature-a/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/servicestests/apks/install_intent_filters/src/com/android/frameworks/servicestests" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/servicestests/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/servicestests/src/com/android/server/display/whitebalance" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/servicestests/test-apps/ConnTestApp/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/servicestests/test-apps/JobTestApp/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/servicestests/test-apps/PackageParserApp/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/servicestests/test-apps/SimpleServiceTestApp/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/servicestests/test-apps/SuspendTestApp/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/servicestests/utils" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/servicestests/utils-mockito" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/shortcutmanagerutils/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/tests/uiservicestests/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/texttospeech/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/translation/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/usage/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/usb/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/voiceinteraction/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/services/wifi/java" isTestSource="false" />
+
+
       <sourceFolder url="file:///android/master/frameworks/base/startop/apps/test/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/startop/iorap/functional_tests/src/com/google/android/startop/iorap" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/startop/iorap/src" isTestSource="false" />
@@ -442,12 +508,10 @@
       <sourceFolder url="file:///android/master/frameworks/base/tools/streaming_proto/test/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/wifi/java/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/wifi/tests/src" isTestSource="true" />
-      <excludeFolder url="file:///android/master/frameworks/base/services" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="framework-aidl" />
     <orderEntry type="module" module-name="framework-res" />
-    <orderEntry type="module" module-name="fw-services" />
     <orderEntry type="module" module-name="dependencies" />
     <orderEntry type="inheritedJdk" />
   </component>
