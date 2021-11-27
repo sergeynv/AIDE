@@ -4443,6 +4443,8 @@
       <sourceFolder url="file:///android/master/tools/tradefederation/core/test_result_interfaces" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="fw-core" />
+    <orderEntry type="module" module-name="fw-services" />
     <orderEntry type="module" module-name="base" />
     <orderEntry type="module" module-name="framework-aidl" />
     <orderEntry type="module" module-name="framework-res" />

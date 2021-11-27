@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/dependencies.iml" filepath="$PROJECT_DIR$/dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/../master/modules/framework-aidl.iml" filepath="$PROJECT_DIR$/../master/modules/framework-aidl.iml" />
       <module fileurl="file://$PROJECT_DIR$/../master/modules/framework-res.iml" filepath="$PROJECT_DIR$/../master/modules/framework-res.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../master/modules/fw-core.iml" filepath="$PROJECT_DIR$/../master/modules/fw-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/../master/modules/fw-services.iml" filepath="$PROJECT_DIR$/../master/modules/fw-services.iml" />
     </modules>
   </component>

@@ -108,6 +108,8 @@
       <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl9.srcjar!/" isTestSource="false" generated="true" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="fw-core" />
+    <orderEntry type="module" module-name="fw-services" />
     <orderEntry type="module" module-name="base" />
     <orderEntry type="module" module-name="dependencies" />
     <orderEntry type="inheritedJdk" />
