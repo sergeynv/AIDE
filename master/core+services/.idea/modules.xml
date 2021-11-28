@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/../modules/fw-services.iml" filepath="$PROJECT_DIR$/../modules/fw-services.iml" />
       <module fileurl="file://$PROJECT_DIR$/../modules/fw-telephony.iml" filepath="$PROJECT_DIR$/../modules/fw-telephony.iml" />
       <module fileurl="file://$PROJECT_DIR$/../modules/fws-libs.iml" filepath="$PROJECT_DIR$/../modules/fws-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/libcore.iml" filepath="$PROJECT_DIR$/../modules/libcore.iml" />
       <module fileurl="file://$PROJECT_DIR$/../modules/pkgs-modules.iml" filepath="$PROJECT_DIR$/../modules/pkgs-modules.iml" />
     </modules>
   </component>

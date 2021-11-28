@@ -95,6 +95,7 @@
     <orderEntry type="module" module-name="fw-services" exported="" />
     <orderEntry type="module" module-name="fw-telephony" exported="" />
     <orderEntry type="module" module-name="fws-libs" exported="" />
+    <orderEntry type="module" module-name="libcore" exported="" />
     <orderEntry type="module" module-name="pkgs-modules" exported="" />
     <orderEntry type="module" module-name="dependencies" exported="" />
     <orderEntry type="inheritedJdk" />

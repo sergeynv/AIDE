@@ -2,15 +2,6 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file:///android/master/libcore/libart">
-      <sourceFolder url="file:///android/master/libcore/libart/src/main/java" isTestSource="false" />
-    </content>
-    <content url="file:///android/master/libcore/luni">
-      <sourceFolder url="file:///android/master/libcore/luni/src/main/java" isTestSource="false" />
-      <sourceFolder url="file:///android/master/libcore/luni/src/main/native" isTestSource="false" />
-      <sourceFolder url="file:///android/master/libcore/luni/src/benchmark/native" isTestSource="false" />
-      <sourceFolder url="file:///android/master/libcore/luni/src/test/java" isTestSource="true" />
-    </content>
     <content url="file:///android/master/tools/platform-compat">
       <sourceFolder url="file:///android/master/tools/platform-compat/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/tools/platform-compat/javatest" isTestSource="true" />
