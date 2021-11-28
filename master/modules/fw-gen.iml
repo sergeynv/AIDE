@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+
+    <!-- android.Manifest.java, android.R.java, com.android.internal.R.java-->
+    <content url="file:///android/master/out/soong/.intermediates/frameworks/base/core/res/framework-res/android_common/gen/aapt2/R">
+      <sourceFolder url="file:///android/master/out/soong/.intermediates/frameworks/base/core/res/framework-res/android_common/gen/aapt2/R" isTestSource="false" generated="true" />
+    </content>
+
+    <!-- AIDLs -->
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl0.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl0.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl1.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl1.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl10.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl10.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl11.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl11.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl12.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl12.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl13.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl13.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl14.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl14.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl15.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl15.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl16.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl16.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl17.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl17.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl18.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl18.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl19.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl19.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl2.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl2.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl20.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl20.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl21.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl21.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl22.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl22.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl23.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl23.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl24.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl24.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl25.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl25.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl26.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl26.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl27.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl27.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl28.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl28.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl29.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl29.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl3.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl3.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl30.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl30.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl31.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl31.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl32.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl32.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl33.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl33.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl34.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl34.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl4.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl4.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl5.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl5.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl6.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl6.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl7.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl7.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl8.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl8.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl9.srcjar!/">
+      <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl9.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="fw-core" />
+    <orderEntry type="module" module-name="fw-services" />
+    <orderEntry type="module" module-name="base" />
+    <orderEntry type="module" module-name="dependencies" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>

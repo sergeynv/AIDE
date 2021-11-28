@@ -363,8 +363,7 @@
       <excludeFolder url="file:///android/master/frameworks/base/services" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="framework-aidl" />
-    <orderEntry type="module" module-name="framework-res" />
+    <orderEntry type="module" module-name="fw-gen" />
     <orderEntry type="module" module-name="fw-core" />
     <orderEntry type="module" module-name="fw-services" />
     <orderEntry type="module" module-name="dependencies" />
