@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file:///android/master/frameworks/base/apex/blobstore">
+      <sourceFolder url="file:///android/master/frameworks/base/apex/blobstore/framework/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/apex/blobstore/service/java" isTestSource="false" />
+    </content>
+    <content url="file:///android/master/frameworks/base/apex/jobscheduler">
+      <sourceFolder url="file:///android/master/frameworks/base/apex/jobscheduler/framework/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/apex/jobscheduler/service/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/apex/jobscheduler/service/jni" isTestSource="false" />
+    </content>
+    <content url="file:///android/master/frameworks/base/apex/media">
+      <sourceFolder url="file:///android/master/frameworks/base/apex/media/aidl/private" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/apex/media/aidl/stable" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/apex/media/framework/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/apex/media/framework/jni" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/apex/media/service/java" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="fw-core" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>

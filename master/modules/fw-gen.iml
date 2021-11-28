@@ -9,6 +9,7 @@
     </content>
 
     <!-- AIDLs -->
+    <!-- frameworks/base/framework-minus-apex/ -->
     <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl0.srcjar!/">
       <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl0.srcjar!/" isTestSource="false" generated="true" />
     </content>
@@ -114,12 +115,24 @@
     <content url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl9.srcjar!/">
       <sourceFolder url="jar:///android/master/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl9.srcjar!/" isTestSource="false" generated="true" />
     </content>
+    <!-- frameworks/native/ -->
+    <content url="file:///android/master/out/soong/.intermediates/frameworks/native/libs/binder/packagemanager_aidl-java-source/gen">
+      <sourceFolder url="file:///android/master/out/soong/.intermediates/frameworks/native/libs/binder/packagemanager_aidl-java-source/gen" isTestSource="false" />
+    </content>
+
+
+    <!-- com.android.internal.util.FrameworkStatsLog.java -->
+    <content url="file:///android/master/out/soong/.intermediates/frameworks/base/core/java/statslog-framework-java-gen">
+      <sourceFolder url="file:///android/master/out/soong/.intermediates/frameworks/base/core/java/statslog-framework-java-gen/gen" isTestSource="false" generated="true" />
+    </content>
+
+    <!-- com.android.server.EventLogTags.java -->
+    <content url="file:///android/master/out/soong/.intermediates/frameworks/base/services/core/services.core.unboosted/android_common/gen/logtags">
+      <sourceFolder url="file:///android/master/out/soong/.intermediates/frameworks/base/services/core/services.core.unboosted/android_common/gen/logtags/frameworks/base/services/core/java" isTestSource="false" generated="true" />
+    </content>
 
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="fw-core" />
-    <orderEntry type="module" module-name="fw-services" />
-    <orderEntry type="module" module-name="base" />
-    <orderEntry type="module" module-name="dependencies" />
     <orderEntry type="inheritedJdk" />
   </component>
 </module>

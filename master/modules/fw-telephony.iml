@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file:///android/master/frameworks/base/telephony">
+      <sourceFolder url="file:///android/master/frameworks/base/telephony/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/frameworks/base/telephony/common" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="fw-core" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>
