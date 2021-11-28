@@ -90,7 +90,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="fw-gen" />
     <orderEntry type="module" module-name="fw-services" />
-    <orderEntry type="module" module-name="base" />
     <orderEntry type="module" module-name="dependencies" />
     <orderEntry type="inheritedJdk" />
   </component>

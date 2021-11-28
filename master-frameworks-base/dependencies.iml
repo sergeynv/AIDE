@@ -4446,7 +4446,6 @@
     <orderEntry type="module" module-name="fw-gen" />
     <orderEntry type="module" module-name="fw-core" />
     <orderEntry type="module" module-name="fw-services" />
-    <orderEntry type="module" module-name="base" />
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

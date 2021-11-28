@@ -2,7 +2,7 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file:///android/master/frameworks/base">
+    <content url="file:///android/master/frameworks/base/apct-tests">
       <sourceFolder url="file:///android/master/frameworks/base/apct-tests/perftests/autofill/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/apct-tests/perftests/blobstore/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/apct-tests/perftests/contentcapture/src" isTestSource="false" />
@@ -14,12 +14,18 @@
       <sourceFolder url="file:///android/master/frameworks/base/apct-tests/perftests/textclassifier/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/apct-tests/perftests/utils/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/apct-tests/perftests/windowmanager/src" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/apex">
       <sourceFolder url="file:///android/master/frameworks/base/apex/blobstore/framework/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/apex/blobstore/service/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/apex/jobscheduler/framework/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/apex/jobscheduler/service/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/apex/media/framework/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/apex/media/service/java" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/cmds">
       <sourceFolder url="file:///android/master/frameworks/base/cmds/abx/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/cmds/am/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/cmds/appwidget/src" isTestSource="false" />
@@ -39,13 +45,31 @@
       <sourceFolder url="file:///android/master/frameworks/base/cmds/uiautomator/library/testrunner-src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/cmds/uinput/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/cmds/vr/src" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/drm">
       <sourceFolder url="file:///android/master/frameworks/base/drm/java" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/errorprone">
       <sourceFolder url="file:///android/master/frameworks/base/errorprone/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/errorprone/tests/java" isTestSource="true" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/graphics">
       <sourceFolder url="file:///android/master/frameworks/base/graphics/java" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/identity">
       <sourceFolder url="file:///android/master/frameworks/base/identity/java" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/keystore">
       <sourceFolder url="file:///android/master/frameworks/base/keystore/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/keystore/tests/src" isTestSource="true" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/libs">
       <sourceFolder url="file:///android/master/frameworks/base/libs/WindowManager/Jetpack/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/libs/WindowManager/Shell/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/libs/WindowManager/Shell/tests/flicker/src" isTestSource="true" />
@@ -54,10 +78,19 @@
       <sourceFolder url="file:///android/master/frameworks/base/libs/hwui/apex/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/libs/usb/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/libs/usb/tests/AccessoryChat/src" isTestSource="true" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/location">
       <sourceFolder url="file:///android/master/frameworks/base/location/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/location/lib/java" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/lowpan">
       <sourceFolder url="file:///android/master/frameworks/base/lowpan/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/lowpan/tests/src" isTestSource="true" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/media">
       <sourceFolder url="file:///android/master/frameworks/base/media/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/media/lib/remotedisplay/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/media/lib/signer/java" isTestSource="false" />
@@ -81,13 +114,34 @@
       <sourceFolder url="file:///android/master/frameworks/base/media/tests/SoundPoolTest/src/com/android" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/media/tests/TunerTest/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/media/tests/aidltests/src/com/android/media" isTestSource="true" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/mime">
       <sourceFolder url="file:///android/master/frameworks/base/mime/java" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/mms">
       <sourceFolder url="file:///android/master/frameworks/base/mms/java" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/native">
       <sourceFolder url="file:///android/master/frameworks/base/native/android/tests/activitymanager/UidImportanceHelperApps/src" isTestSource="true" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/nfc-extras">
       <sourceFolder url="file:///android/master/frameworks/base/nfc-extras/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/nfc-extras/tests/src" isTestSource="true" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/obex">
       <sourceFolder url="file:///android/master/frameworks/base/obex" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/opengl">
       <sourceFolder url="file:///android/master/frameworks/base/opengl/java" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/packages">
       <sourceFolder url="file:///android/master/frameworks/base/packages/AppPredictionLib/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/packages/BackupEncryption/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/packages/BackupEncryption/test/robolectric-integration/src" isTestSource="false" />
@@ -175,23 +229,53 @@
       <sourceFolder url="file:///android/master/frameworks/base/packages/services/CameraExtensionsProxy/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/packages/services/PacProcessor/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/packages/services/Proxy/src" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/rs">
       <sourceFolder url="file:///android/master/frameworks/base/rs/java" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/samples">
       <sourceFolder url="file:///android/master/frameworks/base/samples/demo/haptic-assessment/src" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/sax">
       <sourceFolder url="file:///android/master/frameworks/base/sax/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/sax/tests/saxtests/src" isTestSource="true" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/startop">
       <sourceFolder url="file:///android/master/frameworks/base/startop/apps/test/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/startop/iorap/functional_tests/src/com/google/android/startop/iorap" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/startop/iorap/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/startop/iorap/tests/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/startop/view_compiler/dex_builder_test/src" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/telecomm">
       <sourceFolder url="file:///android/master/frameworks/base/telecomm/java" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/telephony">
       <sourceFolder url="file:///android/master/frameworks/base/telephony/common" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/telephony/java" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/test-base">
       <sourceFolder url="file:///android/master/frameworks/base/test-base/hiddenapi/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/test-base/src" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/test-mock">
       <sourceFolder url="file:///android/master/frameworks/base/test-mock/src" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/test-runner">
       <sourceFolder url="file:///android/master/frameworks/base/test-runner/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/test-runner/tests/src" isTestSource="true" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/tests">
       <sourceFolder url="file:///android/master/frameworks/base/tests/AccessibilityEventsLogger/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/tests/AccessoryDisplay/common/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/tests/AccessoryDisplay/sink/src" isTestSource="true" />
@@ -334,6 +418,9 @@
       <sourceFolder url="file:///android/master/frameworks/base/tests/utils/hostutils/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/tests/utils/testutils/java" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/tests/vcn/java" isTestSource="true" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/tools">
       <sourceFolder url="file:///android/master/frameworks/base/tools/aapt2/integration-tests/StaticLibTest/App/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/tools/aapt2/integration-tests/StaticLibTest/LibOne/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/tools/aapt2/integration-tests/StaticLibTest/LibTwo/src" isTestSource="false" />
@@ -357,11 +444,13 @@
       <sourceFolder url="file:///android/master/frameworks/base/tools/sdkparcelables/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/tools/sdkparcelables/tests" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/tools/streaming_proto/test/src" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/frameworks/base/wifi">
       <sourceFolder url="file:///android/master/frameworks/base/wifi/java/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/wifi/tests/src" isTestSource="true" />
-      <excludeFolder url="file:///android/master/frameworks/base/core" />
-      <excludeFolder url="file:///android/master/frameworks/base/services" />
     </content>
+
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="fw-gen" />
     <orderEntry type="module" module-name="fw-core" />
