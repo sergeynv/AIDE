@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cdm-ui.iml" filepath="$PROJECT_DIR$/cdm-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/fw-apex.iml" filepath="$PROJECT_DIR$/../modules/fw-apex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/fw-core.iml" filepath="$PROJECT_DIR$/../modules/fw-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/fw-gen.iml" filepath="$PROJECT_DIR$/../modules/fw-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/fw-graphics.iml" filepath="$PROJECT_DIR$/../modules/fw-graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/fw-keystore.iml" filepath="$PROJECT_DIR$/../modules/fw-keystore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/fw-services.iml" filepath="$PROJECT_DIR$/../modules/fw-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/fw-telephony.iml" filepath="$PROJECT_DIR$/../modules/fw-telephony.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/fws-libs.iml" filepath="$PROJECT_DIR$/../modules/fws-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/libcore.iml" filepath="$PROJECT_DIR$/../modules/libcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/pkgs-modules.iml" filepath="$PROJECT_DIR$/../modules/pkgs-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../modules/tools.iml" filepath="$PROJECT_DIR$/../modules/tools.iml" />
+    </modules>
+  </component>
+</project>

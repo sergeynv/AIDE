@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file:///android/master/frameworks/base/packages/CompanionDeviceManager">
+      <sourceFolder url="file:///android/master/frameworks/base/packages/CompanionDeviceManager/src" isTestSource="false" />
+    </content>
+    <content url="file:///android/master/out/soong/.intermediates/frameworks/base/packages/CompanionDeviceManager/CompanionDeviceManager/android_common/gen/aapt2/R">
+      <sourceFolder url="file:///android/master/out/soong/.intermediates/frameworks/base/packages/CompanionDeviceManager/CompanionDeviceManager/android_common/gen/aapt2/R" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="fw-core" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>
