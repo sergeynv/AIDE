@@ -7,6 +7,9 @@ Launch `stable`
 
 # With "master/cdm" project
 /opt/intellij-ce-stable/bin/idea.sh /usr/local/google/home/sergeynv/Desktop/AIDE/master/cdm
+
+# With "master/cts" project
+/opt/intellij-ce-stable/bin/idea.sh /usr/local/google/home/sergeynv/Desktop/AIDE/master/cts
 ```
 
 Launch certain version
