@@ -4,10 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/modules/all-dependencies.iml" filepath="$PROJECT_DIR$/modules/all-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/shared/androidx-test.iml" filepath="$PROJECT_DIR$/modules/shared/androidx-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/shared/kotlin.iml" filepath="$PROJECT_DIR$/../modules/kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/cts.iml" filepath="$PROJECT_DIR$/modules/cts.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/dependencies.iml" filepath="$PROJECT_DIR$/modules/dependencies.iml" />
       <module fileurl="file://$USER_HOME$/.config/asuite/aidegen/enable_debugger/enable_debugger.iml" filepath="$USER_HOME$/.config/asuite/aidegen/enable_debugger/enable_debugger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-core.iml" filepath="$PROJECT_DIR$/modules/shared/fw-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-gen.iml" filepath="$PROJECT_DIR$/modules/shared/fw-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-graphics.iml" filepath="$PROJECT_DIR$/modules/shared/fw-graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/shared/kotlin.iml" filepath="$PROJECT_DIR$/modules/shared/kotlin.iml" />
     </modules>
   </component>
 </project>
