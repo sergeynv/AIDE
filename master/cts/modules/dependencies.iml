@@ -6293,9 +6293,7 @@
     <content url="file:///android/master/tools/trebuchet/core/model/src/main/kotlin">
       <sourceFolder url="file:///android/master/tools/trebuchet/core/model/src/main/kotlin" isTestSource="false" />
     </content>
-    <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="androidx-test" />
-    <orderEntry type="module" module-name="framework_srcjars" />
+    <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
@@ -10790,5 +10788,6 @@
       </library>
     </orderEntry>
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

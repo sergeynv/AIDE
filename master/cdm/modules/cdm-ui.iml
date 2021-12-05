@@ -8,8 +8,8 @@
     <content url="file:///android/master/out/soong/.intermediates/frameworks/base/packages/CompanionDeviceManager/CompanionDeviceManager/android_common/gen/aapt2/R">
       <sourceFolder url="file:///android/master/out/soong/.intermediates/frameworks/base/packages/CompanionDeviceManager/CompanionDeviceManager/android_common/gen/aapt2/R" isTestSource="false" generated="true" />
     </content>
-    <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="fw-core" />
+    <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

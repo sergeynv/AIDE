@@ -131,8 +131,8 @@
       <sourceFolder url="file:///android/master/out/soong/.intermediates/frameworks/base/services/core/services.core.unboosted/android_common/gen/logtags/frameworks/base/services/core/java" isTestSource="false" generated="true" />
     </content>
 
-    <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="fw-core" />
+    <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

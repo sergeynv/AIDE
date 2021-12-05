@@ -11,8 +11,8 @@
       <sourceFolder url="file:///android/master/libcore/luni/src/benchmark/native" isTestSource="false" />
       <sourceFolder url="file:///android/master/libcore/luni/src/test/java" isTestSource="true" />
     </content>
-    <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="fw-core" />
+    <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

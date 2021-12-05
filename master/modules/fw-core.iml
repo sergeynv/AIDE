@@ -87,17 +87,8 @@
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/utillib/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/utiltests/src" isTestSource="true" />
     </content>
-    <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="fw-apex" exported="" />
-    <orderEntry type="module" module-name="fw-gen" exported="" />
-    <orderEntry type="module" module-name="fw-graphics" exported="" />
-    <orderEntry type="module" module-name="fw-keystore" exported="" />
-    <orderEntry type="module" module-name="fw-services" exported="" />
-    <orderEntry type="module" module-name="fw-telephony" exported="" />
-    <orderEntry type="module" module-name="fws-libs" exported="" />
-    <orderEntry type="module" module-name="libcore" exported="" />
-    <orderEntry type="module" module-name="pkgs-modules" exported="" />
-    <orderEntry type="module" module-name="tools" exported="" />
+    <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

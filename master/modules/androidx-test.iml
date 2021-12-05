@@ -45,7 +45,7 @@
       <sourceFolder url="jar:///android/master/prebuilts/misc/common/androidx-test/androidx/test/uiautomator/uiautomator/2.2.0/uiautomator-2.2.0-sources.jar!/" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="dependencies" />
+    <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
   </component>
 </module>

@@ -6,8 +6,8 @@
       <sourceFolder url="file:///android/master/frameworks/base/telephony/java" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/telephony/common" isTestSource="false" />
     </content>
-    <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="fw-core" />
+    <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

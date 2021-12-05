@@ -18,8 +18,8 @@
       <sourceFolder url="file:///android/master/frameworks/base/apex/media/framework/jni" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/apex/media/service/java" isTestSource="false" />
     </content>
-    <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="fw-core" />
+    <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -177,8 +177,8 @@
       <sourceFolder url="file:///android/master/packages/modules/Connectivity/Tethering/tests" isTestSource="true" />
       <sourceFolder url="file:///android/master/packages/modules/Connectivity/Tethering/res" type="java-resource" />
     </content>
-    <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="fw-core" />
+    <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -2,10 +2,9 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file:///android/master/frameworks/base/graphics">
-      <sourceFolder url="file:///android/master/frameworks/base/graphics/java" isTestSource="false" />
-    </content>
-    <orderEntry type="module" module-name="all-dependencies" />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="module" module-name="dependencies" exported="" />
+    <orderEntry type="module" module-name="androidx-test" exported="" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

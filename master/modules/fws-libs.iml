@@ -7,8 +7,8 @@
       <sourceFolder url="file:///android/master/frameworks/libs/modules-utils/build/tests" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/libs/modules-utils/javatests" isTestSource="true" />
     </content>
-    <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="fw-core" />
+    <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
