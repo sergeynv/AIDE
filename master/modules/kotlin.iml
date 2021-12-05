@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="jar:///android/master/external/kotlinc/lib/kotlin-annotations-jvm-sources.jar!/">
+      <sourceFolder url="jar:///android/master/external/kotlinc/lib/kotlin-annotations-jvm-sources.jar!/" isTestSource="false" />
+    </content>
+    <content url="jar:///android/master/external/kotlinc/lib/kotlin-coroutines-experimental-compat-sources.jar!/">
+      <sourceFolder url="jar:///android/master/external/kotlinc/lib/kotlin-coroutines-experimental-compat-sources.jar!/" isTestSource="false" />
+    </content>
+    <content url="jar:///android/master/external/kotlinc/lib/kotlin-reflect-sources.jar!/">
+      <sourceFolder url="jar:///android/master/external/kotlinc/lib/kotlin-reflect-sources.jar!/" isTestSource="false" />
+    </content>
+    <content url="jar:///android/master/external/kotlinc/lib/kotlin-script-runtime-sources.jar!/">
+      <sourceFolder url="jar:///android/master/external/kotlinc/lib/kotlin-script-runtime-sources.jar!/" isTestSource="false" />
+    </content>
+    <content url="jar:///android/master/external/kotlinc/lib/kotlin-stdlib-jdk7-sources.jar!/">
+      <sourceFolder url="jar:///android/master/external/kotlinc/lib/kotlin-stdlib-jdk7-sources.jar!/" isTestSource="false" />
+    </content>
+    <content url="jar:///android/master/external/kotlinc/lib/kotlin-stdlib-jdk8-sources.jar!/">
+      <sourceFolder url="jar:///android/master/external/kotlinc/lib/kotlin-stdlib-jdk8-sources.jar!/" isTestSource="false" />
+    </content>
+    <content url="jar:///android/master/external/kotlinc/lib/kotlin-stdlib-sources.jar!/">
+      <sourceFolder url="jar:///android/master/external/kotlinc/lib/kotlin-stdlib-sources.jar!/" isTestSource="false" />
+    </content>
+    <content url="jar:///android/master/external/kotlinc/lib/kotlin-test-js-sources.jar!/">
+      <sourceFolder url="jar:///android/master/external/kotlinc/lib/kotlin-test-js-sources.jar!/" isTestSource="false" />
+    </content>
+    <content url="jar:///android/master/external/kotlinc/lib/kotlin-test-junit5-sources.jar!/">
+      <sourceFolder url="jar:///android/master/external/kotlinc/lib/kotlin-test-junit5-sources.jar!/" isTestSource="false" />
+    </content>
+    <content url="jar:///android/master/external/kotlinc/lib/kotlin-test-junit-sources.jar!/">
+      <sourceFolder url="jar:///android/master/external/kotlinc/lib/kotlin-test-junit-sources.jar!/" isTestSource="false" />
+    </content>
+    <content url="jar:///android/master/external/kotlinc/lib/kotlin-test-sources.jar!/">
+      <sourceFolder url="jar:///android/master/external/kotlinc/lib/kotlin-test-sources.jar!/" isTestSource="false" />
+    </content>
+    <content url="jar:///android/master/external/kotlinc/lib/kotlin-test-testng-sources.jar!/">
+      <sourceFolder url="jar:///android/master/external/kotlinc/lib/kotlin-test-testng-sources.jar!/" isTestSource="false" />
+    </content>
+
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar:///android/master/external/kotlinc/lib/kotlin-test.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar:///android/master/external/kotlinc/lib/kotlin-test-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

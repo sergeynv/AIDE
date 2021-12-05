@@ -7062,15 +7062,6 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar:///android/master/external/kotlinc/lib/kotlin-reflect.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
           <root url="jar:///android/master/prebuilts/tools/common/m2/repository/com/squareup/javawriter/2.1.1/javawriter-2.1.1.jar!/" />
         </CLASSES>
         <JAVADOC />
@@ -7746,15 +7737,6 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar:///android/master/out/target/common/obj/JAVA_LIBRARIES/kotlin-test_intermediates/classes.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
           <root url="jar:///android/master/out/target/common/obj/JAVA_LIBRARIES/com.android.sysprop.watchdog_intermediates/classes.jar!/" />
         </CLASSES>
         <JAVADOC />
@@ -7882,15 +7864,6 @@
       <library>
         <CLASSES>
           <root url="jar:///android/master/out/target/common/obj/JAVA_LIBRARIES/androidx.dynamicanimation_dynamicanimation-nodeps_intermediates/classes.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="jar:///android/master/out/target/common/obj/JAVA_LIBRARIES/kotlin-stdlib_intermediates/classes.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -8466,15 +8439,6 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar:///android/master/external/kotlinc/lib/kotlin-test.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
           <root url="jar:///android/master/out/host/common/obj/JAVA_LIBRARIES/perfetto_config-full_intermediates/classes.jar!/" />
         </CLASSES>
         <JAVADOC />
@@ -9019,17 +8983,6 @@
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="jar:///android/master/external/kotlinc/lib/kotlin-stdlib.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="jar:///android/master/external/kotlinc/lib/kotlin-stdlib-sources.jar!/" />
-        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library" exported="">
@@ -9639,15 +9592,6 @@
       <library>
         <CLASSES>
           <root url="jar:///android/master/out/target/common/obj/JAVA_LIBRARIES/android.hidl.base-V1.0-java_intermediates/classes.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="jar:///android/master/out/target/common/obj/JAVA_LIBRARIES/kotlin-reflect_intermediates/classes.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -10431,15 +10375,6 @@
       <library>
         <CLASSES>
           <root url="jar:///android/master/out/target/common/obj/JAVA_LIBRARIES/android.hardware.radio-V1.1-java_intermediates/classes.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="jar:///android/master/external/kotlinc/lib/kotlin-test-junit.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
