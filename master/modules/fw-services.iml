@@ -58,8 +58,8 @@
       <sourceFolder url="file:///android/master/frameworks/base/services/robotests/backup/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/services/tests/servicestests/apks/install_intent_filters/src" isTestSource="true" />
     </content>
+    <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -5,8 +5,8 @@
     <content url="file:///android/master/frameworks/base/graphics">
       <sourceFolder url="file:///android/master/frameworks/base/graphics/java" isTestSource="false" />
     </content>
+    <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -4199,7 +4199,6 @@
     <content url="file:///android/master/out/soong/.intermediates/frameworks/base/cmds/idmap2/overlayable_policy_aidl-java-source/gen">
       <sourceFolder url="file:///android/master/out/soong/.intermediates/frameworks/base/cmds/idmap2/overlayable_policy_aidl-java-source/gen" isTestSource="false" />
     </content>
-
     <content url="file:///android/master/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/proto/src/aidegen_ipconnectivity.srcjar">
       <sourceFolder url="file:///android/master/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/proto/src/aidegen_ipconnectivity.srcjar" isTestSource="false" />
     </content>

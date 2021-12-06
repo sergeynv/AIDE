@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/shared/libcore.iml" filepath="$PROJECT_DIR$/modules/shared/libcore.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/shared/pkgs-modules.iml" filepath="$PROJECT_DIR$/modules/shared/pkgs-modules.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/shared/tools.iml" filepath="$PROJECT_DIR$/modules/shared/tools.iml" />
+      <module fileurl="file://$USER_HOME$/.config/asuite/aidegen/enable_debugger/enable_debugger.iml" filepath="$USER_HOME$/.config/asuite/aidegen/enable_debugger/enable_debugger.iml" />
     </modules>
   </component>
 </project>

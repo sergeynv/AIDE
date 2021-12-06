@@ -1045,6 +1045,11 @@
       <sourceFolder url="file:///android/master/cts/tools/vm-tests-tf/src/dot/junit/opcodes/invoke_virtual_range/d" isTestSource="false" />
       <sourceFolder url="file:///android/master/cts/tools/vm-tests-tf/targetprep/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/cts/tests/tests/companion/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/cts/tests/tests/companion/CompanionDeviceTestApp/res" type="java-resource" />
+      <sourceFolder url="file:///android/master/cts/tests/tests/companion/CompanionDeviceTestApp/src" isTestSource="false" />
+    </content>
+    <content url="file:///android/master/out/soong/.intermediates/cts">
+      <sourceFolder url="file:///android/master/out/soong/.intermediates/cts/tests/tests/companion/CompanionDeviceTestApp/CtsCompanionDeviceTestApp/android_common/gen/aapt2/R" isTestSource="false" generated="true" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
