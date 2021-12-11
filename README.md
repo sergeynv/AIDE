@@ -31,3 +31,21 @@ Launch `stable`
 - Type: `Android SDK`
 - Version: `version 11.0.12`
 - Path: `$USER_HOME$/android-sdk`
+
+
+### Code Styles
+
+#### Setup
+
+`Setting > Editor > Code Style > Scheme: > (Stored in IDE) > AIDE`
+
+```
+~/.config/JetBrains/IdeaIC2021.2/codestyles/AIDE.xml -> ~/Desktop/AIDE/codestyle_AIDE.xml
+```
+
+#### Fix Java code style
+`Setting > Editor > Code Style > Java > Set from... (link, on the right side) > Android`
+
+#### Android Code Style
+- [development/ide/intellij/codestyles/AndroidStyle.xml](https://source.corp.google.com/android/development/ide/intellij/codestyles/AndroidStyle.xml)
+- [tools/asuite/aidegen/data/AndroidStyle_aidegen.xml](https://source.corp.google.com/android/tools/asuite/aidegen/data/AndroidStyle_aidegen.xml)
