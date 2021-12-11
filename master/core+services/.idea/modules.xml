@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/modules/all-dependencies.iml" filepath="$PROJECT_DIR$/all-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/shared/debugger-enablement/debugger-enablement.iml" filepath="$PROJECT_DIR$/modules/shared/debugger-enablement/debugger-enablement.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-apex.iml" filepath="$PROJECT_DIR$/modules/shared/fw-apex.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-core.iml" filepath="$PROJECT_DIR$/modules/shared/fw-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-gen.iml" filepath="$PROJECT_DIR$/modules/shared/fw-gen.iml" />
