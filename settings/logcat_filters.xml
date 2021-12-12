@@ -1,0 +1,46 @@
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="sergeynv" />
+        <option name="name" value="sergeynv" />
+        <option name="packageNamePattern" value="" />
+      </filter>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="(CompanionDeviceManagerService|CompanionDeviceService|CtsCompanionDevicesTestCases)" />
+        <option name="name" value="CDM" />
+        <option name="packageNamePattern" value="" />
+      </filter>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="(TestExecutor|TestRunner|CtsTestRunListener)" />
+        <option name="name" value="Tests" />
+        <option name="packageNamePattern" value="" />
+      </filter>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="(CompanionDeviceManagerService|CompanionDeviceService|CtsCompanionDevicesTestCases|TestExecutor|TestRunner|CtsTestRunListener)" />
+        <option name="name" value="CDM + Tests" />
+        <option name="packageNamePattern" value="" />
+      </filter>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="CtsCompanionDeviceTestApp" />
+        <option name="name" value="CtsCompanionDeviceTestApp" />
+        <option name="packageNamePattern" value="" />
+      </filter>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="FATAL" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="FATAL" />
+        <option name="packageNamePattern" value="" />
+      </filter>
+    </filters>
+  </component>

@@ -32,3 +32,29 @@
 #### Android Code Style
 - [development/ide/intellij/codestyles/AndroidStyle.xml](https://source.corp.google.com/android/development/ide/intellij/codestyles/AndroidStyle.xml)
 - [tools/asuite/aidegen/data/AndroidStyle_aidegen.xml](https://source.corp.google.com/android/tools/asuite/aidegen/data/AndroidStyle_aidegen.xml)
+
+
+
+### Android Logcat
+
+#### Filters
+Stored in `$PROJECT_HOME/.idea/workspace.xml`:
+```xml
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="sergeynv" />
+        <option name="name" value="sergeynv" />
+        <option name="packageNamePattern" value="" />
+      </filter>
+      ...
+    </filters>
+  </component>
+  ...
+</project>  
+```
+
+Template stored in `AIDE/settings/logcat_filters.xml`
