@@ -8,7 +8,7 @@
     <orderEntry type="module" module-name="fw-graphics" exported="" />
     <orderEntry type="module" module-name="androidx-test" exported="" />
     <orderEntry type="module" module-name="kotlin" exported="" />
-    <orderEntry type="module" module-name="dependencies" exported="" />
+    <orderEntry type="module" module-name="cts-dependencies" exported="" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
