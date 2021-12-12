@@ -1,20 +1,3 @@
-### Launch
-
-Launch `stable`
-```
-/opt/intellij-ce-stable/bin/idea.sh
-
-# With "master/framework+services" project
-/opt/intellij-ce-stable/bin/idea.sh /usr/local/google/home/sergeynv/Desktop/AIDE/master/core+services
-
-# With "master/cdm" project
-/opt/intellij-ce-stable/bin/idea.sh /usr/local/google/home/sergeynv/Desktop/AIDE/master/cdm
-
-# With "master/cts" project
-/opt/intellij-ce-stable/bin/idea.sh /usr/local/google/home/sergeynv/Desktop/AIDE/master/cts
-```
-
-
 ### SDKs
 
 `Java 8`
@@ -33,14 +16,14 @@ Launch `stable`
 - Path: `$USER_HOME$/android-sdk`
 
 
+
 ### Code Styles
 
 #### Setup
-
 `Setting > Editor > Code Style > Scheme: > (Stored in IDE) > AIDE`
 
 ```
-~/.config/JetBrains/IdeaIC2021.2/codestyles/AIDE.xml -> ~/Desktop/AIDE/codestyle_AIDE.xml
+~/.config/JetBrains/IdeaIC2021.2/codestyles/AIDE.xml -> ~/Desktop/AIDE/settings/codestyle_AIDE.xml
 ```
 
 #### Fix Java code style
