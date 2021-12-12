@@ -35,6 +35,14 @@
 
 
 
+### Color Scheme
+`Setting > Editor > Color Scheme > AIDE-Dracula`
+
+```
+~/.config/JetBrains/IdeaIC2021.2/colors/AIDE-Dracula.icls -> ~/Desktop/AIDE/settings/colors_AIDE-Dracula.icls
+```
+
+
 ### Android Logcat
 
 #### Filters
@@ -58,3 +66,13 @@ Stored in `$PROJECT_HOME/.idea/workspace.xml`:
 ```
 
 Template stored in `AIDE/settings/logcat_filters.xml`
+
+#### Colors
+`Setting > Editor > Color Scheme > Android Logcat > AIDE`
+
+Verbose		`#BBBBBB` (Light Grey)
+Debug		`#5394EC` (Dark Blue)
+Info 		`#5C962C` (Green)
+Warning		`#EFC510` (Yellow)
+Error		`#FF6B68` (Red)
+Assert		`#D2500B` (Orange)
