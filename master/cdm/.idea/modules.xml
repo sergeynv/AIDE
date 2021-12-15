@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/cdm-ui.iml" filepath="$PROJECT_DIR$/cdm-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/shared/androidx-test.iml" filepath="$PROJECT_DIR$/modules/shared/androidx-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/shared/cts-dependencies.iml" filepath="$PROJECT_DIR$/cts-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/shared/cts-dependencies-gen.iml" filepath="$PROJECT_DIR$/cts-dependencies-gen.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/shared/debugger-enablement/debugger-enablement.iml" filepath="$PROJECT_DIR$/modules/shared/debugger-enablement/debugger-enablement.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-apex.iml" filepath="$PROJECT_DIR$/modules/shared/fw-apex.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-core.iml" filepath="$PROJECT_DIR$/modules/shared/fw-core.iml" />

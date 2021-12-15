@@ -23,6 +23,28 @@
       <sourceFolder url="file:///android/master/libcore/ojluni/src/tools" isTestSource="true" />
     </content>
 
+    <content url="file:///android/master/libcore/dalvik">
+      <sourceFolder url="file:///android/master/libcore/dalvik/src/main/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/libcore/dalvik/test-rules/src/main/java" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/libcore/json">
+      <sourceFolder url="file:///android/master/libcore/json/src/main/java" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/libcore/support">
+      <sourceFolder url="file:///android/master/libcore/support/src/test/java" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/libcore/test-rules">
+      <sourceFolder url="file:///android/master/libcore/test-rules/src/main/java" isTestSource="false" />
+      <sourceFolder url="file:///android/master/libcore/test-rules/src/platform_compat/java/libcore/junit/util" isTestSource="false" />
+    </content>
+
+    <content url="file:///android/master/libcore/xml/src/main/java">
+      <sourceFolder url="file:///android/master/libcore/xml/src/main/java" isTestSource="false" />
+    </content>
+
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
