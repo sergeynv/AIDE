@@ -33,6 +33,12 @@
 - [development/ide/intellij/codestyles/AndroidStyle.xml](https://source.corp.google.com/android/development/ide/intellij/codestyles/AndroidStyle.xml)
 - [tools/asuite/aidegen/data/AndroidStyle_aidegen.xml](https://source.corp.google.com/android/tools/asuite/aidegen/data/AndroidStyle_aidegen.xml)
 
+#### Kotlin
+```
+/android/master/prebuilts/ktlint/ktlint.py --format --file \
+  tests/tests/companion/src/android/companion/cts/DeviceProfilesTest.kt \ 
+  tests/tests/companion/src/android/companion/cts/RecordingCallback.kt
+```
 
 
 ### Color Scheme
