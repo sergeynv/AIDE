@@ -6,6 +6,9 @@
       <sourceFolder url="file:///android/master/cts/tests/tests/companion/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/cts/tests/tests/companion/CompanionDeviceTestApp/res" type="java-resource" />
       <sourceFolder url="file:///android/master/cts/tests/tests/companion/CompanionDeviceTestApp/src" isTestSource="false" />
+      <sourceFolder url="file:///android/master/cts/tests/tests/companion/common/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/cts/tests/tests/companion/core/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/cts/tests/tests/companion/uiautomation/src" isTestSource="true" />
     </content>
     <content url="file:///android/master/cts/tests/tests/os">
       <sourceFolder url="file:///android/master/cts/tests/tests/os/CompanionTestApp/src" isTestSource="false" />
