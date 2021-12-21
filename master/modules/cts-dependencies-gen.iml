@@ -560,12 +560,6 @@
     <content url="file:///android/master/external/jsr330/src">
       <sourceFolder url="file:///android/master/external/jsr330/src" isTestSource="false" />
     </content>
-    <content url="file:///android/master/external/junit-params/src/main/java">
-      <sourceFolder url="file:///android/master/external/junit-params/src/main/java" isTestSource="false" />
-    </content>
-    <content url="file:///android/master/external/junit/src/main/java">
-      <sourceFolder url="file:///android/master/external/junit/src/main/java" isTestSource="false" />
-    </content>
     <content url="file:///android/master/external/kotlinx.atomicfu/atomicfu/src/commonMain/kotlin">
       <sourceFolder url="file:///android/master/external/kotlinx.atomicfu/atomicfu/src/commonMain/kotlin" isTestSource="false" />
     </content>

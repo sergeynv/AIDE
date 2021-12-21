@@ -6,9 +6,15 @@
       <sourceFolder url="file:///android/master/cts/common/device-side/util-axt/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/cts/common/device-side/util-axt/tests/src" isTestSource="true" />
     </content>
+    <content url="file:///android/master/external/junit">
+      <sourceFolder url="file:///android/master/external/junit/src/main/java" isTestSource="false" />
+    </content>
+    <content url="file:///android/master/external/junit-params">
+      <sourceFolder url="file:///android/master/external/junit-params/src/main/java" isTestSource="false" />
+    </content>
     <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="cts-dependencies-gen" exported="" />
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
