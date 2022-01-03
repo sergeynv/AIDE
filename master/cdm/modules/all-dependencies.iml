@@ -13,6 +13,7 @@
     <orderEntry type="module" module-name="fws-libs" exported="" />
     <orderEntry type="module" module-name="androidx" exported="" />
     <orderEntry type="module" module-name="androidx-test" exported="" />
+    <orderEntry type="module" module-name="prebuilts-extras" exported="" />
     <orderEntry type="module" module-name="libcore" exported="" />
     <orderEntry type="module" module-name="pkgs-modules" exported="" />
     <orderEntry type="module" module-name="kotlin" exported="" />
