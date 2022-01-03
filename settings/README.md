@@ -17,6 +17,14 @@
 
 
 
+### Keymaps
+- Import `exports/keymaps.zip`
+- `Settings > Keymap`
+  - IntelliJ: `sergeynv (GNOME-based)`
+  - AS: `sergeynv-as (GNOME-based)`
+
+
+
 ### Code Styles
 
 #### Setup
@@ -41,12 +49,14 @@
 ```
 
 
+
 ### Color Scheme
 `Setting > Editor > Color Scheme > AIDE-Dracula`
 
 ```
 ~/.config/JetBrains/IdeaIC2021.2/colors/AIDE-Dracula.icls -> ~/Desktop/AIDE/settings/colors_AIDE-Dracula.icls
 ```
+
 
 
 ### Android Logcat
@@ -70,7 +80,6 @@ Stored in `$PROJECT_HOME/.idea/workspace.xml`:
   ...
 </project>  
 ```
-
 Template stored in `AIDE/settings/logcat_filters.xml`
 
 #### Colors
