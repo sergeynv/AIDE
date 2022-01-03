@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/all-dependencies.iml" filepath="$PROJECT_DIR$/all-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/cdm-cts.iml" filepath="$PROJECT_DIR$/cdm-cts.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/cdm-ui.iml" filepath="$PROJECT_DIR$/cdm-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/shared/androidx.iml" filepath="$PROJECT_DIR$/modules/shared/androidx.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/shared/androidx-test.iml" filepath="$PROJECT_DIR$/modules/shared/androidx-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/shared/cts-dependencies.iml" filepath="$PROJECT_DIR$/cts-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/shared/cts-dependencies-gen.iml" filepath="$PROJECT_DIR$/cts-dependencies-gen.iml" />
