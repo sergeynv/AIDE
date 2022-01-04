@@ -11,7 +11,7 @@
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/PlatformCompatFramework/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/bandwidthtests/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/batterystatstests/BatteryStatsLoadTests/src" isTestSource="true" />
-      <sourceFolder url="file:///android/master/frameworks/base/core/tests/batterystatstests/BatteryStatsViewer/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/core/tests/batterystatstests/BatteryStatsViewer/src" isTestSource="false" />
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/batterystatstests/BatteryUsageStatsProtoTests/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/benchmarks/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/bluetoothtests/src" isTestSource="true" />
@@ -86,6 +86,7 @@
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/systemproperties/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/utillib/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/frameworks/base/core/tests/utiltests/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/frameworks/base/core/tests/batterystatstests/BatteryStatsViewer/res" type="java-resource" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
