@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="module" module-name="libcore" exported="" />
+    <orderEntry type="module" module-name="fw-core" exported="" />
+    <orderEntry type="module" module-name="fw-services" exported="" />
+    <orderEntry type="module" module-name="fw-gen" exported="" />
+    <orderEntry type="module" module-name="fw-keystore" exported="" />
+    <orderEntry type="module" module-name="fw-telephony" exported="" />
+    <orderEntry type="module" module-name="fw-graphics" exported="" />
+    <orderEntry type="module" module-name="fw-apex" exported="" />
+    <orderEntry type="module" module-name="fws-libs" exported="" />
+    <orderEntry type="module" module-name="androidx" exported="" />
+    <orderEntry type="module" module-name="prebuilts-extras" exported="" />
+    <orderEntry type="module" module-name="pkgs-modules" exported="" />
+    <orderEntry type="module" module-name="kotlin" exported="" />
+    <orderEntry type="module" module-name="tools" exported="" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

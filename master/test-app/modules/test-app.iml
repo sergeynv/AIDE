@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file:///android/master/development/apps/TestApp">
+      <sourceFolder url="file:///android/master/development/apps/TestApp/res" type="java-resource" />
+      <sourceFolder url="file:///android/master/development/apps/TestApp/src" isTestSource="false" />
+      <sourceFolder url="file:///android/master/development/apps/TestApp/tests/src" isTestSource="true" />
+    </content>
+    <content url="file:///android/master/out/soong/.intermediates/development/apps/TestApp/MyTestApp/android_common/gen/aapt2/R">
+      <sourceFolder url="file:///android/master/out/soong/.intermediates/development/apps/TestApp/MyTestApp/android_common/gen/aapt2/R" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
