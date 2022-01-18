@@ -86,8 +86,8 @@ Template stored in `AIDE/settings/logcat_filters.xml`
 `Setting > Editor > Color Scheme > Android Logcat > AIDE`
 
 Verbose		`#BBBBBB` (Light Grey)
-Debug		`#5394EC` (Dark Blue)
-Info 		`#5C962C` (Green)
+Debug		  `#5394EC` (Dark Blue)
+Info 		  `#5C962C` (Green)
 Warning		`#EFC510` (Yellow)
-Error		`#FF6B68` (Red)
+Error		  `#FF6B68` (Red)
 Assert		`#D2500B` (Orange)
