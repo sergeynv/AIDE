@@ -58,6 +58,12 @@
 ```
 
 
+### Appearance
+`Setting > Appearance & Behavior > Appearance`
+
+- Theme: *Dracula*
+- User custom font: *Cantarell*, Size: *15*
+
 
 ### Android Logcat
 
