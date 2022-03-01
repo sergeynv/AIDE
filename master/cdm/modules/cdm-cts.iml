@@ -9,6 +9,7 @@
       <sourceFolder url="file:///android/master/cts/tests/tests/companion/common/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/cts/tests/tests/companion/core/src" isTestSource="true" />
       <sourceFolder url="file:///android/master/cts/tests/tests/companion/uiautomation/src" isTestSource="true" />
+      <sourceFolder url="file:///android/master/cts/tests/tests/companion/noservices/src" isTestSource="true" />
     </content>
     <content url="file:///android/master/cts/tests/tests/os">
       <sourceFolder url="file:///android/master/cts/tests/tests/os/CompanionTestApp/src" isTestSource="false" />
