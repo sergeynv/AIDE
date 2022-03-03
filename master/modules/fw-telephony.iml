@@ -2,12 +2,12 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file:///android/master/frameworks/base/telephony">
-      <sourceFolder url="file:///android/master/frameworks/base/telephony/java" isTestSource="false" />
-      <sourceFolder url="file:///android/master/frameworks/base/telephony/common" isTestSource="false" />
+    <content url="file://$ANDROID_TREE$/frameworks/base/telephony">
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/telephony/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/telephony/common" isTestSource="false" />
     </content>
+    <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

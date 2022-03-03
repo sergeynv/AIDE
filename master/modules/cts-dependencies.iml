@@ -2,19 +2,15 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file:///android/master/cts/common/device-side/util-axt">
-      <sourceFolder url="file:///android/master/cts/common/device-side/util-axt/src" isTestSource="false" />
-      <sourceFolder url="file:///android/master/cts/common/device-side/util-axt/tests/src" isTestSource="true" />
+    <content url="file://$ANDROID_TREE$/external/junit">
+      <sourceFolder url="file://$ANDROID_TREE$/external/junit/src/main/java" isTestSource="false" />
     </content>
-    <content url="file:///android/master/external/junit">
-      <sourceFolder url="file:///android/master/external/junit/src/main/java" isTestSource="false" />
+    <content url="file://$ANDROID_TREE$/external/junit-params">
+      <sourceFolder url="file://$ANDROID_TREE$/external/junit-params/src/main/java" isTestSource="false" />
     </content>
-    <content url="file:///android/master/external/junit-params">
-      <sourceFolder url="file:///android/master/external/junit-params/src/main/java" isTestSource="false" />
-    </content>
-    <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="cts-dependencies-gen" exported="" />
+    <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
   </component>
 </module>

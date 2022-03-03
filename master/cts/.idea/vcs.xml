@@ -35,7 +35,7 @@
     </option>
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="/android/master/cts" vcs="Git" />
+    <mapping directory="$ANDROID_TREE$/cts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
   </component>
 </project>

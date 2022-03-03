@@ -2,8 +2,8 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file:///android/master/frameworks/base/graphics">
-      <sourceFolder url="file:///android/master/frameworks/base/graphics/java" isTestSource="false" />
+    <content url="file://$ANDROID_TREE$/frameworks/base/graphics">
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/graphics/java" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />

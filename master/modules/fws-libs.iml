@@ -2,13 +2,13 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file:///android/master/frameworks/libs/modules-utils">
-      <sourceFolder url="file:///android/master/frameworks/libs/modules-utils/java" isTestSource="false" />
-      <sourceFolder url="file:///android/master/frameworks/libs/modules-utils/build/tests" isTestSource="true" />
-      <sourceFolder url="file:///android/master/frameworks/libs/modules-utils/javatests" isTestSource="true" />
+    <content url="file://$ANDROID_TREE$/frameworks/libs/modules-utils">
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/libs/modules-utils/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/libs/modules-utils/build/tests" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/libs/modules-utils/javatests" isTestSource="true" />
     </content>
+    <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

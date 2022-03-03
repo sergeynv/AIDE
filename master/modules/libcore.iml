@@ -2,51 +2,42 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-
-    <content url="file:///android/master/libcore/libart">
-      <sourceFolder url="file:///android/master/libcore/libart/src/main/java" isTestSource="false" />
+    <content url="file://$ANDROID_TREE$/libcore/dalvik">
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/dalvik/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/dalvik/test-rules/src/main/java" isTestSource="false" />
     </content>
-
-    <content url="file:///android/master/libcore/luni">
-      <sourceFolder url="file:///android/master/libcore/luni/src/main/java" isTestSource="false" />
-      <sourceFolder url="file:///android/master/libcore/luni/src/main/native" isTestSource="false" />
-      <sourceFolder url="file:///android/master/libcore/luni/src/benchmark/native" isTestSource="false" />
-      <sourceFolder url="file:///android/master/libcore/luni/src/test/java" isTestSource="true" />
+    <content url="file://$ANDROID_TREE$/libcore/json">
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/json/src/main/java" isTestSource="false" />
     </content>
-
-    <content url="file:///android/master/libcore/ojluni">
-      <sourceFolder url="file:///android/master/libcore/ojluni/src/lambda/java" isTestSource="false" />
-      <sourceFolder url="file:///android/master/libcore/ojluni/src/main/java" isTestSource="false" />
-      <sourceFolder url="file:///android/master/libcore/ojluni/src/main/native" isTestSource="false" />
-      <sourceFolder url="file:///android/master/libcore/ojluni/src/test/java" isTestSource="true" />
-      <sourceFolder url="file:///android/master/libcore/ojluni/src/test/javax" isTestSource="true" />
-      <sourceFolder url="file:///android/master/libcore/ojluni/src/tools" isTestSource="true" />
+    <content url="file://$ANDROID_TREE$/libcore/libart">
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/libart/src/main/java" isTestSource="false" />
     </content>
-
-    <content url="file:///android/master/libcore/dalvik">
-      <sourceFolder url="file:///android/master/libcore/dalvik/src/main/java" isTestSource="false" />
-      <sourceFolder url="file:///android/master/libcore/dalvik/test-rules/src/main/java" isTestSource="false" />
+    <content url="file://$ANDROID_TREE$/libcore/luni">
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/luni/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/luni/src/main/native" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/luni/src/benchmark/native" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/luni/src/test/java" isTestSource="true" />
     </content>
-
-    <content url="file:///android/master/libcore/json">
-      <sourceFolder url="file:///android/master/libcore/json/src/main/java" isTestSource="false" />
+    <content url="file://$ANDROID_TREE$/libcore/ojluni">
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/ojluni/src/lambda/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/ojluni/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/ojluni/src/main/native" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/ojluni/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/ojluni/src/test/javax" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/ojluni/src/tools" isTestSource="true" />
     </content>
-
-    <content url="file:///android/master/libcore/support">
-      <sourceFolder url="file:///android/master/libcore/support/src/test/java" isTestSource="false" />
+    <content url="file://$ANDROID_TREE$/libcore/support">
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/support/src/test/java" isTestSource="false" />
     </content>
-
-    <content url="file:///android/master/libcore/test-rules">
-      <sourceFolder url="file:///android/master/libcore/test-rules/src/main/java" isTestSource="false" />
-      <sourceFolder url="file:///android/master/libcore/test-rules/src/platform_compat/java/libcore/junit/util" isTestSource="false" />
+    <content url="file://$ANDROID_TREE$/libcore/test-rules">
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/test-rules/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/test-rules/src/platform_compat/java/libcore/junit/util" isTestSource="false" />
     </content>
-
-    <content url="file:///android/master/libcore/xml/src/main/java">
-      <sourceFolder url="file:///android/master/libcore/xml/src/main/java" isTestSource="false" />
+    <content url="file://$ANDROID_TREE$/libcore/xml/src/main/java">
+      <sourceFolder url="file://$ANDROID_TREE$/libcore/xml/src/main/java" isTestSource="false" />
     </content>
-
+    <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
