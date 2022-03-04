@@ -3,10 +3,9 @@
 <component name="ProjectModuleManager">
   <modules>
     <module fileurl="file://$PROJECT_DIR$/modules/all-dependencies.iml" filepath="$PROJECT_DIR$/all-dependencies.iml" />
-    <module fileurl="file://$PROJECT_DIR$/modules/test-app.iml" filepath="$PROJECT_DIR$/modules/test-app.iml" />
     <module fileurl="file://$PROJECT_DIR$/modules/shared/androidx.iml" filepath="$PROJECT_DIR$/modules/shared/androidx.iml" />
-    <module fileurl="file://$PROJECT_DIR$/modules/shared/prebuilts-extras.iml" filepath="$PROJECT_DIR$/modules/shared/prebuilts-extras.iml" />
     <module fileurl="file://$PROJECT_DIR$/modules/shared/debugger-enablement/debugger-enablement.iml" filepath="$PROJECT_DIR$/modules/shared/debugger-enablement/debugger-enablement.iml" />
+    <module fileurl="file://$PROJECT_DIR$/modules/shared/external.iml" filepath="$PROJECT_DIR$/modules/shared/external.iml" />
     <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-apex.iml" filepath="$PROJECT_DIR$/modules/shared/fw-apex.iml" />
     <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-core.iml" filepath="$PROJECT_DIR$/modules/shared/fw-core.iml" />
     <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-data.iml" filepath="$PROJECT_DIR$/modules/shared/fw-data.iml" />
@@ -19,7 +18,9 @@
     <module fileurl="file://$PROJECT_DIR$/modules/shared/kotlin.iml" filepath="$PROJECT_DIR$/modules/shared/kotlin.iml" />
     <module fileurl="file://$PROJECT_DIR$/modules/shared/libcore.iml" filepath="$PROJECT_DIR$/modules/shared/libcore.iml" />
     <module fileurl="file://$PROJECT_DIR$/modules/shared/pkgs-modules.iml" filepath="$PROJECT_DIR$/modules/shared/pkgs-modules.iml" />
+    <module fileurl="file://$PROJECT_DIR$/modules/shared/prebuilts-extras.iml" filepath="$PROJECT_DIR$/modules/shared/prebuilts-extras.iml" />
     <module fileurl="file://$PROJECT_DIR$/modules/shared/tools.iml" filepath="$PROJECT_DIR$/modules/shared/tools.iml" />
+    <module fileurl="file://$PROJECT_DIR$/modules/test-app.iml" filepath="$PROJECT_DIR$/modules/test-app.iml" />
   </modules>
 </component>
 </project>
