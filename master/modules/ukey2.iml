@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$ANDROID_TREE$/external/ukey2">
+      <sourceFolder url="file://$ANDROID_TREE$/external/ukey2/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/external/ukey2/src/main/javatest" isTestSource="true" />
+    </content>
+    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/external/ukey2/ukey2/android_common/gen/proto/proto0.srcjar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/external/ukey2/ukey2/android_common/gen/proto/proto0.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>
