@@ -19,7 +19,6 @@
     <orderEntry type="module" module-name="kotlin" exported="" />
     <orderEntry type="module" module-name="cts-dependencies" exported="" />
     <orderEntry type="module" module-name="tools" exported="" />
-    <orderEntry type="module" module-name="ukey2" exported="" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
