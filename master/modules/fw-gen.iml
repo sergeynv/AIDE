@@ -119,6 +119,12 @@
     <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl9.srcjar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl9.srcjar!/" isTestSource="false" generated="true" />
     </content>
+
+    <!-- CDM Protos -->
+    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/services/companion/services.companion/android_common/gen/proto/proto0.srcjar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/services/companion/services.companion/android_common/gen/proto/proto0.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
