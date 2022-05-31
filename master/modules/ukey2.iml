@@ -12,8 +12,9 @@
     <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/external/ukey2/ukey2_droid/android_common/gen/proto/proto0.srcjar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/external/ukey2/ukey2_droid/android_common/gen/proto/proto0.srcjar!/" isTestSource="false" generated="true" />
     </content>
-    <orderEntry type="module" module-name="guava" />
-    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="guava" />
+    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="inheritedJdk" />
   </component>
 </module>
