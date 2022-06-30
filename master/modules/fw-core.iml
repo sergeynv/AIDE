@@ -87,6 +87,7 @@
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/core/tests/utillib/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/core/tests/utiltests/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/core/tests/batterystatstests/BatteryStatsViewer/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/core/tests/companiontests/src" isTestSource="true" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />

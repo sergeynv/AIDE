@@ -1047,6 +1047,9 @@
       <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/companion/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/companion/CompanionDeviceTestApp/res" type="java-resource" />
       <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/companion/CompanionDeviceTestApp/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/companion/common/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/companion/core/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/companion/uiautomation/src" isTestSource="false" />
     </content>
     <content url="file://$ANDROID_TREE$/out/soong/.intermediates/cts">
       <sourceFolder url="file://$ANDROID_TREE$/out/soong/.intermediates/cts/tests/tests/companion/CompanionDeviceTestApp/CtsCompanionDeviceTestApp/android_common/gen/aapt2/R" isTestSource="false" generated="true" />
