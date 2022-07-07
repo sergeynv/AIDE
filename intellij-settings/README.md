@@ -86,7 +86,7 @@ Stored in `$PROJECT_HOME/.idea/workspace.xml`:
   ...
 </project>  
 ```
-Template stored in `AIDE/settings/logcat_filters.xml`
+Template stored in `intellij-settings/logcat_filters.xml`
 
 #### Colors
 `Setting > Editor > Color Scheme > Android Logcat > AIDE`

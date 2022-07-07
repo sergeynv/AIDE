@@ -24,6 +24,6 @@ alias ast-stable="/opt/android-studio-with-blaze-stable/bin/studio.sh"
 
 
 
-alias base="idea ${__AIDE_HOME}/master/core+services"
-alias cdm="idea ${__AIDE_HOME}/master/cdm"
-alias cts="idea ${__AIDE_HOME}/master/cts"
+alias base="idea ${__AIDE_HOME}/intellij-projects/core+services"
+alias cdm="idea ${__AIDE_HOME}/intellij-projects/cdm"
+alias cts="idea ${__AIDE_HOME}/intellij-projects/cts"
