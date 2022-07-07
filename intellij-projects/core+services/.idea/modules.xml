@@ -3,18 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/modules/all-dependencies.iml" filepath="$PROJECT_DIR$/all-dependencies.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/shared/debugger-enablement/debugger-enablement.iml" filepath="$PROJECT_DIR$/modules/shared/debugger-enablement/debugger-enablement.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-apex.iml" filepath="$PROJECT_DIR$/modules/shared/fw-apex.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-core.iml" filepath="$PROJECT_DIR$/modules/shared/fw-core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-gen.iml" filepath="$PROJECT_DIR$/modules/shared/fw-gen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-graphics.iml" filepath="$PROJECT_DIR$/modules/shared/fw-graphics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-keystore.iml" filepath="$PROJECT_DIR$/modules/shared/fw-keystore.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-services.iml" filepath="$PROJECT_DIR$/modules/shared/fw-services.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/shared/fw-telephony.iml" filepath="$PROJECT_DIR$/modules/shared/fw-telephony.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/shared/fws-libs.iml" filepath="$PROJECT_DIR$/modules/shared/fws-libs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/shared/libcore.iml" filepath="$PROJECT_DIR$/modules/shared/libcore.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/shared/pkgs-modules.iml" filepath="$PROJECT_DIR$/modules/shared/pkgs-modules.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/shared/tools.iml" filepath="$PROJECT_DIR$/modules/shared/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/debugger-enablement/debugger-enablement.iml" filepath="$PROJECT_DIR$/modules/common/debugger-enablement/debugger-enablement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-apex.iml" filepath="$PROJECT_DIR$/modules/common/fw-apex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-core.iml" filepath="$PROJECT_DIR$/modules/common/fw-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-gen.iml" filepath="$PROJECT_DIR$/modules/common/fw-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-graphics.iml" filepath="$PROJECT_DIR$/modules/common/fw-graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-keystore.iml" filepath="$PROJECT_DIR$/modules/common/fw-keystore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-services.iml" filepath="$PROJECT_DIR$/modules/common/fw-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-telephony.iml" filepath="$PROJECT_DIR$/modules/common/fw-telephony.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fws-libs.iml" filepath="$PROJECT_DIR$/modules/common/fws-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/libcore.iml" filepath="$PROJECT_DIR$/modules/common/libcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/pkgs-modules.iml" filepath="$PROJECT_DIR$/modules/common/pkgs-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/tools.iml" filepath="$PROJECT_DIR$/modules/common/tools.iml" />
     </modules>
   </component>
 </project>
