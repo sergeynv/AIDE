@@ -34,6 +34,11 @@ function idea-link-configs() {
     __exec ln -sf \
         ${__AIDE_HOME}/intellij-settings/configs/colors_AIDE-Dracula.icls \
         ${__INTELLIJ_IDEA_CONFIGS}/colors/AIDE-Dracula.icls
+
+    __exec mkdir -p ${__INTELLIJ_IDEA_CONFIGS}/keymaps
+    __exec ln -sf \
+        ${__AIDE_HOME}/intellij-settings/configs/keymap-sergeynv-linux-gnome-based.xml \
+        ${__INTELLIJ_IDEA_CONFIGS}/keymaps/'sergeynv\ _GNOME-based_.xml'
 }
 
 # Android Studio with Blaze
