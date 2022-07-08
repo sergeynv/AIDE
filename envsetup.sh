@@ -24,6 +24,12 @@ function idea-link-configs() {
     __exec ln -sf \
         ${__AIDE_HOME}/intellij-settings/configs/paths.xml \
         ${__INTELLIJ_IDEA_CONFIGS}/options/path.macros.xml
+    __exec ln -sf \
+        ${__AIDE_HOME}/intellij-settings/configs/editor.xml \
+        ${__INTELLIJ_IDEA_CONFIGS}/options/editor.xml
+    __exec ln -sf \
+        ${__AIDE_HOME}/intellij-settings/configs/editor-font.xml \
+        ${__INTELLIJ_IDEA_CONFIGS}/options/editor-font.xml
 
     __exec mkdir -p ${__INTELLIJ_IDEA_CONFIGS}/codestyles
     __exec ln -sf \
