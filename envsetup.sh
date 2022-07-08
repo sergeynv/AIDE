@@ -5,7 +5,7 @@ alias jb-configs="cd ${__JETBRAINS_CONFIGS}"
 
 
 # IntelliJ IDEA
-__INTELLIJ_IDEA_VERSION="2021.2" # /opt/intellij-ce-2021.2
+__INTELLIJ_IDEA_VERSION="2021.3" # /opt/intellij-ce-2021.3
 __INTELLIJ_IDEA_CONFIGS="${__JETBRAINS_CONFIGS}/IdeaIC${__INTELLIJ_IDEA_VERSION}"
 
 alias idea="/opt/intellij-ce-${__INTELLIJ_IDEA_VERSION}/bin/idea.sh"
@@ -17,15 +17,20 @@ alias idea-bins="ls -ld /opt/intellij-ce-*"
 alias idea-stable="/opt/intellij-ce-stable/bin/idea.sh"
 
 function idea-link-configs() {
+    __exec mkdir -p ${__INTELLIJ_IDEA_CONFIGS}/options
     __exec ln -sf \
         ${__AIDE_HOME}/intellij-settings/configs/sdks.xml \
         ${__INTELLIJ_IDEA_CONFIGS}/options/jdk.table.xml
     __exec ln -sf \
         ${__AIDE_HOME}/intellij-settings/configs/paths.xml \
         ${__INTELLIJ_IDEA_CONFIGS}/options/path.macros.xml
+
+    __exec mkdir -p ${__INTELLIJ_IDEA_CONFIGS}/codestyles
     __exec ln -sf \
         ${__AIDE_HOME}/intellij-settings/configs/codestyle_AIDE.xml \
         ${__INTELLIJ_IDEA_CONFIGS}/codestyles/AIDE.xml
+
+    __exec mkdir -p ${__INTELLIJ_IDEA_CONFIGS}/colors
     __exec ln -sf \
         ${__AIDE_HOME}/intellij-settings/configs/colors_AIDE-Dracula.icls \
         ${__INTELLIJ_IDEA_CONFIGS}/colors/AIDE-Dracula.icls
