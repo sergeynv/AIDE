@@ -8,6 +8,7 @@
     <orderEntry type="module" module-name="fw-gen" exported="" />
     <orderEntry type="module" module-name="fw-keystore" exported="" />
     <orderEntry type="module" module-name="fw-telephony" exported="" />
+    <orderEntry type="module" module-name="fw-test-base" exported="" />
     <orderEntry type="module" module-name="fw-graphics" exported="" />
     <orderEntry type="module" module-name="fw-apex" exported="" />
     <orderEntry type="module" module-name="fws-libs" exported="" />

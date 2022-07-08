@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/common/fw-keystore.iml" filepath="$PROJECT_DIR$/modules/common/fw-keystore.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/common/fw-services.iml" filepath="$PROJECT_DIR$/modules/common/fw-services.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/common/fw-telephony.iml" filepath="$PROJECT_DIR$/modules/common/fw-telephony.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-test-base.iml" filepath="$PROJECT_DIR$/modules/common/fw-test-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/common/fws-libs.iml" filepath="$PROJECT_DIR$/modules/common/fws-libs.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/common/libcore.iml" filepath="$PROJECT_DIR$/modules/common/libcore.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/common/pkgs-modules.iml" filepath="$PROJECT_DIR$/modules/common/pkgs-modules.iml" />
