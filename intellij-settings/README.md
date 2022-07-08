@@ -9,6 +9,7 @@
       - `MAVEN_REPOSITORY`
    - `codestyles/AIDE.xml` -> `intellij-settings/configs/codestyle_AIDE.xml`
    - `colors/AIDE-Dracula.icls` -> `intellij-settings/configs/colors_AIDE-Dracula.icls`
+   - `keymaps/'sergeynv _GNOME-based_.xml'` -> `intellij-settings/configs/keymap-sergeynv-linux-gnome-based.xml`
 - Run: `. envsetup.sh && idea-link-configs`
 
 ## SDKs
