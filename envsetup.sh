@@ -16,6 +16,20 @@ alias idea-paths="subl ${__INTELLIJ_IDEA_CONFIGS}/options/path.macros.xml"
 alias idea-bins="ls -ld /opt/intellij-ce-*"
 alias idea-stable="/opt/intellij-ce-stable/bin/idea.sh"
 
+function idea-link-configs() {
+    __exec ln -sf \
+        ${__AIDE_HOME}/intellij-settings/configs/sdks.xml \
+        ${__INTELLIJ_IDEA_CONFIGS}/options/jdk.table.xml
+    __exec ln -sf \
+        ${__AIDE_HOME}/intellij-settings/configs/paths.xml \
+        ${__INTELLIJ_IDEA_CONFIGS}/options/path.macros.xml
+    __exec ln -sf \
+        ${__AIDE_HOME}/intellij-settings/configs/codestyle_AIDE.xml \
+        ${__INTELLIJ_IDEA_CONFIGS}/codestyles/AIDE.xml
+    __exec ln -sf \
+        ${__AIDE_HOME}/intellij-settings/configs/colors_AIDE-Dracula.icls \
+        ${__INTELLIJ_IDEA_CONFIGS}/colors/AIDE-Dracula.icls
+}
 
 # Android Studio with Blaze
 __ASwB_VERSION="2020.3" # /opt/android-studio-with-blaze-2020.3
@@ -37,3 +51,15 @@ alias croot="cd ${__AIDE_HOME}"
 alias base="idea ${__AIDE_HOME}/intellij-projects/core+services"
 alias cdm="idea ${__AIDE_HOME}/intellij-projects/cdm"
 alias cts="idea ${__AIDE_HOME}/intellij-projects/cts"
+
+
+# Utilities
+__EXEC_DRY_RUN=0
+function __exec() {
+   cmd="$@"
+   echo $cmd
+
+   if [[ __EXEC_DRY_RUN -eq 0 ]]; then
+      $cmd
+   fi
+}
