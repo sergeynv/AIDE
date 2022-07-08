@@ -7,6 +7,8 @@
       - `KOTLIN_BUNDLED` 
          - Might depend on version! (E.g.: `~/.local/share/JetBrains/IdeaIC2021.2/Kotlin/kotlinc`)
       - `MAVEN_REPOSITORY`
+   - `options/editor.xml` -> `intellij-settings/configs/editor.xml`
+   - `options/editor-font.xml` -> `intellij-settings/configs/editor-font.xml`
    - `codestyles/AIDE.xml` -> `intellij-settings/configs/codestyle_AIDE.xml`
    - `colors/AIDE-Dracula.icls` -> `intellij-settings/configs/colors_AIDE-Dracula.icls`
    - `keymaps/'sergeynv _GNOME-based_.xml'` -> `intellij-settings/configs/keymap-sergeynv-linux-gnome-based.xml`
@@ -22,10 +24,11 @@
 
 
 ## Keymaps
-- Import `exports/keymaps.zip`
-- `Settings > Keymap`
-  - IntellijIDEA: `sergeynv (GNOME-based)`
-  - ASwB: `sergeynv-as (GNOME-based)` 
+- Setup: 
+   - `Settings > Keymap > sergeynv (GNOME-based)` (or `sergeynv-as (GNOME-based)`)
+   - `keymaps/'sergeynv _GNOME-based_.xml'` -> `intellij-settings/configs/keymap-sergeynv-linux-gnome-based.xml`
+- Alternatively(?): 
+   - Import `exports/keymaps.zip`
 
 
 ## Code Styles
@@ -45,7 +48,12 @@
 - General
    - `Setting > Appearance & Behavior > Appearance`
       - Theme: *Dracula*
-      - User custom font: *Cantarell*, Size: *15*
+      - Font (custom): *Cantarell - 15*
+- Editor
+   - `Setting > Editor > Font`
+      - Font: *Droid Sans Mono - Regular - 14*
+   - `options/editor.xml` -> `intellij-settings/configs/editor.xml`
+   - `options/editor-font.xml` -> `intellij-settings/configs/editor-font.xml`
 - Color Scheme
    - `${__INTELLIJ_IDEA_CONFIGS}/colors/AIDE-Dracula.icls -> ${__AIDE_HOME}/intellij-settings/colors_AIDE-Dracula.icls`
    - `Setting > Editor > Color Scheme > AIDE-Dracula`
