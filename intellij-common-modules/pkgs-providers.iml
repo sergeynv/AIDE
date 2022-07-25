@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$ANDROID_TREE$/packages/providers">
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/BlockedNumberProvider/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/BlockedNumberProvider/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/BlockedNumberProvider/tests/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/BookmarkProvider/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/BookmarkProvider/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/CalendarProvider/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/CalendarProvider/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/CalendarProvider/tests/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/CallLogProvider/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/CallLogProvider/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/CallLogProvider/tests/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/ContactsProvider/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/ContactsProvider/src/com" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/ContactsProvider/test_common/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/ContactsProvider/tests/res" type="java-test-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/ContactsProvider/tests/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/DownloadProvider/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/DownloadProvider/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/DownloadProvider/tests/permission/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/DownloadProvider/tests/public_api_access/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/DownloadProvider/tests/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/DownloadProvider/ui/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/DownloadProvider/ui/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/apex/framework/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/apex/permissions" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/errorprone/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/jni" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/legacy/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/tests/client/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/tests/client/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/tests/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/tests/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/tests/test_app/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/tests/utils/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/tools/dialogs/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/tools/photopicker-gradle/app/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/tools/photopicker/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/tools/photopicker/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/PartnerBookmarksProvider/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/PartnerBookmarksProvider/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/PartnerBookmarksProvider/tests/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/TelephonyProvider/assets" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/TelephonyProvider/proto/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/TelephonyProvider/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/TelephonyProvider/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/TelephonyProvider/tests/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/TvProvider/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/TvProvider/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/TvProvider/tests/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/UserDictionaryProvider/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/providers/UserDictionaryProvider/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>
