@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/common/fws-libs.iml" filepath="$PROJECT_DIR$/modules/common/fws-libs.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/common/libcore.iml" filepath="$PROJECT_DIR$/modules/common/libcore.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/common/pkgs-modules.iml" filepath="$PROJECT_DIR$/modules/common/pkgs-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/pkgs-providers.iml" filepath="$PROJECT_DIR$/modules/common/pkgs-providers.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/common/tools.iml" filepath="$PROJECT_DIR$/modules/common/tools.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/common/AIDE.iml" filepath="$PROJECT_DIR$/modules/common/AIDE.iml" />
     </modules>
