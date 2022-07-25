@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$ANDROID_TREE$/tools/loganalysis/src">
+      <sourceFolder url="file://$ANDROID_TREE$/tools/loganalysis/src" isTestSource="false" />
+    </content>
+    <content url="file://$ANDROID_TREE$/tools/metalava">
+      <sourceFolder url="file://$ANDROID_TREE$/tools/metalava/stub-annotations/src/main/java" isTestSource="false" />
+    </content>
+    <content url="file://$ANDROID_TREE$/tools/platform-compat">
+      <sourceFolder url="file://$ANDROID_TREE$/tools/platform-compat/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/tools/platform-compat/javatest" isTestSource="true" />
+    </content>
+    <content url="file://$ANDROID_TREE$/tools/tradefederation">
+      <sourceFolder url="file://$ANDROID_TREE$/tools/tradefederation/core/aoa_helper/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/tools/tradefederation/core/clearcut_client" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/tools/tradefederation/core/common_util" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/tools/tradefederation/core/device_build_interfaces" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/tools/tradefederation/core/global_configuration" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/tools/tradefederation/core/invocation_interfaces" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/tools/tradefederation/core/lite" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/tools/tradefederation/core/remote/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/tools/tradefederation/core/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/tools/tradefederation/core/test_framework" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/tools/tradefederation/core/test_result_interfaces" isTestSource="false" />
+    </content>
+    <content url="file://$ANDROID_TREE$/tools/trebuchet">
+      <sourceFolder url="file://$ANDROID_TREE$/tools/trebuchet/core/common/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/tools/trebuchet/core/common/src/main/kotlin/trebuchet/queries" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/tools/trebuchet/core/model/src/main/kotlin" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>

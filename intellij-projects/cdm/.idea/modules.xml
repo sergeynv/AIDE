@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modules/all-dependencies.iml" filepath="$PROJECT_DIR$/all-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/cdm-cts.iml" filepath="$PROJECT_DIR$/cdm-cts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/cdm-ui.iml" filepath="$PROJECT_DIR$/cdm-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/androidx-test.iml" filepath="$PROJECT_DIR$/modules/common/androidx-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/androidx.iml" filepath="$PROJECT_DIR$/modules/common/androidx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/cts-dependencies-gen.iml" filepath="$PROJECT_DIR$/cts-dependencies-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/cts-dependencies.iml" filepath="$PROJECT_DIR$/cts-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/debugger-enablement/debugger-enablement.iml" filepath="$PROJECT_DIR$/modules/common/debugger-enablement/debugger-enablement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-apex.iml" filepath="$PROJECT_DIR$/modules/common/fw-apex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-core.iml" filepath="$PROJECT_DIR$/modules/common/fw-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-data.iml" filepath="$PROJECT_DIR$/modules/common/fw-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-gen.iml" filepath="$PROJECT_DIR$/modules/common/fw-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-graphics.iml" filepath="$PROJECT_DIR$/modules/common/fw-graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-keystore.iml" filepath="$PROJECT_DIR$/modules/common/fw-keystore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-services.iml" filepath="$PROJECT_DIR$/modules/common/fw-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-telephony.iml" filepath="$PROJECT_DIR$/modules/common/fw-telephony.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-test-base.iml" filepath="$PROJECT_DIR$/modules/common/fw-test-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fws-libs.iml" filepath="$PROJECT_DIR$/modules/common/fws-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/guava.iml" filepath="$PROJECT_DIR$/modules/common/guava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/kotlin.iml" filepath="$PROJECT_DIR$/modules/common/kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/libcore.iml" filepath="$PROJECT_DIR$/modules/common/libcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/pkgs-modules.iml" filepath="$PROJECT_DIR$/modules/common/pkgs-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/prebuilts-extras.iml" filepath="$PROJECT_DIR$/modules/common/prebuilts-extras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/tools.iml" filepath="$PROJECT_DIR$/modules/common/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/ukey2.iml" filepath="$PROJECT_DIR$/modules/common/ukey2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/AIDE.iml" filepath="$PROJECT_DIR$/modules/common/AIDE.iml" />
+    </modules>
+  </component>
+</project>

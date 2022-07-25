@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modules/all-dependencies.iml" filepath="$PROJECT_DIR$/modules/all-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/cts.iml" filepath="$PROJECT_DIR$/modules/cts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/androidx-test.iml" filepath="$PROJECT_DIR$/modules/common/androidx-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/cts-dependencies.iml" filepath="$PROJECT_DIR$/cts-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/debugger-enablement/debugger-enablement.iml" filepath="$PROJECT_DIR$/modules/common/debugger-enablement/debugger-enablement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-core.iml" filepath="$PROJECT_DIR$/modules/common/fw-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-gen.iml" filepath="$PROJECT_DIR$/modules/common/fw-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/fw-graphics.iml" filepath="$PROJECT_DIR$/modules/common/fw-graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/kotlin.iml" filepath="$PROJECT_DIR$/modules/common/kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/AIDE.iml" filepath="$PROJECT_DIR$/modules/common/AIDE.iml" />
+    </modules>
+  </component>
+</project>

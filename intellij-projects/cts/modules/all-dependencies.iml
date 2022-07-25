@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="module" module-name="fw-core" exported="" />
+    <orderEntry type="module" module-name="fw-gen" exported="" />
+    <orderEntry type="module" module-name="fw-graphics" exported="" />
+    <orderEntry type="module" module-name="androidx-test" exported="" />
+    <orderEntry type="module" module-name="kotlin" exported="" />
+    <orderEntry type="module" module-name="cts-dependencies" exported="" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

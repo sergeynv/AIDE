@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$ANDROID_TREE$/cts/tests/tests/companion">
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/companion/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/companion/CompanionDeviceTestApp/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/companion/CompanionDeviceTestApp/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/companion/common/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/companion/core/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/companion/uiautomation/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/companion/noservices/src" isTestSource="true" />
+    </content>
+    <content url="file://$ANDROID_TREE$/cts/tests/tests/os">
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/os/CompanionTestApp/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/tests/os/src" isTestSource="true" />
+    </content>
+    <content url="file://$ANDROID_TREE$/out/soong/.intermediates/cts/tests/tests/companion">
+      <sourceFolder url="file://$ANDROID_TREE$/out/soong/.intermediates/cts/tests/tests/companion/CompanionDeviceTestApp/CtsCompanionDeviceTestApp/android_common/gen/aapt2/R" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>
