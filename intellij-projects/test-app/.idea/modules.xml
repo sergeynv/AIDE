@@ -21,6 +21,7 @@
     <module fileurl="file://$PROJECT_DIR$/modules/common/prebuilts-extras.iml" filepath="$PROJECT_DIR$/modules/common/prebuilts-extras.iml" />
     <module fileurl="file://$PROJECT_DIR$/modules/common/tools.iml" filepath="$PROJECT_DIR$/modules/common/tools.iml" />
     <module fileurl="file://$PROJECT_DIR$/modules/test-app.iml" filepath="$PROJECT_DIR$/modules/test-app.iml" />
+    <module fileurl="file://$PROJECT_DIR$/modules/common/AIDE.iml" filepath="$PROJECT_DIR$/modules/common/AIDE.iml" />
   </modules>
 </component>
 </project>

@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/common/fw-gen.iml" filepath="$PROJECT_DIR$/modules/common/fw-gen.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/common/fw-graphics.iml" filepath="$PROJECT_DIR$/modules/common/fw-graphics.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/common/kotlin.iml" filepath="$PROJECT_DIR$/modules/common/kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/AIDE.iml" filepath="$PROJECT_DIR$/modules/common/AIDE.iml" />
     </modules>
   </component>
 </project>
