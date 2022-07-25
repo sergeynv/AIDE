@@ -1,5 +1,5 @@
 # JetBrains
-__JETBRAINS_CONFIGS="/usr/local/google/home/sergeynv/.config/JetBrains"
+__JETBRAINS_CONFIGS="${HOME}/.config/JetBrains"
 
 alias jb-configs="cd ${__JETBRAINS_CONFIGS}"
 
@@ -60,7 +60,7 @@ alias aswb-stable="/opt/android-studio-with-blaze-stable/bin/studio.sh"
 
 
 # AIDE
-__AIDE_HOME="/usr/local/google/home/sergeynv/Desktop/AIDE"
+__AIDE_HOME="${HOME}/Desktop/AIDE"
 
 alias croot="cd ${__AIDE_HOME}"
 
