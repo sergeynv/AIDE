@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/modules/all-dependencies.iml" filepath="$PROJECT_DIR$/modules/all-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/cts.iml" filepath="$PROJECT_DIR$/modules/cts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/common/androidx.iml" filepath="$PROJECT_DIR$/modules/common/androidx.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/common/androidx-test.iml" filepath="$PROJECT_DIR$/modules/common/androidx-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/common/cts-dependencies.iml" filepath="$PROJECT_DIR$/cts-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/common/debugger-enablement/debugger-enablement.iml" filepath="$PROJECT_DIR$/modules/common/debugger-enablement/debugger-enablement.iml" />
