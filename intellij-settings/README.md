@@ -40,7 +40,7 @@
 - Android Code Style
    - [development/ide/intellij/codestyles/AndroidStyle.xml](https://source.corp.google.com/android/development/ide/intellij/codestyles/AndroidStyle.xml)
    - [tools/asuite/aidegen/data/AndroidStyle_aidegen.xml](https://source.corp.google.com/android/tools/asuite/aidegen/data/AndroidStyle_aidegen.xml)
-- Format Kotlin code (outside of IntellijIDEA/ASwB)
+- Format Kotlin code (outside IntellijIDEA/ASwB)
    - `<android-tree>/prebuilts/ktlint/ktlint.py --format --file <file-pahts>`
 
 
