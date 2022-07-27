@@ -39,7 +39,6 @@
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/services/tests/mockingservicestests/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/services/tests/mockingservicestests/utils-mockito" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/services/tests/servicestests/src" isTestSource="true" />
-      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/services/tests/servicestests/test-apps/ConnTestApp/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/services/tests/servicestests/test-apps/JobTestApp/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/services/tests/servicestests/test-apps/PackageParserApp/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/services/tests/servicestests/test-apps/SimpleServiceTestApp/src" isTestSource="true" />
