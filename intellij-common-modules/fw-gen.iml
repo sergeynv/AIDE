@@ -123,9 +123,18 @@
       <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-minus-apex/android_common/gen/aidl/aidl9.srcjar!/" isTestSource="false" generated="true" />
     </content>
 
-    <!-- CDM Protos -->
-    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/services/companion/services.companion/android_common/gen/proto/proto0.srcjar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/services/companion/services.companion/android_common/gen/proto/proto0.srcjar!/" isTestSource="false" generated="true" />
+    <!-- Framework Protos (see frameworks/base/ProtoLibraries.bp) -->
+    <!-- android.server.inputmethod.InputMethodManagerServiceProto -->
+    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/server/inputmethod/inputmethodmanagerservice.srcjar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/server/inputmethod/inputmethodmanagerservice.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <!-- android.view.inputmethod.InputMethodManagerProto -->
+    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/view/inputmethod/inputmethodmanager.srcjar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/view/inputmethod/inputmethodmanager.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+    <!-- android.view.inputmethod.InputMethodEditorTraceProto -->
+    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/view/inputmethod/inputmethodeditortrace.srcjar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/view/inputmethod/inputmethodeditortrace.srcjar!/" isTestSource="false" generated="true" />
     </content>
 
     <orderEntry type="sourceFolder" forTests="false" />
