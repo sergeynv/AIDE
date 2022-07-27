@@ -1,0 +1,41 @@
+<scheme name="AIDE-Dracula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-12-12T13:14:04</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2021.2.3.0.0</property>
+    <property name="modified">2021-12-12T13:14:19</property>
+    <property name="originalScheme">AIDE_Dracula</property>
+  </metaInfo>
+  <attributes>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d2500b" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5394ec" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff6b68" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5c962c" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="efc510" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
