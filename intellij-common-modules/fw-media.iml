@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$ANDROID_TREE$/frameworks/base/media">
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/lib/remotedisplay/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/lib/signer/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/lib/tvremote/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/lib/tvremote/tests/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/mca/effect/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/mca/filterfw/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/mca/filterpacks/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/mca/samples/CameraEffectsRecordingSample/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/mca/tests/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/packages/BluetoothMidiService/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/packages/BluetoothMidiService/tests/unit/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/tests/AudioPolicyTest/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/tests/CameraBrowser/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/tests/EffectsTest/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/tests/MediaDump/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/tests/MediaFrameworkTest/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/tests/MediaRouter/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/tests/MtpTests/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/tests/ScoAudioTest/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/tests/SoundPoolTest/src/com/android" isTestSource="false" packagePrefix="com.android.soundpooltest" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/tests/TunerTest/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/media/tests/aidltests/src/com/android/media" isTestSource="false" packagePrefix="android.media.audio.common" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
