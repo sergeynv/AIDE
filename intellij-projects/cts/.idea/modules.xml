@@ -13,7 +13,6 @@
       <module fileurl="file://$PROJECT_DIR$/common-modules/fw-graphics.iml" filepath="$PROJECT_DIR$/common-modules/fw-graphics.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/platform_testing.iml" filepath="$PROJECT_DIR$/common-modules/platform_testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/kotlin.iml" filepath="$PROJECT_DIR$/common-modules/kotlin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common-modules/AIDE.iml" filepath="$PROJECT_DIR$/common-modules/AIDE.iml" />
     </modules>
   </component>
 </project>

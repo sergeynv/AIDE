@@ -27,7 +27,6 @@
       <module fileurl="file://$PROJECT_DIR$/common-modules/prebuilts-extras.iml" filepath="$PROJECT_DIR$/common-modules/prebuilts-extras.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/tools.iml" filepath="$PROJECT_DIR$/common-modules/tools.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/ukey2.iml" filepath="$PROJECT_DIR$/common-modules/ukey2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common-modules/AIDE.iml" filepath="$PROJECT_DIR$/common-modules/AIDE.iml" />
     </modules>
   </component>
 </project>
