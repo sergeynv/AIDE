@@ -141,6 +141,23 @@
       <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/proto_logging/stats/enums/server/enums.srcjar!/" isTestSource="false" generated="true" />
     </content>
 
+    <!-- IMF Protos -->
+    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/proto/framework-protos/android_common/gen/proto/proto0.srcjar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/proto/framework-protos/android_common/gen/proto/proto0.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+
+    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/server/inputmethod/inputmethodmanagerservice.srcjar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/server/inputmethod/inputmethodmanagerservice.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+
+    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/view/inputmethod/inputmethodmanager.srcjar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/view/inputmethod/inputmethodmanager.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+
+    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/view/inputmethod/inputmethodeditortrace.srcjar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/view/inputmethod/inputmethodeditortrace.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
