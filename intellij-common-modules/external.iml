@@ -6,6 +6,10 @@
       <sourceFolder url="file://$ANDROID_TREE$/external/conscrypt/common/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/external/conscrypt/repackaged/common/src/main/java" isTestSource="false" />
     </content>
+    <content url="file://$ANDROID_TREE$/external/icu/android_icu4j">
+      <sourceFolder url="file://$ANDROID_TREE$/external/icu/android_icu4j/libcore_bridge/src/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/external/icu/android_icu4j/src/main/java" isTestSource="false" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />

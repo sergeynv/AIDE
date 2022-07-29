@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/common-modules/fw-telephony.iml" filepath="$PROJECT_DIR$/common-modules/fw-telephony.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/fw-test-base.iml" filepath="$PROJECT_DIR$/common-modules/fw-test-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/fws-libs.iml" filepath="$PROJECT_DIR$/common-modules/fws-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/art.iml" filepath="$PROJECT_DIR$/common-modules/art.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/external.iml" filepath="$PROJECT_DIR$/common-modules/external.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/libcore.iml" filepath="$PROJECT_DIR$/common-modules/libcore.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/pkgs-modules.iml" filepath="$PROJECT_DIR$/common-modules/pkgs-modules.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/pkgs-providers.iml" filepath="$PROJECT_DIR$/common-modules/pkgs-providers.iml" />

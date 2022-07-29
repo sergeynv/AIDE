@@ -13,6 +13,8 @@
     <orderEntry type="module" module-name="fw-media" exported="" />
     <orderEntry type="module" module-name="fw-apex" exported="" />
     <orderEntry type="module" module-name="fws-libs" exported="" />
+    <orderEntry type="module" module-name="art" exported="" />
+    <orderEntry type="module" module-name="external" exported="" />
     <orderEntry type="module" module-name="libcore" exported="" />
     <orderEntry type="module" module-name="pkgs-modules" exported="" />
     <orderEntry type="module" module-name="pkgs-providers" exported="" />
