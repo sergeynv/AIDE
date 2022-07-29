@@ -8,6 +8,9 @@
     <content url="file://$ANDROID_TREE$/external/junit-params">
       <sourceFolder url="file://$ANDROID_TREE$/external/junit-params/src/main/java" isTestSource="false" />
     </content>
+    <content url="file://$ANDROID_TREE$/external/testng">
+      <sourceFolder url="file://$ANDROID_TREE$/external/testng/src/main/java" isTestSource="false" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="cts-dependencies-gen" exported="" />
     <orderEntry type="module" module-name="all-dependencies" />
