@@ -1,9 +1,9 @@
 <keymap version="1" name="sergeynv (GNOME-based)" parent="Default for GNOME">
-  <action id="ActivateCommitToolWindow" />
-  <action id="ActivateDebugToolWindow" />
-  <action id="ActivateFavoritesToolWindow">
+  <action id="ActivateBookmarksToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
+  <action id="ActivateCommitToolWindow" />
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateProblemsViewToolWindow" />
   <action id="ActivateProjectToolWindow">
@@ -23,6 +23,11 @@
   <action id="Adtui.ZoomToActualAction">
     <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
+  <action id="Arrangement.Rule.Edit" />
+  <action id="BookmarksView.Rename" />
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -33,6 +38,8 @@
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.SplitLine" />
+  <action id="Debugger.EditArrayFilter" />
+  <action id="Debugger.EditCustomField" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowStandaloneDiff">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -57,13 +64,22 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="GotoBookmark0" />
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="GotoBookmark3" />
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
+  <action id="GotoNextError" />
   <action id="GotoTest" />
+  <action id="GuiDesigner.EditComponent" />
+  <action id="GuiDesigner.EditGroup" />
   <action id="GuiDesigner.ShrinkSelection" />
   <action id="KotlinShellExecute" />
   <action id="NextTab">
@@ -80,12 +96,24 @@
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
   <action id="ServiceView.ShowServices" />
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="ShowBookmarks" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="ShowTypeBookmarks" />
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
   <action id="SplitChooser.Duplicate" />
+  <action id="Table-startEditing" />
   <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="Tree-startEditing" />
   <action id="ViewSource" />
+  <action id="XDebugger.SetValue" />
 </keymap>
