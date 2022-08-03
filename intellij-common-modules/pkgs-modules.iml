@@ -185,6 +185,10 @@
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/service/java" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/service/tests/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Nearby/service/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Media/apex/aidl/private" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Media/apex/aidl/stable" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Media/apex/framework/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Media/apex/service/java" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
