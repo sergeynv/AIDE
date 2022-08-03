@@ -9,6 +9,7 @@
       - `MAVEN_REPOSITORY`
    - `options/editor.xml` -> `intellij-settings/configs/editor.xml`
    - `options/editor-font.xml` -> `intellij-settings/configs/editor-font.xml`
+   - `options/cachedDictionary.xml` -> `intellij-settings/configs/dictionary.xml`
    - `codestyles/AIDE.xml` -> `intellij-settings/configs/codestyle_AIDE.xml`
    - `colors/AIDE-Dracula.icls` -> `intellij-settings/configs/colors_AIDE-Dracula.icls`
    - `keymaps/'sergeynv _GNOME-based_.xml'` -> `intellij-settings/configs/keymap-sergeynv-linux-gnome-based.xml`
