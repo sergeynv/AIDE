@@ -36,6 +36,8 @@ __AIDE_HOME="${HOME}/Desktop/AIDE"
 
 alias croot="cd ${__AIDE_HOME}"
 
+# NOTE: may actually want to launch IDEA with `fw-base &> /dev/null &`
 alias fw-base="idea ${__AIDE_HOME}/intellij-projects/frameworks-base"
 alias cts="idea ${__AIDE_HOME}/intellij-projects/cts"
 alias cdm="idea ${__AIDE_HOME}/intellij-projects/cdm"
+alias storage="idea ${__AIDE_HOME}/intellij-projects/storage"

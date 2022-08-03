@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/all-dependencies.iml" filepath="$PROJECT_DIR$/all-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/documents-ui.iml" filepath="$PROJECT_DIR$/documents-ui.iml" />
+
+      <module fileurl="file://$PROJECT_DIR$/common-modules/debugger-enablement/debugger-enablement.iml" filepath="$PROJECT_DIR$/common-modules/debugger-enablement/debugger-enablement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/fw-apex.iml" filepath="$PROJECT_DIR$/common-modules/fw-apex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/fw-core.iml" filepath="$PROJECT_DIR$/common-modules/fw-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/fw-gen.iml" filepath="$PROJECT_DIR$/common-modules/fw-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/fw-graphics.iml" filepath="$PROJECT_DIR$/common-modules/fw-graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/fw-keystore.iml" filepath="$PROJECT_DIR$/common-modules/fw-keystore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/fw-media.iml" filepath="$PROJECT_DIR$/common-modules/fw-graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/fw-services.iml" filepath="$PROJECT_DIR$/common-modules/fw-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/fw-telephony.iml" filepath="$PROJECT_DIR$/common-modules/fw-telephony.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/fw-test-base.iml" filepath="$PROJECT_DIR$/common-modules/fw-test-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/fws-libs.iml" filepath="$PROJECT_DIR$/common-modules/fws-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/art.iml" filepath="$PROJECT_DIR$/common-modules/art.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/external.iml" filepath="$PROJECT_DIR$/common-modules/external.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/libcore.iml" filepath="$PROJECT_DIR$/common-modules/libcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/pkgs-modules.iml" filepath="$PROJECT_DIR$/common-modules/pkgs-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/pkgs-providers.iml" filepath="$PROJECT_DIR$/common-modules/pkgs-providers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/media-provider.iml" filepath="$PROJECT_DIR$/common-modules/media-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/tools.iml" filepath="$PROJECT_DIR$/common-modules/tools.iml" />
+
+      <module fileurl="file://$PROJECT_DIR$/common-modules/AIDE.iml" filepath="$PROJECT_DIR$/common-modules/AIDE.iml" />
+    </modules>
+  </component>
+</project>

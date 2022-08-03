@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$ANDROID_TREE$/packages/apps/DocumentsUI">
+      <sourceFolder url="file://$ANDROID_TREE$/packages/apps/DocumentsUI/app-perf-tests/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/apps/DocumentsUI/perf-tests/res" type="java-test-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/apps/DocumentsUI/perf-tests/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/apps/DocumentsUI/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/apps/DocumentsUI/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/apps/DocumentsUI/tests/common" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/apps/DocumentsUI/tests/functional" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/apps/DocumentsUI/tests/res" type="java-test-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/apps/DocumentsUI/tests/unit" isTestSource="true" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>
