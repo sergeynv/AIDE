@@ -2,27 +2,37 @@
   <component name="CachedDictionaryState">
     <words>
       <w>aidegen</w>
+      <w>allowlisted</w>
+      <w>appop</w>
       <w>appops</w>
       <w>asuite</w>
       <w>aswb</w>
       <w>avbpubkey</w>
       <w>codestyles</w>
       <w>croot</w>
+      <w>gids</w>
       <w>hiddenapi</w>
       <w>jffi</w>
       <w>kotlinc</w>
       <w>landroid</w>
       <w>ljava</w>
       <w>mediaprovider</w>
+      <w>mountpoints</w>
       <w>noparent</w>
       <w>prebuilts</w>
       <w>prettyprint</w>
       <w>privapp</w>
+      <w>proc</w>
       <w>retranslate</w>
+      <w>sdcardfs</w>
       <w>sdkinfo</w>
       <w>sergeynv</w>
+      <w>setgid</w>
+      <w>setuid</w>
       <w>soong</w>
       <w>unhide</w>
+      <w>usap</w>
+      <w>vold</w>
     </words>
   </component>
 </application>
