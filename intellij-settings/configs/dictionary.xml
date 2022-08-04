@@ -10,8 +10,10 @@
       <w>avbpubkey</w>
       <w>codestyles</w>
       <w>croot</w>
+      <w>errored</w>
       <w>gids</w>
       <w>hiddenapi</w>
+      <w>hotword</w>
       <w>jffi</w>
       <w>kotlinc</w>
       <w>landroid</w>
@@ -19,10 +21,12 @@
       <w>mediaprovider</w>
       <w>mountpoints</w>
       <w>noparent</w>
+      <w>opstr</w>
       <w>prebuilts</w>
       <w>prettyprint</w>
       <w>privapp</w>
       <w>proc</w>
+      <w>proxied</w>
       <w>retranslate</w>
       <w>sdcardfs</w>
       <w>sdkinfo</w>
@@ -30,6 +34,7 @@
       <w>setgid</w>
       <w>setuid</w>
       <w>soong</w>
+      <w>unforwarded</w>
       <w>unhide</w>
       <w>usap</w>
       <w>vold</w>
