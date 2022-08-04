@@ -124,6 +124,10 @@
     </content>
 
     <!-- Framework Protos (see frameworks/base/ProtoLibraries.bp) -->
+    <!-- android.server.am.* -->
+    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/server/activitymanagerservice.srcjar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/server/activitymanagerservice.srcjar!/" isTestSource="false" generated="true" />
+    </content>
     <!-- android.server.inputmethod.InputMethodManagerServiceProto -->
     <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/server/inputmethod/inputmethodmanagerservice.srcjar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/base/core/proto/android/server/inputmethod/inputmethodmanagerservice.srcjar!/" isTestSource="false" generated="true" />
