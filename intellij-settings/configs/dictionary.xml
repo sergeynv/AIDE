@@ -1,6 +1,7 @@
 <application>
   <component name="CachedDictionaryState">
     <words>
+      <w>aaptflags</w>
       <w>aidegen</w>
       <w>allowlisted</w>
       <w>appop</w>
@@ -8,36 +9,98 @@
       <w>asuite</w>
       <w>aswb</w>
       <w>avbpubkey</w>
+      <w>backgroundthread</w>
+      <w>blkdev</w>
+      <w>casefold</w>
       <w>codestyles</w>
+      <w>credstore</w>
       <w>croot</w>
+      <w>cryptfs</w>
+      <w>cutils</w>
+      <w>dirsync</w>
+      <w>disklrucache</w>
+      <w>dmask</w>
+      <w>ebusy</w>
+      <w>emmc</w>
+      <w>enoent</w>
+      <w>enotsup</w>
+      <w>eperm</w>
+      <w>erofs</w>
       <w>errored</w>
+      <w>errorprone</w>
+      <w>exfat</w>
+      <w>exifinterface</w>
+      <w>filegroup</w>
+      <w>filesytsem</w>
+      <w>fixup</w>
+      <w>fmask</w>
+      <w>fscontext</w>
+      <w>fscrypt</w>
+      <w>fstrim</w>
+      <w>fusefs</w>
+      <w>genrule</w>
       <w>gids</w>
+      <w>gifdecoder</w>
       <w>hiddenapi</w>
       <w>hotword</w>
+      <w>hpfs</w>
+      <w>jarjar</w>
+      <w>javacflags</w>
       <w>jffi</w>
+      <w>kdev</w>
       <w>kotlinc</w>
       <w>landroid</w>
+      <w>libfuse</w>
       <w>ljava</w>
+      <w>logwrap</w>
       <w>mediaprovider</w>
+      <w>mkfs</w>
       <w>mountpoints</w>
+      <w>noatime</w>
+      <w>nodev</w>
+      <w>noexec</w>
+      <w>nofollow</w>
+      <w>nomblk</w>
       <w>noparent</w>
+      <w>nosuid</w>
       <w>opstr</w>
+      <w>paramstr</w>
+      <w>parseint</w>
+      <w>plog</w>
       <w>prebuilts</w>
       <w>prettyprint</w>
       <w>privapp</w>
       <w>proc</w>
+      <w>projid</w>
       <w>proxied</w>
+      <w>rdonly</w>
+      <w>rdwr</w>
+      <w>resizefs</w>
       <w>retranslate</w>
+      <w>rootmode</w>
       <w>sdcardfs</w>
       <w>sdkinfo</w>
       <w>sergeynv</w>
       <w>setgid</w>
       <w>setuid</w>
+      <w>sgdisk</w>
       <w>soong</w>
+      <w>srcs</w>
+      <w>statslog</w>
+      <w>stringprintf</w>
+      <w>superblock</w>
+      <w>sysmacros</w>
+      <w>tmpmnt</w>
+      <w>uieventlogger</w>
+      <w>uint</w>
       <w>unforwarded</w>
       <w>unhide</w>
+      <w>unsupportedappusage</w>
       <w>usap</w>
+      <w>vectordrawable</w>
       <w>vold</w>
+      <w>writeback</w>
+      <w>zram</w>
     </words>
   </component>
 </application>
