@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/all-dependencies.iml" filepath="$PROJECT_DIR$/all-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/documents-ui.iml" filepath="$PROJECT_DIR$/documents-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vold.iml" filepath="$PROJECT_DIR$/vold.iml" />
 
       <module fileurl="file://$PROJECT_DIR$/common-modules/debugger-enablement/debugger-enablement.iml" filepath="$PROJECT_DIR$/common-modules/debugger-enablement/debugger-enablement.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/fw-apex.iml" filepath="$PROJECT_DIR$/common-modules/fw-apex.iml" />

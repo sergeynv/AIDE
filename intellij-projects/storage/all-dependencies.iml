@@ -20,6 +20,7 @@
     <orderEntry type="module" module-name="pkgs-providers" exported="" />
     <orderEntry type="module" module-name="media-provider" exported="" />
     <orderEntry type="module" module-name="tools" exported="" />
+    <orderEntry type="module" module-name="vold" exported="" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

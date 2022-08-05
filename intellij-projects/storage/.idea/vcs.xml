@@ -94,6 +94,7 @@
     <mapping directory="$ANDROID_TREE$/frameworks/base/" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/packages/apps/DocumentsUI" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/packages/providers/MediaProvider" vcs="Git" />
+    <mapping directory="$ANDROID_TREE$/system/vold" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
   </component>
 </project>
