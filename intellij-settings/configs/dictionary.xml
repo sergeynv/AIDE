@@ -2,25 +2,36 @@
   <component name="CachedDictionaryState">
     <words>
       <w>aaptflags</w>
+      <w>addr</w>
       <w>aidegen</w>
       <w>allowlisted</w>
       <w>appop</w>
       <w>appops</w>
       <w>asuite</w>
       <w>aswb</w>
+      <w>atrace</w>
       <w>avbpubkey</w>
       <w>backgroundthread</w>
       <w>blkdev</w>
       <w>casefold</w>
+      <w>chown</w>
       <w>codestyles</w>
       <w>credstore</w>
+      <w>crit</w>
       <w>croot</w>
       <w>cryptfs</w>
+      <w>ctype</w>
       <w>cutils</w>
+      <w>dentry</w>
+      <w>devpath</w>
+      <w>devtype</w>
+      <w>dirent</w>
+      <w>dirhandle</w>
       <w>dirsync</w>
       <w>disklrucache</w>
       <w>dmask</w>
       <w>ebusy</w>
+      <w>emerg</w>
       <w>emmc</w>
       <w>enoent</w>
       <w>enotsup</w>
@@ -28,22 +39,35 @@
       <w>erofs</w>
       <w>errored</w>
       <w>errorprone</w>
+      <w>evol</w>
       <w>exfat</w>
       <w>exifinterface</w>
+      <w>fadvise</w>
+      <w>fadvises</w>
+      <w>fallocate</w>
+      <w>fcntl</w>
       <w>filegroup</w>
       <w>filesytsem</w>
       <w>fixup</w>
       <w>fmask</w>
       <w>fscontext</w>
       <w>fscrypt</w>
+      <w>fsid</w>
+      <w>fstat</w>
       <w>fstrim</w>
+      <w>fsyncdir</w>
       <w>fusefs</w>
       <w>genrule</w>
+      <w>getuid</w>
       <w>gids</w>
       <w>gifdecoder</w>
+      <w>greylist</w>
       <w>hiddenapi</w>
       <w>hotword</w>
       <w>hpfs</w>
+      <w>indexable</w>
+      <w>inval</w>
+      <w>iostream</w>
       <w>jarjar</w>
       <w>javacflags</w>
       <w>jffi</w>
@@ -52,49 +76,76 @@
       <w>landroid</w>
       <w>libfuse</w>
       <w>ljava</w>
+      <w>loglevel</w>
       <w>logwrap</w>
+      <w>lowlevel</w>
+      <w>lstat</w>
       <w>mediaprovider</w>
+      <w>mediavolume</w>
       <w>mkfs</w>
+      <w>mountpoint</w>
       <w>mountpoints</w>
+      <w>mtab</w>
+      <w>namespaced</w>
       <w>noatime</w>
       <w>nodev</w>
       <w>noexec</w>
       <w>nofollow</w>
       <w>nomblk</w>
+      <w>nomedia</w>
       <w>noparent</w>
       <w>nosuid</w>
+      <w>nullpath</w>
       <w>opstr</w>
       <w>paramstr</w>
       <w>parseint</w>
+      <w>passthrough</w>
       <w>plog</w>
       <w>prebuilts</w>
       <w>prettyprint</w>
       <w>privapp</w>
       <w>proc</w>
+      <w>prog</w>
       <w>projid</w>
       <w>proxied</w>
+      <w>pvol</w>
+      <w>rdev</w>
       <w>rdonly</w>
       <w>rdwr</w>
+      <w>readdir</w>
+      <w>releasedir</w>
       <w>resizefs</w>
       <w>retranslate</w>
       <w>rootmode</w>
+      <w>ruid</w>
       <w>sdcardfs</w>
       <w>sdkinfo</w>
       <w>sergeynv</w>
       <w>setgid</w>
+      <w>setreuid</w>
       <w>setuid</w>
       <w>sgdisk</w>
       <w>soong</w>
       <w>srcs</w>
+      <w>statfs</w>
       <w>statslog</w>
+      <w>stbuf</w>
+      <w>stdbool</w>
+      <w>stoi</w>
+      <w>storaged</w>
       <w>stringprintf</w>
       <w>superblock</w>
+      <w>syscall</w>
       <w>sysmacros</w>
       <w>tmpmnt</w>
       <w>uieventlogger</w>
       <w>uint</w>
+      <w>umask</w>
+      <w>uncached</w>
+      <w>unexported</w>
       <w>unforwarded</w>
       <w>unhide</w>
+      <w>unlocalizable</w>
       <w>unsupportedappusage</w>
       <w>usap</w>
       <w>vectordrawable</w>
