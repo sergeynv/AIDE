@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
+    <orderEntry type="module" module-name="androidx" exported="" />
+    <orderEntry type="module" module-name="guava" exported="" />
     <orderEntry type="module" module-name="fw-core" exported="" />
     <orderEntry type="module" module-name="fw-services" exported="" />
     <orderEntry type="module" module-name="fw-gen" exported="" />
