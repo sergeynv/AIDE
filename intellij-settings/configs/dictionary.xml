@@ -4,6 +4,7 @@
       <w>aaptflags</w>
       <w>addr</w>
       <w>aidegen</w>
+      <w>aliabadi</w>
       <w>allowlisted</w>
       <w>appop</w>
       <w>appops</w>
@@ -16,6 +17,7 @@
       <w>casefold</w>
       <w>chown</w>
       <w>codestyles</w>
+      <w>corinac</w>
       <w>credstore</w>
       <w>crit</w>
       <w>croot</w>
@@ -30,6 +32,7 @@
       <w>dirsync</w>
       <w>disklrucache</w>
       <w>dmask</w>
+      <w>documentsui</w>
       <w>ebusy</w>
       <w>emerg</w>
       <w>emmc</w>
@@ -57,11 +60,13 @@
       <w>fstrim</w>
       <w>fsyncdir</w>
       <w>fusefs</w>
+      <w>garodia</w>
       <w>genrule</w>
       <w>getuid</w>
       <w>gids</w>
       <w>gifdecoder</w>
       <w>greylist</w>
+      <w>grigoras</w>
       <w>hiddenapi</w>
       <w>hotword</w>
       <w>hpfs</w>
@@ -73,6 +78,7 @@
       <w>jffi</w>
       <w>kdev</w>
       <w>kotlinc</w>
+      <w>krishang</w>
       <w>landroid</w>
       <w>libfuse</w>
       <w>ljava</w>
@@ -86,6 +92,7 @@
       <w>mountpoint</w>
       <w>mountpoints</w>
       <w>mtab</w>
+      <w>multilib</w>
       <w>namespaced</w>
       <w>noatime</w>
       <w>nodev</w>
@@ -118,6 +125,7 @@
       <w>retranslate</w>
       <w>rootmode</w>
       <w>ruid</w>
+      <w>saxena</w>
       <w>sdcardfs</w>
       <w>sdkinfo</w>
       <w>sergeynv</w>
@@ -125,7 +133,10 @@
       <w>setreuid</w>
       <w>setuid</w>
       <w>sgdisk</w>
+      <w>shubhi</w>
+      <w>shubhisaxena</w>
       <w>soong</w>
+      <w>soundtrigger</w>
       <w>srcs</w>
       <w>statfs</w>
       <w>statslog</w>
@@ -137,6 +148,7 @@
       <w>superblock</w>
       <w>syscall</w>
       <w>sysmacros</w>
+      <w>testutils</w>
       <w>tmpmnt</w>
       <w>uieventlogger</w>
       <w>uint</w>
@@ -149,7 +161,10 @@
       <w>unsupportedappusage</w>
       <w>usap</w>
       <w>vectordrawable</w>
+      <w>vintf</w>
       <w>vold</w>
+      <w>werror</w>
+      <w>weverything</w>
       <w>writeback</w>
       <w>zram</w>
     </words>
