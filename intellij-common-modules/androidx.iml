@@ -17,11 +17,11 @@
     <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/annotation/annotation/1.4.0-alpha03/annotation-1.4.0-alpha03-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/annotation/annotation/1.4.0-alpha03/annotation-1.4.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat-resources/1.4.0-alpha04/appcompat-resources-1.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat-resources/1.4.0-alpha04/appcompat-resources-1.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat-resources/1.6.0-alpha02/appcompat-resources-1.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat-resources/1.6.0-alpha02/appcompat-resources-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat/1.4.0-alpha04/appcompat-1.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat/1.4.0-alpha04/appcompat-1.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat/1.6.0-alpha02/appcompat-1.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat/1.6.0-alpha02/appcompat-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
     <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appsearch/appsearch-compiler/1.0.0-alpha03/appsearch-compiler-1.0.0-alpha03-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appsearch/appsearch-compiler/1.0.0-alpha03/appsearch-compiler-1.0.0-alpha03-sources.jar!/" isTestSource="false" />
@@ -179,11 +179,11 @@
     <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/exifinterface/exifinterface/1.4.0-alpha01/exifinterface-1.4.0-alpha01-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/exifinterface/exifinterface/1.4.0-alpha01/exifinterface-1.4.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-ktx/1.4.0-alpha09/fragment-ktx-1.4.0-alpha09-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-ktx/1.4.0-alpha09/fragment-ktx-1.4.0-alpha09-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-ktx/1.5.0-alpha03/fragment-ktx-1.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-ktx/1.5.0-alpha03/fragment-ktx-1.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment/1.4.0-alpha09/fragment-1.4.0-alpha09-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment/1.4.0-alpha09/fragment-1.4.0-alpha09-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment/1.5.0-alpha03/fragment-1.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment/1.5.0-alpha03/fragment-1.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
     <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/gridlayout/gridlayout/1.1.0-alpha01/gridlayout-1.1.0-alpha01-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/gridlayout/gridlayout/1.1.0-alpha01/gridlayout-1.1.0-alpha01-sources.jar!/" isTestSource="false" />
@@ -200,44 +200,44 @@
     <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/leanback/leanback/1.2.0-alpha02/leanback-1.2.0-alpha02-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/leanback/leanback/1.2.0-alpha02/leanback-1.2.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common-java8/2.4.0-alpha04/lifecycle-common-java8-2.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common-java8/2.4.0-alpha04/lifecycle-common-java8-2.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common-java8/2.5.0-alpha03/lifecycle-common-java8-2.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common-java8/2.5.0-alpha03/lifecycle-common-java8-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common/2.4.0-alpha04/lifecycle-common-2.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common/2.4.0-alpha04/lifecycle-common-2.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common/2.5.0-alpha03/lifecycle-common-2.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common/2.5.0-alpha03/lifecycle-common-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core-ktx/2.4.0-alpha04/lifecycle-livedata-core-ktx-2.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core-ktx/2.4.0-alpha04/lifecycle-livedata-core-ktx-2.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core-ktx/2.5.0-alpha03/lifecycle-livedata-core-ktx-2.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core-ktx/2.5.0-alpha03/lifecycle-livedata-core-ktx-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core/2.4.0-alpha04/lifecycle-livedata-core-2.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core/2.4.0-alpha04/lifecycle-livedata-core-2.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core/2.5.0-alpha03/lifecycle-livedata-core-2.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core/2.5.0-alpha03/lifecycle-livedata-core-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-ktx/2.4.0-alpha04/lifecycle-livedata-ktx-2.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-ktx/2.4.0-alpha04/lifecycle-livedata-ktx-2.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-ktx/2.5.0-alpha03/lifecycle-livedata-ktx-2.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-ktx/2.5.0-alpha03/lifecycle-livedata-ktx-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata/2.4.0-alpha04/lifecycle-livedata-2.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata/2.4.0-alpha04/lifecycle-livedata-2.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata/2.5.0-alpha03/lifecycle-livedata-2.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata/2.5.0-alpha03/lifecycle-livedata-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-process/2.4.0-alpha04/lifecycle-process-2.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-process/2.4.0-alpha04/lifecycle-process-2.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-process/2.5.0-alpha03/lifecycle-process-2.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-process/2.5.0-alpha03/lifecycle-process-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-ktx/2.4.0-alpha04/lifecycle-runtime-ktx-2.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-ktx/2.4.0-alpha04/lifecycle-runtime-ktx-2.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-ktx/2.5.0-alpha03/lifecycle-runtime-ktx-2.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-ktx/2.5.0-alpha03/lifecycle-runtime-ktx-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime/2.4.0-alpha04/lifecycle-runtime-2.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime/2.4.0-alpha04/lifecycle-runtime-2.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime/2.5.0-alpha03/lifecycle-runtime-2.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime/2.5.0-alpha03/lifecycle-runtime-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-service/2.4.0-alpha04/lifecycle-service-2.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-service/2.4.0-alpha04/lifecycle-service-2.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-service/2.5.0-alpha03/lifecycle-service-2.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-service/2.5.0-alpha03/lifecycle-service-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-ktx/2.4.0-alpha04/lifecycle-viewmodel-ktx-2.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-ktx/2.4.0-alpha04/lifecycle-viewmodel-ktx-2.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-ktx/2.5.0-alpha03/lifecycle-viewmodel-ktx-2.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-ktx/2.5.0-alpha03/lifecycle-viewmodel-ktx-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.4.0-alpha04/lifecycle-viewmodel-savedstate-2.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.4.0-alpha04/lifecycle-viewmodel-savedstate-2.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.5.0-alpha03/lifecycle-viewmodel-savedstate-2.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.5.0-alpha03/lifecycle-viewmodel-savedstate-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel/2.4.0-alpha04/lifecycle-viewmodel-2.4.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel/2.4.0-alpha04/lifecycle-viewmodel-2.4.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel/2.5.0-alpha03/lifecycle-viewmodel-2.5.0-alpha03-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel/2.5.0-alpha03/lifecycle-viewmodel-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
     </content>
     <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/loader/loader/1.2.0-alpha01/loader-1.2.0-alpha01-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/loader/loader/1.2.0-alpha01/loader-1.2.0-alpha01-sources.jar!/" isTestSource="false" />
