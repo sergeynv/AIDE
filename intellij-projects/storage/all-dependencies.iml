@@ -4,6 +4,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="module" module-name="androidx" exported="" />
+    <orderEntry type="module" module-name="androidx-test" exported="" />
     <orderEntry type="module" module-name="guava" exported="" />
     <orderEntry type="module" module-name="fw-core" exported="" />
     <orderEntry type="module" module-name="fw-services" exported="" />
