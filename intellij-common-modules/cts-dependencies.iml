@@ -12,7 +12,6 @@
       <sourceFolder url="file://$ANDROID_TREE$/external/testng/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="cts-dependencies-gen" exported="" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
   </component>
