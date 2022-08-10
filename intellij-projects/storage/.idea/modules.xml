@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/common-modules/media-provider.iml" filepath="$PROJECT_DIR$/common-modules/media-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/pkgs-modules.iml" filepath="$PROJECT_DIR$/common-modules/pkgs-modules.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/pkgs-providers.iml" filepath="$PROJECT_DIR$/common-modules/pkgs-providers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/sdk-extras.iml" filepath="$PROJECT_DIR$/common-modules/sdk-extras.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/tools.iml" filepath="$PROJECT_DIR$/common-modules/tools.iml" />
 
       <module fileurl="file://$PROJECT_DIR$/common-modules/AIDE.iml" filepath="$PROJECT_DIR$/common-modules/AIDE.iml" />
