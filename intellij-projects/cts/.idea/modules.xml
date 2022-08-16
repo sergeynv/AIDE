@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/common-modules/fw-test-base.iml" filepath="$PROJECT_DIR$/common-modules/fw-test-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/platform_testing.iml" filepath="$PROJECT_DIR$/common-modules/platform_testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/kotlin.iml" filepath="$PROJECT_DIR$/common-modules/kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/libcore.iml" filepath="$PROJECT_DIR$/common-modules/libcore.iml" />
     </modules>
   </component>
 </project>
