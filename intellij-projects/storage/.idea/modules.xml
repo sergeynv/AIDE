@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/vold.iml" filepath="$PROJECT_DIR$/vold.iml" />
 
       <module fileurl="file://$PROJECT_DIR$/common-modules/androidx.iml" filepath="$PROJECT_DIR$/common-modules/androidx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/androidx-legacy.iml" filepath="$PROJECT_DIR$/common-modules/androidx-legacy.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/androidx-test.iml" filepath="$PROJECT_DIR$/common-modules/androidx-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/art.iml" filepath="$PROJECT_DIR$/common-modules/art.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/external.iml" filepath="$PROJECT_DIR$/common-modules/external.iml" />
