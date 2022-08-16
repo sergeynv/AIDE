@@ -12,6 +12,7 @@
     <orderEntry type="module" module-name="kotlin" exported="" />
     <orderEntry type="module" module-name="cts-dependencies" exported="" />
     <orderEntry type="module" module-name="platform_testing" exported="" />
+    <orderEntry type="module" module-name="libcore" exported="" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

@@ -3,124 +3,77 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
 
-    <!-- Annotation -->
-    <!-- 1.0.0 -->
+    <!-- annotation -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/annotation/1.0.0/annotation-1.0.0-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/annotation/1.0.0/annotation-1.0.0-sources.jar!/" isTestSource="false" />
     </content>
-
-    <!-- Core -->
-    <!-- 1.4.0 -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/core/1.4.0/core-1.4.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/core/1.4.0/core-1.4.0-sources.jar!/" isTestSource="false" />
-    </content>
-    <!-- 1.4.1-alpha04 -->
+    
+    <!-- core -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/core/1.4.1-alpha04/core-1.4.1-alpha04-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/core/1.4.1-alpha04/core-1.4.1-alpha04-sources.jar!/" isTestSource="false" />
     </content>
-
-    <!-- ESPRESSO -->
-    <!-- 3.4.0 -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-contrib/3.4.0/espresso-contrib-3.4.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-contrib/3.4.0/espresso-contrib-3.4.0-sources.jar!/" isTestSource="false" />
-    </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-core/3.4.0/espresso-core-3.4.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-core/3.4.0/espresso-core-3.4.0-sources.jar!/" isTestSource="false" />
-    </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-idling-resource/3.4.0/espresso-idling-resource-3.4.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-idling-resource/3.4.0/espresso-idling-resource-3.4.0-sources.jar!/" isTestSource="false" />
-    </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-intents/3.4.0/espresso-intents-3.4.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-intents/3.4.0/espresso-intents-3.4.0-sources.jar!/" isTestSource="false" />
-    </content>
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-web/3.4.0/espresso-web-3.4.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-web/3.4.0/espresso-web-3.4.0-sources.jar!/" isTestSource="false" />
-    </content>
-    <!-- 3.5.0-alpha04 -->
+    
+    <!-- espresso/espresso-contrib -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-contrib/3.5.0-alpha04/espresso-contrib-3.5.0-alpha04-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-contrib/3.5.0-alpha04/espresso-contrib-3.5.0-alpha04-sources.jar!/" isTestSource="false" />
     </content>
+    
+    <!-- espresso/espresso-core -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-core/3.5.0-alpha04/espresso-core-3.5.0-alpha04-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-core/3.5.0-alpha04/espresso-core-3.5.0-alpha04-sources.jar!/" isTestSource="false" />
     </content>
+    
+    <!-- espresso/espresso-idling-resource -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-idling-resource/3.5.0-alpha04/espresso-idling-resource-3.5.0-alpha04-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-idling-resource/3.5.0-alpha04/espresso-idling-resource-3.5.0-alpha04-sources.jar!/" isTestSource="false" />
     </content>
+    
+    <!-- espresso/espresso-intents -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-intents/3.5.0-alpha04/espresso-intents-3.5.0-alpha04-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-intents/3.5.0-alpha04/espresso-intents-3.5.0-alpha04-sources.jar!/" isTestSource="false" />
     </content>
+    
+    <!-- espresso/espresso-web -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-web/3.5.0-alpha04/espresso-web-3.5.0-alpha04-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-web/3.5.0-alpha04/espresso-web-3.5.0-alpha04-sources.jar!/" isTestSource="false" />
     </content>
-
-    <!-- EXT/JUNIT -->
-    <!-- 1.1.3 -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/ext/junit/1.1.3/junit-1.1.3-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/ext/junit/1.1.3/junit-1.1.3-sources.jar!/" isTestSource="false" />
-    </content>
-    <!-- 1.1.4-alpha04 -->
+    
+    <!-- ext/junit -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/ext/junit/1.1.4-alpha04/junit-1.1.4-alpha04-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/ext/junit/1.1.4-alpha04/junit-1.1.4-alpha04-sources.jar!/" isTestSource="false" />
     </content>
-
-    <!-- EXT/TRUTH -->
-    <!-- 1.4.0 -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/ext/truth/1.4.0/truth-1.4.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/ext/truth/1.4.0/truth-1.4.0-sources.jar!/" isTestSource="false" />
-    </content>
-    <!-- 1.5.0-alpha04 -->
+    
+    <!-- ext/truth -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/ext/truth/1.5.0-alpha04/truth-1.5.0-alpha04-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/ext/truth/1.5.0-alpha04/truth-1.5.0-alpha04-sources.jar!/" isTestSource="false" />
     </content>
-
-    <!-- JANK TEST HELPER -->
-    <!-- 1.0.1 -->
+    
+    <!-- janktesthelper/janktesthelper -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/janktesthelper/janktesthelper/1.0.1/janktesthelper-1.0.1-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/janktesthelper/janktesthelper/1.0.1/janktesthelper-1.0.1-sources.jar!/" isTestSource="false" />
     </content>
-
-    <!-- MONITOR -->
-    <!-- 1.4.0 -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/monitor/1.4.0/monitor-1.4.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/monitor/1.4.0/monitor-1.4.0-sources.jar!/" isTestSource="false" />
-    </content>
-    <!-- 1.6.0-alpha01 -->
+    
+    <!-- monitor -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/monitor/1.6.0-alpha01/monitor-1.6.0-alpha01-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/monitor/1.6.0-alpha01/monitor-1.6.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
-
-    <!-- RULES -->
-    <!-- 1.4.0 -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/rules/1.4.0/rules-1.4.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/rules/1.4.0/rules-1.4.0-sources.jar!/" isTestSource="false" />
-    </content>
-    <!-- 1.4.1-alpha01 -->
+    
+    <!-- rules -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/rules/1.4.1-alpha01/rules-1.4.1-alpha01-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/rules/1.4.1-alpha01/rules-1.4.1-alpha01-sources.jar!/" isTestSource="false" />
     </content>
-
-    <!-- RUNNER -->
-    <!-- 1.4.0 -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/runner/1.4.0/runner-1.4.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/runner/1.4.0/runner-1.4.0-sources.jar!/" isTestSource="false" />
-    </content>
-    <!-- 1.5.0-alpha01 -->
+    
+    <!-- runner -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/runner/1.5.0-alpha01/runner-1.5.0-alpha01-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/runner/1.5.0-alpha01/runner-1.5.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
-
-    <!-- SERVICES/STORAGE -->
-    <!-- 1.4.0 -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/services/storage/1.4.0/storage-1.4.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/services/storage/1.4.0/storage-1.4.0-sources.jar!/" isTestSource="false" />
-    </content>
-    <!-- 1.4.2-alpha01 -->
+    
+    <!-- services/storage -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/services/storage/1.4.2-alpha01/storage-1.4.2-alpha01-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/services/storage/1.4.2-alpha01/storage-1.4.2-alpha01-sources.jar!/" isTestSource="false" />
     </content>
-
-    <!-- UIAUTOMATOR -->
-    <!-- 2.2.0 -->
+    
+    <!-- uiautomator/uiautomator -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/uiautomator/uiautomator/2.2.0/uiautomator-2.2.0-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/uiautomator/uiautomator/2.2.0/uiautomator-2.2.0-sources.jar!/" isTestSource="false" />
     </content>
