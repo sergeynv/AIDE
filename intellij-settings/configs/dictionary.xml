@@ -6,6 +6,8 @@
       <w>aidegen</w>
       <w>aliabadi</w>
       <w>allowlisted</w>
+      <w>anonymized</w>
+      <w>apexd</w>
       <w>appop</w>
       <w>appops</w>
       <w>asuite</w>
@@ -14,8 +16,10 @@
       <w>avbpubkey</w>
       <w>backgroundthread</w>
       <w>blkdev</w>
+      <w>bottomsheet</w>
       <w>casefold</w>
       <w>chown</w>
+      <w>codenames</w>
       <w>codestyles</w>
       <w>corinac</w>
       <w>credstore</w>
@@ -24,6 +28,7 @@
       <w>cryptfs</w>
       <w>ctype</w>
       <w>cutils</w>
+      <w>dcim</w>
       <w>dentry</w>
       <w>devpath</w>
       <w>devtype</w>
@@ -32,6 +37,7 @@
       <w>dirsync</w>
       <w>disklrucache</w>
       <w>dmask</w>
+      <w>docsui</w>
       <w>documentsui</w>
       <w>ebusy</w>
       <w>emerg</w>
@@ -71,6 +77,7 @@
       <w>hotword</w>
       <w>hpfs</w>
       <w>indexable</w>
+      <w>infos</w>
       <w>inval</w>
       <w>iostream</w>
       <w>jarjar</w>
@@ -89,6 +96,7 @@
       <w>mediaprovider</w>
       <w>mediavolume</w>
       <w>mkfs</w>
+      <w>moma</w>
       <w>mountpoint</w>
       <w>mountpoints</w>
       <w>mtab</w>
@@ -122,6 +130,7 @@
       <w>rdonly</w>
       <w>rdwr</w>
       <w>readdir</w>
+      <w>recents</w>
       <w>releasedir</w>
       <w>resizefs</w>
       <w>retranslate</w>
