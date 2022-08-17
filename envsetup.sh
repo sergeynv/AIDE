@@ -1,3 +1,7 @@
+# TODO: could be a good idea to make sure this matches the value of Idea's $ANDROID_TREE$
+#  path variable.
+export ANDROID_TREE='/android/master'
+
 # JetBrains
 __JETBRAINS_CONFIGS="${HOME}/.config/JetBrains"
 

@@ -2,33 +2,33 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-     
-    <!-- legacy-support-core-ui -->
+
+    <!-- legacy/legacy-support-core-ui -->
     <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx-legacy/m2repository/androidx/legacy/legacy-support-core-ui/1.1.0-alpha01/legacy-support-core-ui-1.1.0-alpha01-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx-legacy/m2repository/androidx/legacy/legacy-support-core-ui/1.1.0-alpha01/legacy-support-core-ui-1.1.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
-    <!-- legacy-support-core-utils -->
+    <!-- legacy/legacy-support-core-utils -->
     <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx-legacy/m2repository/androidx/legacy/legacy-support-core-utils/1.1.0-alpha01/legacy-support-core-utils-1.1.0-alpha01-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx-legacy/m2repository/androidx/legacy/legacy-support-core-utils/1.1.0-alpha01/legacy-support-core-utils-1.1.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
-    <!-- legacy-support-v13-1.0.0 -->
+    <!-- legacy/legacy-support-v13 -->
     <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx-legacy/m2repository/androidx/legacy/legacy-support-v13/1.0.0/legacy-support-v13-1.0.0-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx-legacy/m2repository/androidx/legacy/legacy-support-v13/1.0.0/legacy-support-v13-1.0.0-sources.jar!/" isTestSource="false" />
     </content>
 
-    <!-- legacy-support-v13-1.1.0-alpha01 -->
+    <!-- legacy/legacy-support-v13 -->
     <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx-legacy/m2repository/androidx/legacy/legacy-support-v13/1.1.0-alpha01/legacy-support-v13-1.1.0-alpha01-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx-legacy/m2repository/androidx/legacy/legacy-support-v13/1.1.0-alpha01/legacy-support-v13-1.1.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
-    <!-- lifecycle-extensions -->
+    <!-- lifecycle/lifecycle-extensions -->
     <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx-legacy/m2repository/androidx/lifecycle/lifecycle-extensions/2.3.0-alpha01/lifecycle-extensions-2.3.0-alpha01-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx-legacy/m2repository/androidx/lifecycle/lifecycle-extensions/2.3.0-alpha01/lifecycle-extensions-2.3.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
-    <!-- localbroadcastmanager -->
+    <!-- localbroadcastmanager/localbroadcastmanager -->
     <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx-legacy/m2repository/androidx/localbroadcastmanager/localbroadcastmanager/1.1.0-alpha02/localbroadcastmanager-1.1.0-alpha02-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx-legacy/m2repository/androidx/localbroadcastmanager/localbroadcastmanager/1.1.0-alpha02/localbroadcastmanager-1.1.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
