@@ -1,0 +1,100 @@
+#!/bin/bash
+
+function find_sources_jars() {
+    if [[ $# -ne 1 ]]; then
+        echo "usage: find_sources_jar <path>" >&2
+        return 1
+    fi
+    path=${ANDROID_TREE}/$1
+
+    find $path -name '*-sources.jar' | sort
+}
+
+function build_iml_with_jar_sources() {
+    if [[ $# -ne 1 ]]; then
+        echo "usage: build_iml_with_jar_sources <dir_path>" >&2
+        return 1
+    fi
+    # $1 is expected to be the common dir for all the JAR, e.g.:
+    # prebuilts/misc/common/androidx-test/androidx/test 
+    dir_path=$1
+
+    while IFS='$\n' read -r path; do
+        # path is the full path from /, e.g.:
+        # /android/master/prebuilts/misc/common/androidx-test/androidx/test/uiautomator/uiautomator/2.2.0/uiautomator-2.2.0-sources.jar
+
+        # First, convert to relative path (from the top of android tree), e.g.:
+        # prebuilts/misc/common/androidx-test/androidx/test/uiautomator/uiautomator/2.2.0/uiautomator-2.2.0-sources.jar
+        path=${path#$ANDROID_TREE/}
+
+        # Then extract the "title" of the package, e.g.:
+        # /prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-intents/3.5.0-alpha04/espresso-intents-3.5.0-alpha04-sources.jar -> espresso/espresso-intents
+        # or
+        # prebuilts/misc/common/androidx-test/androidx/test/rules/1.4.1-alpha01/rules-1.4.1-alpha01-sources.jar -> rules
+        title=${path#$dir_path/} # 
+        title=${title%/*/*sources.jar}
+
+        # echo; echo $path; echo $title
+
+        entry=$(build_content_entry $title $path)
+        echo "$entry"
+    done
+}
+
+function build_content_entry() {
+    if [[ $# -ne 2 ]]; then
+        echo "usage: build_content_entry <title> <path>" >&2
+        return 1
+    fi
+
+    entry='
+    <!-- <TITLE> -->
+    <content url="jar://$ANDROID_TREE$/<PATH>!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/<PATH>!/" isTestSource="false" />
+    </content>'
+    entry=${entry//"<TITLE>"/$1}
+    entry=${entry//"<PATH>"/$2}
+
+    echo "$entry"
+}
+
+function build_iml() {
+    if [[ $# -ne 1 ]]; then
+        echo "usage: build_iml <path>" >&2
+        return 1
+    fi
+    path=$1
+
+    echo \
+'<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />'
+
+    find_sources_jars $path | build_iml_with_jar_sources $path
+
+    echo \
+'
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>'
+}
+
+function run() {
+    if [ -z ${ANDROID_TREE+x} ]; then 
+        echo "ANDROID_TREE is not set" >&2
+        return 1
+    elif [[ ! -e ${ANDROID_TREE}/build/envsetup.sh ]]; then 
+        echo "\$ANDROID_TREE($ANDROID_TREE) does not point to a valid Android Source Tree" >&2
+        return 1
+    fi
+
+    build_iml "prebuilts/sdk/current/androidx/m2repository/androidx" > androidx.iml
+    build_iml "prebuilts/sdk/current/androidx-legacy/m2repository/androidx" > androidx-legacy.iml
+    build_iml "prebuilts/misc/common/androidx-test/androidx/test" > androidx-test.iml
+}
+
+# ANDROID_TREE=/android/master
+run
