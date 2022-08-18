@@ -10,6 +10,11 @@
     + Krishang Garodia - krishang@ - [Moma](http://who/krishang) - [Gerrit](https://googleplex-android-review.git.corp.google.com/dashboard/1111151)
     + Shubhi Saxena - shubhisaxena@ - [Moma](http://who/shubhisaxena) - [Gerrit](https://googleplex-android-review.git.corp.google.com/dashboard/1114561)
 
+## Buganizer
+- Android > Android OS & Apps > Framework (java + native) > **Media Provider**
+  - [componentid:655625](http://b/issues?q=componentid:655625)
+- Android > Android OS & Apps > Framework (java + native) > **storage**
+  - [componentid:95221](http://b/issues?q=componentid:95221)
 
 
 # MediaProvider
@@ -144,7 +149,7 @@ E/AndroidRuntime: FATAL EXCEPTION: main
 Same for `libfuse.so` and `libc++.so`.
 
 Workaround:<br>
-`cp` `libfuse.so`, `libfuse_jni.so` and `libc++.so` from `/system/lib64/` to where our (now installed to `/data/`) app will be able to access them, namely `/data/app/<our-pkg-code-dir>/lib/<arch>/`.
+`adb push` the libs (`libfuse.so`, `libfuse_jni.so` and `libc++.so`) from `$OUT/system/lib64/` to where our (now installed to `/data/`) app will be able to access them, namely `/data/app/<our-pkg-code-dir>/lib/<arch>/`.
 
 Full solution:
 ```
@@ -154,8 +159,10 @@ m MediaProviderGoogle && \
     installmod MediaProviderGoogle
 
 lib_path=$(adb shell dumpsys package $pkg | grep "codePath=" | head -1 | sed 's/^.*codePath=//g')/lib/arm64/
-adb shell mkdir -p $lib_path
-adb shell cp /system/lib64/libfuse* /system/lib64/libc++.so $lib_path
+adb shell mkdir -p $lib_path    
+adb push $OUT/system/lib64/libc++.so $lib_path
+adb push $OUT/system/lib64/libfuse.so $lib_path
+adb push $OUT/system/lib64/libfuse_jni.so $lib_path
 ```
 
 ### MediaProvider APEX Module
@@ -354,16 +361,19 @@ mpgapp="com.google.android.providers.media.module"
 docsui="com.google.android.documentsui"
 
 # Make-push MediaProvider app
-function mp-mpapp() {
+function mp-mpapp() {(set -e    
+    m MediaProviderGoogle
+    adb install $ANDROID_PRODUCT_OUT/system/priv-app/MediaProviderGoogle/MediaProviderGoogle.apk
+
     pkg="com.google.android.providers.media.module"
-
-    m MediaProviderGoogle && \
-        installmod MediaProviderGoogle
-
-    lib_path=$(adb shell dumpsys package $pkg | grep "codePath=" | head -1 | sed 's/^.*codePath=//g')/lib/arm64/
-    adb shell mkdir -p $lib_path
-    adb shell cp /system/lib64/libfuse* /system/lib64/libc++.so $lib_path
-}
+    code_path=$(adb shell dumpsys package $pkg | grep "codePath=" | head -1 | sed 's/^.*codePath=//g')
+    lib_path=$code_path/lib/arm64/
+    
+    adb shell mkdir -p $lib_path    
+    adb push $OUT/system/lib64/libc++.so $lib_path
+    adb push $OUT/system/lib64/libfuse.so $lib_path
+    adb push $OUT/system/lib64/libfuse_jni.so $lib_path
+)}
 
 # Make-push DocumentsUI
 function mp-docsui() {
@@ -374,25 +384,32 @@ function mp-docsui() {
 }
 
 # Launch PICK_IMAGES:images/* intent
-alias start-pick-images="
+alias start-pickimages="
     adb shell am start \
         -a android.provider.action.PICK_IMAGES \
         -t image/*"
-alias startpi="start-pick-images"
 
-# Launch GET_CONTENT:images/* intent
-alias start-get-content="\
+# Launch GET_CONTENT intent
+alias start-getcontent="\
     adb shell am start \
-        -a android.intent.action.GET_CONTENT \
-        -t image/*"
-alias startgc="start-get-content"
+        -a android.intent.action.GET_CONTENT"
+
+# Launch GET_CONTENT images/* intent
+alias start-getcontent-image="start-getcontent -t image/*"
+
+# Launch GET_CONTENT video/* intent
+alias start-getcontent-video="start-getcontent -t video/*"
+
+# Launch GET_CONTENT */* intent
+alias start-getcontent-all="start-getcontent -t \'\"*/*\"\'"
 
 # Force-stop MediaProvider
 alias force-stop-mp="adb shell am force-stop com.google.android.providers.media.module"
 
 # Enable/Disable GET_CONTENT takeover:
-alias take-over-get-content="adb shell device_config put storage_native_boot take_over_get_content"
+alias get-takeover-getcontent="adb shell device_config get storage_native_boot take_over_get_content"
+alias set-takeover-getcontent="adb shell device_config put storage_native_boot take_over_get_content"
 # usage:
-# take-over-get-content true
-# take-over-get-content false
+# set-takeover-getcontent true
+# set-takeover-getcontent false
 ```
