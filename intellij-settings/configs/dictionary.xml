@@ -17,10 +17,12 @@
       <w>backgroundthread</w>
       <w>blkdev</w>
       <w>bottomsheet</w>
+      <w>buganizer</w>
       <w>casefold</w>
       <w>chown</w>
       <w>codenames</w>
       <w>codestyles</w>
+      <w>componentid</w>
       <w>corinac</w>
       <w>credstore</w>
       <w>crit</w>
@@ -87,6 +89,7 @@
       <w>kotlinc</w>
       <w>krishang</w>
       <w>landroid</w>
+      <w>libcutils</w>
       <w>libfuse</w>
       <w>ljava</w>
       <w>loglevel</w>
@@ -118,6 +121,7 @@
       <w>photopicker</w>
       <w>plog</w>
       <w>prebuilts</w>
+      <w>presubmit</w>
       <w>prettyprint</w>
       <w>priv</w>
       <w>privapp</w>
@@ -159,8 +163,10 @@
       <w>superblock</w>
       <w>syscall</w>
       <w>sysmacros</w>
+      <w>sysui</w>
       <w>testutils</w>
       <w>tmpmnt</w>
+      <w>uids</w>
       <w>uieventlogger</w>
       <w>uint</w>
       <w>umask</w>
