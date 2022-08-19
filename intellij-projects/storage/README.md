@@ -12,10 +12,11 @@
 
 ## Buganizer
 - Android > Android OS & Apps > Framework (java + native) > **Media Provider**
-  - [componentid:655625](http://b/issues?q=componentid:655625)
+    + [b/issues?q=componentid:655625](http://b/issues?q=componentid:655625)
 - Android > Android OS & Apps > Framework (java + native) > **storage**
-  - [componentid:95221](http://b/issues?q=componentid:95221)
-
+    + [b/issues?q=componentid:95221](http://b/issues?q=componentid:95221)
+- photopicker_development
+    + [b/hotlists/3779278](http://b/hotlists/3779278)
 
 # MediaProvider
 
@@ -355,10 +356,12 @@ adb shell am start \
 
 # Env Setup
 ```bash
-# MediaProviderGoogle package name:
-mpgapp="com.google.android.providers.media.module"
-# DocumentsUI package name:
-docsui="com.google.android.documentsui"
+# MediaProvider(Google) priv-app package name
+PKG_MPG_APP="com.google.android.providers.media.module"
+# (Google) MediaProvider APEX package name
+PKG_MPG_APEX="com.google.android.mediaprovider"
+# DocumentsUI package name
+PKG_DOCSUIG="com.google.android.documentsui"
 
 # Make-push MediaProvider app
 function mp-mpapp() {(set -e    
