@@ -3,7 +3,9 @@
     <words>
       <w>aaptflags</w>
       <w>addr</w>
+      <w>adservices</w>
       <w>aidegen</w>
+      <w>albumart</w>
       <w>aliabadi</w>
       <w>allowlisted</w>
       <w>anonymized</w>
@@ -23,6 +25,7 @@
       <w>codenames</w>
       <w>codestyles</w>
       <w>componentid</w>
+      <w>coordinatorlayout</w>
       <w>corinac</w>
       <w>credstore</w>
       <w>crit</w>
@@ -46,6 +49,7 @@
       <w>emmc</w>
       <w>enoent</w>
       <w>enotsup</w>
+      <w>envsetup</w>
       <w>eperm</w>
       <w>erofs</w>
       <w>errored</w>
@@ -60,6 +64,7 @@
       <w>filegroup</w>
       <w>filesytsem</w>
       <w>fixup</w>
+      <w>flinger</w>
       <w>fmask</w>
       <w>fscontext</w>
       <w>fscrypt</w>
@@ -78,6 +83,8 @@
       <w>hiddenapi</w>
       <w>hotword</w>
       <w>hpfs</w>
+      <w>iconloader</w>
+      <w>ident</w>
       <w>indexable</w>
       <w>infos</w>
       <w>inval</w>
@@ -86,22 +93,29 @@
       <w>javacflags</w>
       <w>jffi</w>
       <w>kdev</w>
+      <w>keyset</w>
       <w>kotlinc</w>
       <w>krishang</w>
       <w>landroid</w>
       <w>libcutils</w>
       <w>libfuse</w>
       <w>ljava</w>
+      <w>localbroadcastmanager</w>
+      <w>logd</w>
       <w>loglevel</w>
+      <w>logv</w>
+      <w>logw</w>
       <w>logwrap</w>
       <w>lowlevel</w>
       <w>lstat</w>
       <w>mediaprovider</w>
       <w>mediavolume</w>
       <w>mkfs</w>
+      <w>modulemetadata</w>
       <w>moma</w>
       <w>mountpoint</w>
       <w>mountpoints</w>
+      <w>mpapp</w>
       <w>mtab</w>
       <w>multilib</w>
       <w>namespaced</w>
@@ -119,6 +133,7 @@
       <w>parseint</w>
       <w>passthrough</w>
       <w>photopicker</w>
+      <w>pickimages</w>
       <w>plog</w>
       <w>prebuilts</w>
       <w>presubmit</w>
@@ -145,8 +160,11 @@
       <w>sdkinfo</w>
       <w>sergeynv</w>
       <w>setgid</w>
+      <w>setprop</w>
       <w>setreuid</w>
+      <w>settingslib</w>
       <w>setuid</w>
+      <w>setupdesign</w>
       <w>sgdisk</w>
       <w>shubhi</w>
       <w>shubhisaxena</w>
@@ -161,9 +179,12 @@
       <w>storaged</w>
       <w>stringprintf</w>
       <w>superblock</w>
+      <w>swcodec</w>
       <w>syscall</w>
       <w>sysmacros</w>
+      <w>systemui</w>
       <w>sysui</w>
+      <w>syswrite</w>
       <w>testutils</w>
       <w>tmpmnt</w>
       <w>uids</w>
@@ -183,6 +204,7 @@
       <w>werror</w>
       <w>weverything</w>
       <w>writeback</w>
+      <w>xattr</w>
       <w>zram</w>
     </words>
   </component>
