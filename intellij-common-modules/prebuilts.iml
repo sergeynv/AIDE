@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="jar://$ANDROID_TREE$/prebuilts/tools/common/m2/repository/com/google/truth/truth/1.0.1/truth-1.0.1-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/tools/common/m2/repository/com/google/truth/truth/1.0.1/truth-1.0.1-sources.jar!/" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>
