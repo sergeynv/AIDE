@@ -23,6 +23,7 @@
     <orderEntry type="module" module-name="media-provider" exported="" />
     <orderEntry type="module" module-name="pkgs-modules" exported="" />
     <orderEntry type="module" module-name="pkgs-providers" exported="" />
+    <orderEntry type="module" module-name="prebuilts" exported="" />
     <orderEntry type="module" module-name="sdk-extras" exported="" />
     <orderEntry type="module" module-name="tools" exported="" />
     <orderEntry type="inheritedJdk" />
