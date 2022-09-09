@@ -10,6 +10,12 @@
       <sourceFolder url="file://$ANDROID_TREE$/external/icu/android_icu4j/libcore_bridge/src/java" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/external/icu/android_icu4j/src/main/java" isTestSource="false" />
     </content>
+    <content url="file://$ANDROID_TREE$/external/junit">
+      <sourceFolder url="file://$ANDROID_TREE$/external/junit/src/main/java/" isTestSource="false" />
+    </content>
+    <content url="file://$ANDROID_TREE$/external/mockito">
+      <sourceFolder url="file://$ANDROID_TREE$/external/mockito/src/main/java/" isTestSource="false" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
