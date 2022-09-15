@@ -6,7 +6,7 @@
     <orderEntry type="module" module-name="fw-core" exported="" />
     <orderEntry type="module" module-name="fw-gen" exported="" />
     <orderEntry type="module" module-name="fw-graphics" exported="" />
-    <orderEntry type="module" module-name="fw-test-base" exported="" />
+    <orderEntry type="module" module-name="fw-test-x" exported="" />
     <orderEntry type="module" module-name="androidx" exported="" />
     <orderEntry type="module" module-name="androidx-test" exported="" />
     <orderEntry type="module" module-name="kotlin" exported="" />

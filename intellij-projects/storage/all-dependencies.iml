@@ -16,7 +16,7 @@
     <orderEntry type="module" module-name="fw-media" exported="" />
     <orderEntry type="module" module-name="fw-services" exported="" />
     <orderEntry type="module" module-name="fw-telephony" exported="" />
-    <orderEntry type="module" module-name="fw-test-base" exported="" />
+    <orderEntry type="module" module-name="fw-test-x" exported="" />
     <orderEntry type="module" module-name="fws-libs" exported="" />
     <orderEntry type="module" module-name="guava" exported="" />
     <orderEntry type="module" module-name="libcore" exported="" />

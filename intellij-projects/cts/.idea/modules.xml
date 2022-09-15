@@ -12,7 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/common-modules/fw-core.iml" filepath="$PROJECT_DIR$/common-modules/fw-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/fw-gen.iml" filepath="$PROJECT_DIR$/common-modules/fw-gen.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/fw-graphics.iml" filepath="$PROJECT_DIR$/common-modules/fw-graphics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common-modules/fw-test-base.iml" filepath="$PROJECT_DIR$/common-modules/fw-test-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/fw-test-x.iml" filepath="$PROJECT_DIR$/common-modules/fw-test-x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/platform_testing.iml" filepath="$PROJECT_DIR$/common-modules/platform_testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/kotlin.iml" filepath="$PROJECT_DIR$/common-modules/kotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/libcore.iml" filepath="$PROJECT_DIR$/common-modules/libcore.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/platform_testing.iml" filepath="$PROJECT_DIR$/common-modules/platform_testing.iml" />
