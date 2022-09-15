@@ -18,7 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/common-modules/fw-keystore.iml" filepath="$PROJECT_DIR$/common-modules/fw-keystore.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/fw-services.iml" filepath="$PROJECT_DIR$/common-modules/fw-services.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/fw-telephony.iml" filepath="$PROJECT_DIR$/common-modules/fw-telephony.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common-modules/fw-test-base.iml" filepath="$PROJECT_DIR$/common-modules/fw-test-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/fw-test-x.iml" filepath="$PROJECT_DIR$/common-modules/fw-test-x.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/fws-libs.iml" filepath="$PROJECT_DIR$/common-modules/fws-libs.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/guava.iml" filepath="$PROJECT_DIR$/common-modules/guava.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/kotlin.iml" filepath="$PROJECT_DIR$/common-modules/kotlin.iml" />
