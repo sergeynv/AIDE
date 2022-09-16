@@ -29,13 +29,13 @@
     </content>
 
     <!-- appcompat/appcompat -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat/1.6.0-alpha02/appcompat-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat/1.6.0-alpha02/appcompat-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat/1.6.0-rc01/appcompat-1.6.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat/1.6.0-rc01/appcompat-1.6.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- appcompat/appcompat-resources -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat-resources/1.6.0-alpha02/appcompat-resources-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat-resources/1.6.0-alpha02/appcompat-resources-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat-resources/1.6.0-rc01/appcompat-resources-1.6.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/appcompat/appcompat-resources/1.6.0-rc01/appcompat-resources-1.6.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- appsearch/appsearch -->
@@ -399,73 +399,73 @@
     </content>
 
     <!-- lifecycle/lifecycle-common -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common/2.5.0-alpha03/lifecycle-common-2.5.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common/2.5.0-alpha03/lifecycle-common-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common/2.6.0-alpha02/lifecycle-common-2.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common/2.6.0-alpha02/lifecycle-common-2.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-common-java8 -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common-java8/2.5.0-alpha03/lifecycle-common-java8-2.5.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common-java8/2.5.0-alpha03/lifecycle-common-java8-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common-java8/2.6.0-alpha02/lifecycle-common-java8-2.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common-java8/2.6.0-alpha02/lifecycle-common-java8-2.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-livedata -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata/2.5.0-alpha03/lifecycle-livedata-2.5.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata/2.5.0-alpha03/lifecycle-livedata-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata/2.6.0-alpha02/lifecycle-livedata-2.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata/2.6.0-alpha02/lifecycle-livedata-2.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-livedata-core -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core/2.5.0-alpha03/lifecycle-livedata-core-2.5.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core/2.5.0-alpha03/lifecycle-livedata-core-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core/2.6.0-alpha02/lifecycle-livedata-core-2.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core/2.6.0-alpha02/lifecycle-livedata-core-2.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-livedata-core-ktx -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core-ktx/2.5.0-alpha03/lifecycle-livedata-core-ktx-2.5.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core-ktx/2.5.0-alpha03/lifecycle-livedata-core-ktx-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core-ktx/2.6.0-alpha02/lifecycle-livedata-core-ktx-2.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core-ktx/2.6.0-alpha02/lifecycle-livedata-core-ktx-2.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-livedata-ktx -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-ktx/2.5.0-alpha03/lifecycle-livedata-ktx-2.5.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-ktx/2.5.0-alpha03/lifecycle-livedata-ktx-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-ktx/2.6.0-alpha02/lifecycle-livedata-ktx-2.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-ktx/2.6.0-alpha02/lifecycle-livedata-ktx-2.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-process -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-process/2.5.0-alpha03/lifecycle-process-2.5.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-process/2.5.0-alpha03/lifecycle-process-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-process/2.6.0-alpha02/lifecycle-process-2.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-process/2.6.0-alpha02/lifecycle-process-2.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-runtime -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime/2.5.0-alpha03/lifecycle-runtime-2.5.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime/2.5.0-alpha03/lifecycle-runtime-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime/2.6.0-alpha02/lifecycle-runtime-2.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime/2.6.0-alpha02/lifecycle-runtime-2.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-runtime-ktx -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-ktx/2.5.0-alpha03/lifecycle-runtime-ktx-2.5.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-ktx/2.5.0-alpha03/lifecycle-runtime-ktx-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-ktx/2.6.0-alpha02/lifecycle-runtime-ktx-2.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-ktx/2.6.0-alpha02/lifecycle-runtime-ktx-2.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-service -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-service/2.5.0-alpha03/lifecycle-service-2.5.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-service/2.5.0-alpha03/lifecycle-service-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-service/2.6.0-alpha02/lifecycle-service-2.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-service/2.6.0-alpha02/lifecycle-service-2.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-viewmodel -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel/2.5.0-alpha03/lifecycle-viewmodel-2.5.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel/2.5.0-alpha03/lifecycle-viewmodel-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel/2.6.0-alpha02/lifecycle-viewmodel-2.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel/2.6.0-alpha02/lifecycle-viewmodel-2.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-viewmodel-compose -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-compose/2.5.0-alpha03/lifecycle-viewmodel-compose-2.5.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-compose/2.5.0-alpha03/lifecycle-viewmodel-compose-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-compose/2.6.0-alpha02/lifecycle-viewmodel-compose-2.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-compose/2.6.0-alpha02/lifecycle-viewmodel-compose-2.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-viewmodel-ktx -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-ktx/2.5.0-alpha03/lifecycle-viewmodel-ktx-2.5.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-ktx/2.5.0-alpha03/lifecycle-viewmodel-ktx-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-ktx/2.6.0-alpha02/lifecycle-viewmodel-ktx-2.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-ktx/2.6.0-alpha02/lifecycle-viewmodel-ktx-2.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-viewmodel-savedstate -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.5.0-alpha03/lifecycle-viewmodel-savedstate-2.5.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.5.0-alpha03/lifecycle-viewmodel-savedstate-2.5.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.6.0-alpha02/lifecycle-viewmodel-savedstate-2.6.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.6.0-alpha02/lifecycle-viewmodel-savedstate-2.6.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- loader/loader -->
@@ -701,6 +701,11 @@
     <!-- swiperefreshlayout/swiperefreshlayout -->
     <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/swiperefreshlayout/swiperefreshlayout/1.2.0-alpha01/swiperefreshlayout-1.2.0-alpha01-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/swiperefreshlayout/swiperefreshlayout/1.2.0-alpha01/swiperefreshlayout-1.2.0-alpha01-sources.jar!/" isTestSource="false" />
+    </content>
+
+    <!-- test/uiautomator/uiautomator -->
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/test/uiautomator/uiautomator/2.3.0-alpha01/uiautomator-2.3.0-alpha01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/test/uiautomator/uiautomator/2.3.0-alpha01/uiautomator-2.3.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- textclassifier/textclassifier -->
