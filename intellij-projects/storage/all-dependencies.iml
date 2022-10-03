@@ -25,6 +25,7 @@
     <orderEntry type="module" module-name="pkgs-providers" exported="" />
     <orderEntry type="module" module-name="prebuilts" exported="" />
     <orderEntry type="module" module-name="sdk-extras" exported="" />
+    <orderEntry type="module" module-name="settingslib" exported="" />
     <orderEntry type="module" module-name="tools" exported="" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -31,6 +31,8 @@
       <module fileurl="file://$PROJECT_DIR$/common-modules/pkgs-providers.iml" filepath="$PROJECT_DIR$/common-modules/pkgs-providers.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/prebuilts.iml" filepath="$PROJECT_DIR$/common-modules/prebuilts.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/sdk-extras.iml" filepath="$PROJECT_DIR$/common-modules/sdk-extras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/settings.iml" filepath="$PROJECT_DIR$/common-modules/settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/settingslib.iml" filepath="$PROJECT_DIR$/common-modules/settingslib.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/tools.iml" filepath="$PROJECT_DIR$/common-modules/tools.iml" />
 
       <module fileurl="file://$PROJECT_DIR$/common-modules/AIDE.iml" filepath="$PROJECT_DIR$/common-modules/AIDE.iml" />
