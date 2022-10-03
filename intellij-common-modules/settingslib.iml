@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib">
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/ActionBarShadow/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/ActionButtonsPreference/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/ActionButtonsPreference/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/ActivityEmbedding/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/AdaptiveIcon/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/AdaptiveIcon/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/AppPreference/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/AppPreference/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/BannerMessagePreference/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/BannerMessagePreference/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/BarChartPreference/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/BarChartPreference/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/ButtonPreference/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/ButtonPreference/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/CollapsingToolbarBaseActivity/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/CollapsingToolbarBaseActivity/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/DeviceStateRotationLock/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/DisplayDensityUtils/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/EntityHeaderWidgets/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/EntityHeaderWidgets/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/FooterPreference/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/FooterPreference/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/HelpUtils/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/HelpUtils/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/IllustrationPreference/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/IllustrationPreference/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/LayoutPreference/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/LayoutPreference/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/MainSwitchPreference/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/MainSwitchPreference/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/ProgressBar/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/RadioButtonPreference/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/RadioButtonPreference/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/RestrictedLockUtils/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/RestrictedLockUtils/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/SchedulesProvider/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/SchedulesProvider/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/SearchProvider/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/SelectorWithWidgetPreference/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/SettingsSpinner/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/SettingsTransition/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/SpaPrivileged/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/Tile/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/TopIntroPreference/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/TwoTargetPreference/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/UsageProgressBarPreference/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/Utils/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/search/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/search/stub-src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/tests" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/SettingsCore/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>
