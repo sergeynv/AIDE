@@ -13,6 +13,11 @@
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/core/1.5.0-alpha02/core-1.5.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
+    <!-- espresso/espresso-accessibility -->
+    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-accessibility/3.5.0-alpha07/espresso-accessibility-3.5.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-accessibility/3.5.0-alpha07/espresso-accessibility-3.5.0-alpha07-sources.jar!/" isTestSource="false" />
+    </content>
+
     <!-- espresso/espresso-contrib -->
     <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-contrib/3.5.0-alpha07/espresso-contrib-3.5.0-alpha07-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-contrib/3.5.0-alpha07/espresso-contrib-3.5.0-alpha07-sources.jar!/" isTestSource="false" />
