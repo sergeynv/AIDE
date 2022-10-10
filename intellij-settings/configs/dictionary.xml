@@ -20,7 +20,10 @@
       <w>blkdev</w>
       <w>bottomsheet</w>
       <w>buganizer</w>
+      <w>byrotation</w>
       <w>casefold</w>
+      <w>cdmp</w>
+      <w>cellbroadcast</w>
       <w>chown</w>
       <w>codenames</w>
       <w>codestyles</w>
@@ -78,21 +81,27 @@
       <w>getuid</w>
       <w>gids</w>
       <w>gifdecoder</w>
+      <w>gomod</w>
       <w>greylist</w>
       <w>grigoras</w>
+      <w>healthconnect</w>
       <w>hiddenapi</w>
+      <w>hmmss</w>
       <w>hotword</w>
       <w>hpfs</w>
       <w>iconloader</w>
       <w>ident</w>
       <w>indexable</w>
       <w>infos</w>
+      <w>instrumentable</w>
       <w>inval</w>
       <w>iostream</w>
+      <w>jank</w>
       <w>jarjar</w>
       <w>javacflags</w>
       <w>jffi</w>
       <w>kdev</w>
+      <w>keyevent</w>
       <w>keyset</w>
       <w>kotlinc</w>
       <w>krishang</w>
@@ -116,6 +125,7 @@
       <w>mountpoint</w>
       <w>mountpoints</w>
       <w>mpapp</w>
+      <w>mpconfig</w>
       <w>mtab</w>
       <w>multilib</w>
       <w>namespaced</w>
@@ -133,11 +143,15 @@
       <w>parseint</w>
       <w>passthrough</w>
       <w>photopicker</w>
+      <w>pickerapp</w>
+      <w>pickerdb</w>
       <w>pickimages</w>
       <w>plog</w>
       <w>prebuilts</w>
+      <w>preloader</w>
       <w>presubmit</w>
       <w>prettyprint</w>
+      <w>prio</w>
       <w>priv</w>
       <w>privapp</w>
       <w>proc</w>
@@ -198,6 +212,7 @@
       <w>unlocalizable</w>
       <w>unsupportedappusage</w>
       <w>usap</w>
+      <w>userdebug</w>
       <w>vectordrawable</w>
       <w>vintf</w>
       <w>vold</w>
