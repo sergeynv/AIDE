@@ -13,6 +13,11 @@
       <sourceFolder url="file://$ANDROID_TREE$/packages/apps/Settings/src" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/apps/Settings/tests" isTestSource="true" />
     </content>
+    <content url="file://$ANDROID_TREE$/packages/apps/SettingsIntelligence">
+      <sourceFolder url="file://$ANDROID_TREE$/packages/apps/SettingsIntelligence/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/apps/SettingsIntelligence/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/apps/SettingsIntelligence/tests" isTestSource="true" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
