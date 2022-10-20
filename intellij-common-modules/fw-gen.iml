@@ -149,6 +149,22 @@
       <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/proto_logging/stats/enums/app/enums.srcjar!/" isTestSource="false" generated="true" />
     </content>
 
+    <!-- android.app.settings.SettingsEnums -->
+    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/proto_logging/stats/enums/app/settings_enums.srcjar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/proto_logging/stats/enums/app/settings_enums.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+
+    <!--
+      com.android.internal.logging.nano.MetricsProto
+      com.android.internal.location.nano.GnssLogsProto
+      com.android.internal.messages.nano.SystemMessageProto
+      com.android.server.wm.nano.WindowManagerProtos
+      and other nano protos...
+    -->
+    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/proto/framework-protos/android_common/gen/proto/proto0.srcjar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/proto/framework-protos/android_common/gen/proto/proto0.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
