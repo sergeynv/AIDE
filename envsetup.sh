@@ -9,10 +9,11 @@ alias jb-configs="cd ${__JETBRAINS_CONFIGS}"
 
 
 # IntelliJ IDEA
-__INTELLIJ_IDEA_VERSION="2021.3" # /opt/intellij-ce-2021.3
+__INTELLIJ_IDEA_VERSION="2021.3"
+__INTELLIJ_IDEA_PATH="/opt/intellij-ce-${__INTELLIJ_IDEA_VERSION}"
 __INTELLIJ_IDEA_CONFIGS="${__JETBRAINS_CONFIGS}/IdeaIC${__INTELLIJ_IDEA_VERSION}"
 
-alias idea="/opt/intellij-ce-${__INTELLIJ_IDEA_VERSION}/bin/idea.sh"
+alias idea="${__INTELLIJ_IDEA_PATH}/bin/idea.sh"
 alias idea-stable="/opt/intellij-ce-stable/bin/idea.sh"
 
 alias idea-version="echo ${__INTELLIJ_IDEA_VERSION}"
@@ -20,6 +21,8 @@ alias idea-bins="ls -ld /opt/intellij-ce-*"
 
 alias idea-configs="cd ${__INTELLIJ_IDEA_CONFIGS}"
 alias idea-paths="subl ${__INTELLIJ_IDEA_CONFIGS}/options/path.macros.xml"
+
+alias kill-idea="killall ${__INTELLIJ_IDEA_PATH}/jbr/bin/java"
 
 
 # Android Studio with Blaze
