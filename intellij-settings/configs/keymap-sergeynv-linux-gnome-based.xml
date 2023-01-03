@@ -53,6 +53,8 @@
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorUnSelectWord" />
+  <action id="ExpressionTypeInfo" />
+  <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
@@ -60,6 +62,7 @@
   <action id="FileChooser.LightEditGotoOpenedFile">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl 0" />
@@ -70,12 +73,18 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="GotoBookmark0" />
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="GotoBookmark3" />
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="GotoNextError" />
   <action id="GotoTest" />
   <action id="GuiDesigner.EditComponent" />
