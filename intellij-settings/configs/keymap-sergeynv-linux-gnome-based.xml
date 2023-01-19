@@ -48,6 +48,8 @@
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorDuplicate" />
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -91,11 +93,15 @@
   <action id="GuiDesigner.EditGroup" />
   <action id="GuiDesigner.ShrinkSelection" />
   <action id="KotlinShellExecute" />
+  <action id="NextEditorTab" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
+  <action id="PreviousEditorTab" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
