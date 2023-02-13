@@ -9,6 +9,7 @@
       <w>aliabadi</w>
       <w>allowlisted</w>
       <w>anonymized</w>
+      <w>aosp</w>
       <w>apexd</w>
       <w>appop</w>
       <w>appops</w>
@@ -25,6 +26,8 @@
       <w>cdmp</w>
       <w>cellbroadcast</w>
       <w>chown</w>
+      <w>cloudpicker</w>
+      <w>cloudprovider</w>
       <w>codenames</w>
       <w>codestyles</w>
       <w>componentid</w>
@@ -87,6 +90,7 @@
       <w>healthconnect</w>
       <w>hiddenapi</w>
       <w>hmmss</w>
+      <w>hooli</w>
       <w>hotword</w>
       <w>hpfs</w>
       <w>iconloader</w>
@@ -139,6 +143,7 @@
       <w>nosuid</w>
       <w>nullpath</w>
       <w>opstr</w>
+      <w>overlayable</w>
       <w>paramstr</w>
       <w>parseint</w>
       <w>passthrough</w>
@@ -168,6 +173,7 @@
       <w>resizefs</w>
       <w>retranslate</w>
       <w>rootmode</w>
+      <w>rros</w>
       <w>ruid</w>
       <w>saxena</w>
       <w>sdcardfs</w>
