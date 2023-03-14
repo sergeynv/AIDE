@@ -1,7 +1,8 @@
 # Source AIDE/envsetup.sh before running this
-function idea-link-configs() {
+function link-aide-configs() {
     src="${__AIDE_HOME}/intellij-settings/configs"
-    dest="${dest}/options"
+    
+    dest="${__INTELLIJ_IDEA_CONFIGS}/options"
     __exec mkdir -p ${dest}
     __exec ln -sf \
         ${src}/sdks.xml \
@@ -34,12 +35,10 @@ function idea-link-configs() {
 }
 
 
-__EXEC_DRY_RUN=0
+__EXEC_DRY_RUN=1
 function __exec() {
    cmd="$@"
    echo $cmd
-
-   if [[ __EXEC_DRY_RUN -eq 0 ]]; then
-      $cmd
-   fi
 }
+
+link-aide-configs()
