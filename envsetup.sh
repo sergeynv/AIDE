@@ -33,7 +33,7 @@ alias aswb-stable="/opt/android-studio-with-blaze-stable/bin/studio.sh"
 alias aswb-version="echo ${__ASwB_VERSION}"
 alias aswb-ls-installed="ls -ld /opt/android-studio-with-blaze-*"
 
-alias idea-cd-configs-dir="echo '\"aswb-configs\" alias not set up'"
+alias aswb-cd-configs-dir="echo '\"aswb-configs\" alias not set up'"
 alias aswb-open-paths-config="echo '\"aswb-paths\" alias not set up'"
 
 # AIDE
