@@ -19,33 +19,33 @@
     </content>
 
     <!-- espresso/espresso-contrib -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-contrib/3.5.0/espresso-contrib-3.5.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-contrib/3.5.0/espresso-contrib-3.5.0-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-contrib/3.5.1/espresso-contrib-3.5.1-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-contrib/3.5.1/espresso-contrib-3.5.1-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- espresso/espresso-core -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-core/3.5.0/espresso-core-3.5.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-core/3.5.0/espresso-core-3.5.0-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-core/3.5.1/espresso-core-3.5.1-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-core/3.5.1/espresso-core-3.5.1-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- espresso/espresso-idling-resource -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-idling-resource/3.5.0/espresso-idling-resource-3.5.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-idling-resource/3.5.0/espresso-idling-resource-3.5.0-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-idling-resource/3.5.1/espresso-idling-resource-3.5.1-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-idling-resource/3.5.1/espresso-idling-resource-3.5.1-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- espresso/espresso-intents -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-intents/3.5.0/espresso-intents-3.5.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-intents/3.5.0/espresso-intents-3.5.0-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-intents/3.5.1/espresso-intents-3.5.1-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-intents/3.5.1/espresso-intents-3.5.1-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- espresso/espresso-web -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-web/3.5.0/espresso-web-3.5.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-web/3.5.0/espresso-web-3.5.0-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-web/3.5.1/espresso-web-3.5.1-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/espresso/espresso-web/3.5.1/espresso-web-3.5.1-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- ext/junit -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/ext/junit/1.1.4/junit-1.1.4-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/ext/junit/1.1.4/junit-1.1.4-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/ext/junit/1.1.5/junit-1.1.5-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/ext/junit/1.1.5/junit-1.1.5-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- ext/truth -->
@@ -59,8 +59,8 @@
     </content>
 
     <!-- monitor -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/monitor/1.6.0/monitor-1.6.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/monitor/1.6.0/monitor-1.6.0-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/monitor/1.6.1/monitor-1.6.1-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/monitor/1.6.1/monitor-1.6.1-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- rules -->
@@ -69,8 +69,8 @@
     </content>
 
     <!-- runner -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/runner/1.5.0/runner-1.5.0-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/runner/1.5.0/runner-1.5.0-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/runner/1.5.3-alpha01/runner-1.5.3-alpha01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/runner/1.5.3-alpha01/runner-1.5.3-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- services/storage -->
