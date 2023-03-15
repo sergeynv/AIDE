@@ -1,7 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="ANDROID_TREE" value="/android/master" />
     <macro name="MAVEN_REPOSITORY" value="/usr/local/google/home/sergeynv/.m2/repository" />
-    <macro name="KOTLIN_BUNDLED" value="/opt/intellij-ce-2021.3/plugins/Kotlin/kotlinc" />
+    <macro name="ANDROID_TREE" value="/android/master" />
   </component>
 </application>
