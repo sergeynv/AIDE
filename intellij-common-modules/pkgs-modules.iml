@@ -5,11 +5,16 @@
     <content url="file://$ANDROID_TREE$/packages/modules">
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/framework/java" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/framework/java/external" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/service/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/coretests/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/coretests/src/android/app/appsearch/external/app" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/coretests/src/android/app/appsearch/external/exceptions" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/coretests/src/android/app/appsearch/external/util" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/mockingservicestests/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/servicestests/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/servicestests/src/android/app/appsearch/testutil/external/testutil" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/servicestests/src/com/android/server/appsearch" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/testutils/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/testutils/src/android/app/appsearch/testutil/external" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/testutils/src/android/app/appsearch/testutil/external/testutil" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/android/app/lib/mapapi" isTestSource="false" />
@@ -28,17 +33,33 @@
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/android/app/tests/unit/src/com/android/bluetooth/btservice/activityAttribution" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/android/app/tests/unit/src/com/android/bluetooth/btservice/bluetoothKeystore" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/android/app/tests/unit/src/com/android/bluetooth/obex" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/framework/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/framework/tests/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/le_audio/frameworks/base/core/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/le_audio/frameworks/base/packages/SettingsLib/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/le_audio/packages/apps/Bluetooth/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/le_audio/packages/apps/Settings/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/service/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/service/tests/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/CaptivePortalLogin/src" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/CaptivePortalLogin/tests/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/CellBroadcastService/src" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/CellBroadcastService/tests/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/ConfigInfrastructure/framework/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/ConfigInfrastructure/service/java" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/Tethering/common/TetheringLib/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/Tethering/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/Tethering/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/Tethering/tests" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/Tethering/tests/integration/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/Tethering/tests/mts/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/Tethering/tests/privileged/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/Tethering/tests/unit/common" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/Tethering/tests/unit/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/framework/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/service/ServiceConnectivityResources/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/service/ServiceConnectivityResources/resources-certs" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/service/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/common/java" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/cts/hostside/app/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/cts/hostside/app2/src" isTestSource="true" />
@@ -47,12 +68,15 @@
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/cts/net/appForApi23/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/cts/net/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/cts/net/util/java" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/cts/tethering/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/cts/tethering/src/android/tethering/cts" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/deflake/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/integration/res" type="java-test-resource" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/integration/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/integration/util" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/smoketest/java" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/unit/java" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/unit/res" type="java-test-resource" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Cronet/tests/apitest/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/ExtServices/java/src" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/ExtServices/java/tests/src" isTestSource="true" />
@@ -96,7 +120,12 @@
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/IPsec/tests/iketests/src/java/com/android/internal/net/utils" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/IntentResolver/java/src" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/IntentResolver/java/tests/src/com/android/intentresolver" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Media/apex/aidl/private" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Media/apex/aidl/stable" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Media/apex/framework/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Media/apex/service/java" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Nearby/framework/java" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Nearby/service/java" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Nearby/tests/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/NetworkStack/apishim/29" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/NetworkStack/apishim/30" isTestSource="false" />
@@ -160,35 +189,8 @@
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Wifi/service/tests/wifitests/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/adb/fastdeploy/deployagent/src" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/adb/fastdeploy/deployagent/test" isTestSource="false" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/service/java" isTestSource="false" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/coretests/src" isTestSource="true" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/mockingservicestests/src" isTestSource="true" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/servicestests/src" isTestSource="true" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/AppSearch/testing/testutils/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/common/java" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/modules/common/javatests" isTestSource="true" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/service/src" isTestSource="true" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/service/ServiceConnectivityResources/res" type="java-resource" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/service/ServiceConnectivityResources/resources-certs" type="java-resource" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/cts/tethering/src" isTestSource="true" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/integration/res" type="java-test-resource" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/tests/unit/res" type="java-test-resource" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/Tethering/src" isTestSource="false" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/Tethering/tests" isTestSource="true" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Connectivity/Tethering/res" type="java-resource" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/framework/java" isTestSource="false" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/framework/tests/src" isTestSource="true" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/le_audio/frameworks/base/core/java" isTestSource="false" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/le_audio/frameworks/base/packages/SettingsLib/src" isTestSource="false" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/le_audio/packages/apps/Bluetooth/src" isTestSource="false" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/le_audio/packages/apps/Settings/src" isTestSource="false" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/service/java" isTestSource="false" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Bluetooth/service/tests/src" isTestSource="true" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Nearby/service/java" isTestSource="false" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Media/apex/aidl/private" isTestSource="false" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Media/apex/aidl/stable" isTestSource="false" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Media/apex/framework/java" isTestSource="false" />
-      <sourceFolder url="file://$ANDROID_TREE$/packages/modules/Media/apex/service/java" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
