@@ -10,9 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/vold.iml" filepath="$PROJECT_DIR$/vold.iml" />
       <module fileurl="file://$PROJECT_DIR$/cts-photo-picker.iml" filepath="$PROJECT_DIR$/cts-photo-picker.iml" />
 
-      <module fileurl="file://$PROJECT_DIR$/common-modules/androidx.iml" filepath="$PROJECT_DIR$/common-modules/androidx.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/androidx-legacy.iml" filepath="$PROJECT_DIR$/common-modules/androidx-legacy.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/androidx-test.iml" filepath="$PROJECT_DIR$/common-modules/androidx-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/androidx.iml" filepath="$PROJECT_DIR$/common-modules/androidx.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/art.iml" filepath="$PROJECT_DIR$/common-modules/art.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/external.iml" filepath="$PROJECT_DIR$/common-modules/external.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/fw-apex.iml" filepath="$PROJECT_DIR$/common-modules/fw-apex.iml" />
@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/common-modules/pkgs-modules.iml" filepath="$PROJECT_DIR$/common-modules/pkgs-modules.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/pkgs-providers.iml" filepath="$PROJECT_DIR$/common-modules/pkgs-providers.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/prebuilts.iml" filepath="$PROJECT_DIR$/common-modules/prebuilts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/samples.iml" filepath="$PROJECT_DIR$/common-modules/samples.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/sdk-extras.iml" filepath="$PROJECT_DIR$/common-modules/sdk-extras.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/settings.iml" filepath="$PROJECT_DIR$/common-modules/settings.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/settingslib.iml" filepath="$PROJECT_DIR$/common-modules/settingslib.iml" />
