@@ -7,10 +7,11 @@
       <sourceFolder url="file://$ANDROID_TREE$/development/samples/HelloActivity/res" isTestSource="false" />
     </content>
     <content url="file://$ANDROID_TREE$/out/soong/.intermediates/development/samples/HelloActivity">
-      <sourceFolder url="file://$ANDROID_TREE$/out/soong/.intermediates/development/samples/HelloActivity/HelloActivity/android_common/gen/aapt2/R" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/out/soong/.intermediates/development/samples/HelloActivity/PlaygroundApp/android_common/gen/aapt2/R" isTestSource="false" generated="true" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
   </component>
 </module>
