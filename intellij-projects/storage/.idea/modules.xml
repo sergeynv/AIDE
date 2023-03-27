@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/storaged.iml" filepath="$PROJECT_DIR$/storaged.iml" />
       <module fileurl="file://$PROJECT_DIR$/vold.iml" filepath="$PROJECT_DIR$/vold.iml" />
       <module fileurl="file://$PROJECT_DIR$/cts-photo-picker.iml" filepath="$PROJECT_DIR$/cts-photo-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cts-transcode.iml" filepath="$PROJECT_DIR$/cts-transcode.iml" />
 
       <module fileurl="file://$PROJECT_DIR$/common-modules/androidx-legacy.iml" filepath="$PROJECT_DIR$/common-modules/androidx-legacy.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/androidx-test.iml" filepath="$PROJECT_DIR$/common-modules/androidx-test.iml" />

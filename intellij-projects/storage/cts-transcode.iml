@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$ANDROID_TREE$/cts/tests/MediaProviderTranscode/">
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/MediaProviderTranscode/res/" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/MediaProviderTranscode/src/" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/MediaProviderTranscode/helper/src/" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>
