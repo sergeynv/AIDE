@@ -92,12 +92,15 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="$ANDROID_TREE$/cts" vcs="Git" />
+    <mapping directory="$ANDROID_TREE$/development" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/frameworks/base/" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/packages/apps/DocumentsUI" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/packages/apps/Settings" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/packages/providers/MediaProvider" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/system/vold" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/vendor/google/modules/MediaProviderGoogle" vcs="Git" />
+    <mapping directory="$ANDROID_TREE$/vendor/unbundled_google/modules/DocumentsUiPrebuilt" vcs="Git" />
+    <mapping directory="$ANDROID_TREE$/vendor/unbundled_google/packages/DocumentsUIGoogle" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
   </component>
 </project>

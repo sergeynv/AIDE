@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/all-dependencies.iml" filepath="$PROJECT_DIR$/all-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/documents-ui.iml" filepath="$PROJECT_DIR$/documents-ui.iml" />
-      <module fileurl="file://$PROJECT_DIR$/media-provider-google.iml" filepath="$PROJECT_DIR$/media-provider-google.iml" />
       <module fileurl="file://$PROJECT_DIR$/libfuse.iml" filepath="$PROJECT_DIR$/libfuse.iml" />
       <module fileurl="file://$PROJECT_DIR$/storaged.iml" filepath="$PROJECT_DIR$/storaged.iml" />
       <module fileurl="file://$PROJECT_DIR$/vold.iml" filepath="$PROJECT_DIR$/vold.iml" />
