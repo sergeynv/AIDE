@@ -2,9 +2,15 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
+    <content url="file://$ANDROID_TREE$/external/auto">
+      <sourceFolder url="file://$ANDROID_TREE$/external/auto/service/annotations/src/main/java" isTestSource="false" />
+    </content>
     <content url="file://$ANDROID_TREE$/external/conscrypt">
       <sourceFolder url="file://$ANDROID_TREE$/external/conscrypt/common/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/external/conscrypt/repackaged/common/src/main/java" isTestSource="false" />
+    </content>
+    <content url="file://$ANDROID_TREE$/external/glide">
+      <sourceFolder url="file://$ANDROID_TREE$/external/glide/library/src/main/java/" isTestSource="false" />
     </content>
     <content url="file://$ANDROID_TREE$/external/icu/android_icu4j">
       <sourceFolder url="file://$ANDROID_TREE$/external/icu/android_icu4j/libcore_bridge/src/java" isTestSource="false" />
@@ -15,9 +21,6 @@
     </content>
     <content url="file://$ANDROID_TREE$/external/mockito">
       <sourceFolder url="file://$ANDROID_TREE$/external/mockito/src/main/java/" isTestSource="false" />
-    </content>
-    <content url="file://$ANDROID_TREE$/external/glide">
-      <sourceFolder url="file://$ANDROID_TREE$/external/glide/library/src/main/java/" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />

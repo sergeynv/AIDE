@@ -5,6 +5,9 @@
     <content url="jar://$ANDROID_TREE$/prebuilts/tools/common/m2/repository/com/google/truth/truth/1.0.1/truth-1.0.1-sources.jar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/tools/common/m2/repository/com/google/truth/truth/1.0.1/truth-1.0.1-sources.jar!/" isTestSource="false" />
     </content>
+    <content url="jar://$ANDROID_TREE$/prebuilts/cmdline-tools/tools/lib/lint/tools.lint-api.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/cmdline-tools/tools/lib/lint/tools.lint-api.jar!/" isTestSource="false" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
