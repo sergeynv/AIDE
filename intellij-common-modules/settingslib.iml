@@ -59,9 +59,11 @@
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/Instrumentation/src" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/SettingsLib/Lifecycle/src" isTestSource="false" />
     </content>
+    <!-- This already included in fw-gen module.
     <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/proto_logging/stats/enums/app/settings_enums.srcjar!/">
       <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/frameworks/base/framework-javastream-protos/gen/gensrcs/frameworks/proto_logging/stats/enums/app/settings_enums.srcjar!/" isTestSource="false" generated="true" />
     </content>
+    -->
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
