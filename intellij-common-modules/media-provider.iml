@@ -2,15 +2,16 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
+
     <content url="file://$ANDROID_TREE$/out/soong/.intermediates/packages/providers/MediaProvider">
       <sourceFolder url="file://$ANDROID_TREE$/out/soong/.intermediates/packages/providers/MediaProvider/MediaProvider/android_common/gen/aapt2/R" isTestSource="false" generated="true" />
       <sourceFolder url="file://$ANDROID_TREE$/out/soong/.intermediates/packages/providers/MediaProvider/tools/picker-app/PickerApp/android_common/gen/aapt2/R" isTestSource="false" generated="true" />
       <sourceFolder url="file://$ANDROID_TREE$/out/soong/.intermediates/packages/providers/MediaProvider/statslog-mediaprovider-java-gen/gen" isTestSource="false" />
-<<<<<<< main
-=======
-      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/packages/providers/MediaProvider/apex/framework/framework-mediaprovider/android_common_apex30/gen/aidl/aidl0.srcjar!/" isTestSource="false" generated="true" />
->>>>>>> local
     </content>
+    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/packages/providers/MediaProvider/apex/framework/framework-mediaprovider/android_common_apex30/gen/aidl/aidl0.srcjar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/packages/providers/MediaProvider/apex/framework/framework-mediaprovider/android_common_apex30/gen/aidl/aidl0.srcjar!/" isTestSource="false" generated="true" />
+    </content>
+
     <content url="file://$ANDROID_TREE$/packages/providers/MediaProvider">
       <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/apex/framework/java" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/apex/permissions" type="java-resource" />
@@ -34,13 +35,9 @@
       <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/lint/src" isTestSource="false" />
       <sourceFolder url="file://$ANDROID_TREE$/packages/providers/MediaProvider/lint/tests" isTestSource="true" />
     </content>
-<<<<<<< main
-    <content url="jar://$ANDROID_TREE$/out/soong/.intermediates/packages/providers/MediaProvider/apex/framework/framework-mediaprovider/android_common_apex30/gen/aidl/aidl0.srcjar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/out/soong/.intermediates/packages/providers/MediaProvider/apex/framework/framework-mediaprovider/android_common_apex30/gen/aidl/aidl0.srcjar!/" isTestSource="false" generated="true" />
-    </content>
-=======
+
     <content url="file://$ANDROID_TREE$/vendor/google/modules/MediaProviderGoogle/" />
->>>>>>> local
+
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
