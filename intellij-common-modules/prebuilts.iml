@@ -6,7 +6,8 @@
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/tools/common/m2/repository/com/google/truth/truth/1.0.1/truth-1.0.1-sources.jar!/" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$ANDROID_TREE$/prebuilts/cmdline-tools/tools/lib/lint/tools.lint-api.jar!/" />
@@ -15,7 +16,105 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$ANDROID_TREE$/prebuilts/cmdline-tools/tools/lib/lint/tools.lint-checks.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$ANDROID_TREE$/prebuilts/cmdline-tools/tools/lib/common/tools.common.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$ANDROID_TREE$/prebuilts/cmdline-tools/tools/lib/external/lint-psi/intellij-core/intellij-core-mvn.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$ANDROID_TREE$/prebuilts/cmdline-tools/tools/lib/external/lint-psi/kotlin-compiler/kotlin-compiler-mvn.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$ANDROID_TREE$/prebuilts/cmdline-tools/tools/lib/external/lint-psi/uast/uast.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$ANDROID_TREE$/prebuilts/cmdline-tools/tools/lib/lint/cli/cli.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$ANDROID_TREE$/prebuilts/cmdline-tools/tools/lib/lint/lint-checks-proto.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$ANDROID_TREE$/prebuilts/cmdline-tools/tools/lib/lint/tools.lint-model.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$ANDROID_TREE$/prebuilts/cmdline-tools/lint-tests.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$ANDROID_TREE$/prebuilts/cmdline-tools/AndroidGlobalLintChecker.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$ANDROID_TREE$/prebuilts/cmdline-tools/tools/lib/r8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
     <orderEntry type="module" module-name="all-dependencies" />
-    <orderEntry type="inheritedJdk" />
   </component>
 </module>
