@@ -8,6 +8,9 @@
     <content url="file://$ANDROID_TREE$/frameworks/base/test-mock">
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/test-mock/src" isTestSource="false" />
     </content>
+    <content url="file://$ANDROID_TREE$/frameworks/base/test-runner">
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/test-runner/src" isTestSource="false" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
