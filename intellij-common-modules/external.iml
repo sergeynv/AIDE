@@ -22,6 +22,9 @@
     <content url="file://$ANDROID_TREE$/external/mockito">
       <sourceFolder url="file://$ANDROID_TREE$/external/mockito/src/main/java/" isTestSource="false" />
     </content>
+    <content url="file://$ANDROID_TREE$/external/jsr305">
+      <sourceFolder url="file://$ANDROID_TREE$/external/jsr305/ri/src/main/java/" isTestSource="false" />
+    </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
