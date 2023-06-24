@@ -4,12 +4,12 @@ export ANDROID_TREE='/android/master'
 
 # JetBrains
 __JETBRAINS_CONFIGS="${HOME}/.config/JetBrains"
-
 alias jb-configs="cd ${__JETBRAINS_CONFIGS}"
 
 
 # IntelliJ IDEA
-__INTELLIJ_IDEA_VERSION="2022.1"
+# /opt/intellij-ce-2022.3
+__INTELLIJ_IDEA_VERSION="2022.3"
 __INTELLIJ_IDEA_PATH="/opt/intellij-ce-${__INTELLIJ_IDEA_VERSION}"
 __INTELLIJ_IDEA_CONFIGS="${__JETBRAINS_CONFIGS}/IdeaIC${__INTELLIJ_IDEA_VERSION}"
 
@@ -24,8 +24,10 @@ alias idea-ls-installed="ls -ld /opt/intellij-ce-*"
 alias idea-cd-configs-dir="cd ${__INTELLIJ_IDEA_CONFIGS}"
 alias idea-open-paths-config="open ${__INTELLIJ_IDEA_CONFIGS}/options/path.macros.xml"
 
+
 # Android Studio with Blaze
-__ASwB_VERSION="2020.3" # /opt/android-studio-with-blaze-2020.3
+# /opt/android-studio-with-blaze-2022.2
+__ASwB_VERSION="2022.2"
 
 alias aswb="/opt/android-studio-with-blaze-${__ASwB_VERSION}/bin/studio.sh"
 alias aswb-stable="/opt/android-studio-with-blaze-stable/bin/studio.sh"
@@ -35,6 +37,7 @@ alias aswb-ls-installed="ls -ld /opt/android-studio-with-blaze-*"
 
 alias aswb-cd-configs-dir="echo '\"aswb-configs\" alias not set up'"
 alias aswb-open-paths-config="echo '\"aswb-paths\" alias not set up'"
+
 
 # AIDE
 __AIDE_HOME="${HOME}/Desktop/AIDE"
