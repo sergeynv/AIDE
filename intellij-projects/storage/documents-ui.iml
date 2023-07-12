@@ -2,13 +2,24 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$ANDROID_TREE$/cts/hostsidetests/appsecurity/test-apps/DocumentClient">
+    <content url="file://$ANDROID_TREE$/cts/hostsidetests/">
+      <sourceFolder url="file://$ANDROID_TREE$/cts/hostsidetests/appsecurity/res" type="java-test-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/hostsidetests/appsecurity/src" isTestSource="true" />
       <sourceFolder url="file://$ANDROID_TREE$/cts/hostsidetests/appsecurity/test-apps/DocumentClient/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/hostsidetests/appsecurity/test-apps/DocumentProvider/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/hostsidetests/appcompat/compatchanges/app/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/hostsidetests/appcompat/compatchanges/preInstallOverrideApps/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/hostsidetests/appcompat/compatchanges/selinuxapp/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/hostsidetests/appcompat/compatchanges/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/hostsidetests/appcompat/hiddenapi/app/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/hostsidetests/appcompat/hiddenapi/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/hostsidetests/appcompat/host/lib/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/hostsidetests/appcompat/strictjavapackages/src" isTestSource="false" />
     </content>
     <content url="file://$ANDROID_TREE$/frameworks/base/packages/ExternalStorageProvider">
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/ExternalStorageProvider/res" type="java-resource" />
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/ExternalStorageProvider/src" isTestSource="false" />
-      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/ExternalStorageProvider/tests" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/packages/ExternalStorageProvider/tests/src" isTestSource="true" />
     </content>
     <content url="file://$ANDROID_TREE$/out/soong/.intermediates/packages/apps/DocumentsUI">
       <sourceFolder url="file://$ANDROID_TREE$/out/soong/.intermediates/packages/apps/DocumentsUI/DocumentsUI/android_common/gen/aapt2/R" isTestSource="false" generated="true" />
@@ -31,6 +42,7 @@
     </content>
     <content url="file://$ANDROID_TREE$/vendor/unbundled_google/modules/DocumentsUiPrebuilt/" />
     <content url="file://$ANDROID_TREE$/vendor/unbundled_google/packages/DocumentsUIGoogle/" />
+    <content url="file://$ANDROID_TREE$/test/mts/tools/mts-tradefed/res/config/" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="all-dependencies" />
     <orderEntry type="inheritedJdk" />
