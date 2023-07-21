@@ -115,6 +115,15 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$ANDROID_TREE$/prebuilts/misc/common/ub-uiautomator/ub-uiautomator.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
     <orderEntry type="module" module-name="all-dependencies" />
   </component>
 </module>
