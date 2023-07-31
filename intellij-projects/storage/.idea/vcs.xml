@@ -102,5 +102,6 @@
     <mapping directory="$ANDROID_TREE$/vendor/unbundled_google/modules/DocumentsUiPrebuilt" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/vendor/unbundled_google/packages/DocumentsUIGoogle" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../Droid" vcs="Git" />
   </component>
 </project>
