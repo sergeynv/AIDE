@@ -90,7 +90,7 @@
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/core/tests/companiontests/src" isTestSource="true" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="module" module-name="@all-dependencies" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" scope="TEST" name="KotlinJavaRuntime" level="project" />
   </component>

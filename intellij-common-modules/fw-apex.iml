@@ -19,7 +19,7 @@
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/apex/media/service/java" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="module" module-name="@all-dependencies" />
     <orderEntry type="inheritedJdk" />
   </component>
 </module>

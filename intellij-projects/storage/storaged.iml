@@ -2,10 +2,9 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$ANDROID_TREE$/system/core/storaged/">
-    </content>
+    <content url="file://$ANDROID_TREE$/system/core/storaged/" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="module" module-name="@all-dependencies" />
     <orderEntry type="inheritedJdk" />
   </component>
 </module>

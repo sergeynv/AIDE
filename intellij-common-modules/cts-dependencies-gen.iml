@@ -5453,7 +5453,7 @@
     <content url="file://$ANDROID_TREE$/test/suite_harness/common/host-side/util/src">
       <sourceFolder url="file://$ANDROID_TREE$/test/suite_harness/common/host-side/util/src" isTestSource="false" />
     </content>
-    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="module" module-name="@all-dependencies" />
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>

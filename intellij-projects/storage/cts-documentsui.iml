@@ -14,7 +14,7 @@
       <sourceFolder url="file://$ANDROID_TREE$/platform_testing/libraries/compatibility-common-util/src" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="module" module-name="@all-dependencies" />
     <orderEntry type="inheritedJdk" />
   </component>
 </module>

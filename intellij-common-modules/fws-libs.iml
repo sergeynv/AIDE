@@ -8,7 +8,7 @@
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/libs/modules-utils/javatests" isTestSource="true" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="module" module-name="@all-dependencies" />
     <orderEntry type="inheritedJdk" />
   </component>
 </module>

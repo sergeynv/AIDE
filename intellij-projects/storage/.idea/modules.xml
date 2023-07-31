@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/all-dependencies.iml" filepath="$PROJECT_DIR$/all-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/@all-dependencies.iml" filepath="$PROJECT_DIR$/@all-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/documents-ui.iml" filepath="$PROJECT_DIR$/documents-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/libfuse.iml" filepath="$PROJECT_DIR$/libfuse.iml" />
       <module fileurl="file://$PROJECT_DIR$/storaged.iml" filepath="$PROJECT_DIR$/storaged.iml" />
@@ -38,9 +38,9 @@
       <module fileurl="file://$PROJECT_DIR$/common-modules/settingslib.iml" filepath="$PROJECT_DIR$/common-modules/settingslib.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/tools.iml" filepath="$PROJECT_DIR$/common-modules/tools.iml" />
 
-      <module fileurl="file://$PROJECT_DIR$/common-modules/AIDE.iml" filepath="$PROJECT_DIR$/common-modules/AIDE.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common-modules/debugger-enablement/debugger-enablement.iml" filepath="$PROJECT_DIR$/common-modules/debugger-enablement/debugger-enablement.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common-modules/Droid.iml" filepath="$PROJECT_DIR$/common-modules/Droid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/@AIDE.iml" filepath="$PROJECT_DIR$/common-modules/@AIDE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/@debugger-enablement/debugger-enablement.iml" filepath="$PROJECT_DIR$/common-modules/debugger-enablement/@debugger-enablement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-modules/@Droid.iml" filepath="$PROJECT_DIR$/common-modules/@Droid.iml" />
     </modules>
   </component>
 </project>

@@ -7,7 +7,7 @@
       <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/telephony/common" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="module" module-name="@all-dependencies" />
     <orderEntry type="inheritedJdk" />
   </component>
 </module>

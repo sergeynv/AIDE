@@ -21,7 +21,7 @@
       <sourceFolder url="file://$ANDROID_TREE$/packages/apps/SettingsIntelligence/tests" isTestSource="true" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="module" module-name="@all-dependencies" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
   </component>
