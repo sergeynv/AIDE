@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/cts-documentsui.iml" filepath="$PROJECT_DIR$/cts-documentsui.iml" />
       <module fileurl="file://$PROJECT_DIR$/cts-photo-picker.iml" filepath="$PROJECT_DIR$/cts-photo-picker.iml" />
       <module fileurl="file://$PROJECT_DIR$/cts-transcode.iml" filepath="$PROJECT_DIR$/cts-transcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cts-samples.iml" filepath="$PROJECT_DIR$/cts-samples.iml" />
 
       <module fileurl="file://$PROJECT_DIR$/common-modules/androidx-legacy.iml" filepath="$PROJECT_DIR$/common-modules/androidx-legacy.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-modules/androidx-test.iml" filepath="$PROJECT_DIR$/common-modules/androidx-test.iml" />
