@@ -76,7 +76,7 @@ function build_iml() {
     echo \
 '
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="all-dependencies" />
+    <orderEntry type="module" module-name="@all-dependencies" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
   </component>
