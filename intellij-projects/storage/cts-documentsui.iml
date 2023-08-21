@@ -2,17 +2,26 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
+
     <content url="file://$ANDROID_TREE$/cts/common/device-side/util-axt/">
       <sourceFolder url="file://$ANDROID_TREE$/cts/common/device-side/util-axt/src" isTestSource="false" />
     </content>
-    <content url="file://$ANDROID_TREE$/cts/tests/documentsui/">
-      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/documentsui/res" type="java-resource" />
-      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/documentsui/src" isTestSource="true" />
-      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/documentsui/testapp/src" isTestSource="false" />
+
+    <content url="file://$ANDROID_TREE$/cts/tests/storageaccess/">
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/storageaccess/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/storageaccess/src" isTestSource="true" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/storageaccess/testapp/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/storageaccess/StubIme/res" type="java-resource" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/storageaccess/StubIme/src" isTestSource="false" />
+      <sourceFolder url="file://$ANDROID_TREE$/cts/tests/storageaccess/TestDocumentsProvider/src" isTestSource="false" />
     </content>
+
+    <content url="file://$ANDROID_TREE$/test/mts/tools/mts-tradefed/res/config/"/>
+
     <content url="file://$ANDROID_TREE$/platform_testing/libraries/compatibility-common-util/">
       <sourceFolder url="file://$ANDROID_TREE$/platform_testing/libraries/compatibility-common-util/src" isTestSource="false" />
     </content>
+
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="@all-dependencies" />
     <orderEntry type="inheritedJdk" />
