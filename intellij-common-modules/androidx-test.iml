@@ -69,8 +69,8 @@
     </content>
 
     <!-- runner -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/runner/1.6.0-alpha03/runner-1.6.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/runner/1.6.0-alpha03/runner-1.6.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/runner/1.6.0-alpha04/runner-1.6.0-alpha04-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/misc/common/androidx-test/androidx/test/runner/1.6.0-alpha04/runner-1.6.0-alpha04-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- services/storage -->
