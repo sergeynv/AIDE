@@ -11,6 +11,7 @@
     <orderEntry type="module" module-name="fw-apex" exported="" />
     <orderEntry type="module" module-name="fw-cmds" exported="" />
     <orderEntry type="module" module-name="fw-core" exported="" />
+    <orderEntry type="module" module-name="fw-drm" exported="" />
     <orderEntry type="module" module-name="fw-gen" exported="" />
     <orderEntry type="module" module-name="fw-graphics" exported="" />
     <orderEntry type="module" module-name="fw-keystore" exported="" />

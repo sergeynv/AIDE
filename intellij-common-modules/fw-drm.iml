@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$ANDROID_TREE$/frameworks/base/drm">
+      <sourceFolder url="file://$ANDROID_TREE$/frameworks/base/drm/java" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="@all-dependencies" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" scope="TEST" name="KotlinJavaRuntime" level="project" />
+  </component>
+</module>

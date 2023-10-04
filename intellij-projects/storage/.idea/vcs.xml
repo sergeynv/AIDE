@@ -91,17 +91,20 @@
     </option>
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="$ANDROID_TREE$/cts" vcs="Git" />
+    <!-- Seem to cause an error duting traversal at the moment
+    <mapping directory="$ANDROID_TREE$/cts" vcs="Git" /> -->
     <mapping directory="$ANDROID_TREE$/development" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/frameworks/base/" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/packages/apps/DocumentsUI" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/packages/apps/Settings" vcs="Git" />
+    <mapping directory="$ANDROID_TREE$/packages/providers/DownloadProvider" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/packages/providers/MediaProvider" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/system/vold" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/test/mts" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/vendor/google/modules/MediaProviderGoogle" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/vendor/unbundled_google/modules/DocumentsUiPrebuilt" vcs="Git" />
     <mapping directory="$ANDROID_TREE$/vendor/unbundled_google/packages/DocumentsUIGoogle" vcs="Git" />
+    <mapping directory="$ANDROIDX_SRC$/../androidx-main/frameworks/support" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../../Droid" vcs="Git" />
   </component>

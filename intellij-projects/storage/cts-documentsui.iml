@@ -16,6 +16,10 @@
       <sourceFolder url="file://$ANDROID_TREE$/cts/tests/storageaccess/TestDocumentsProvider/src" isTestSource="false" />
     </content>
 
+    <content url="file://$ANDROID_TREE$/cts/tests/app/">
+        <sourceFolder url="file://$ANDROID_TREE$/cts/tests/app/src" isTestSource="true" />
+    </content>
+
     <content url="file://$ANDROID_TREE$/test/mts/tools/mts-tradefed/res/config/"/>
 
     <content url="file://$ANDROID_TREE$/platform_testing/libraries/compatibility-common-util/">
