@@ -4,18 +4,18 @@
     <exclude-output />
 
     <!-- activity/activity -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/activity/activity/1.8.0-alpha07/activity-1.8.0-alpha07-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/activity/activity/1.8.0-alpha07/activity-1.8.0-alpha07-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/activity/activity/1.8.0-rc01/activity-1.8.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/activity/activity/1.8.0-rc01/activity-1.8.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- activity/activity-compose -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/activity/activity-compose/1.8.0-alpha07/activity-compose-1.8.0-alpha07-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/activity/activity-compose/1.8.0-alpha07/activity-compose-1.8.0-alpha07-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/activity/activity-compose/1.8.0-rc01/activity-compose-1.8.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/activity/activity-compose/1.8.0-rc01/activity-compose-1.8.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- activity/activity-ktx -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/activity/activity-ktx/1.8.0-alpha07/activity-ktx-1.8.0-alpha07-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/activity/activity-ktx/1.8.0-alpha07/activity-ktx-1.8.0-alpha07-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/activity/activity-ktx/1.8.0-rc01/activity-ktx-1.8.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/activity/activity-ktx/1.8.0-rc01/activity-ktx-1.8.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- annotation/annotation-experimental -->
@@ -24,8 +24,8 @@
     </content>
 
     <!-- annotation/annotation-jvm -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/annotation/annotation-jvm/1.7.0-rc01/annotation-jvm-1.7.0-rc01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/annotation/annotation-jvm/1.7.0-rc01/annotation-jvm-1.7.0-rc01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/annotation/annotation-jvm/1.8.0-alpha01/annotation-jvm-1.8.0-alpha01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/annotation/annotation-jvm/1.8.0-alpha01/annotation-jvm-1.8.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- appcompat/appcompat -->
@@ -89,23 +89,23 @@
     </content>
 
     <!-- benchmark/benchmark-common -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-common/1.2.0-beta03/benchmark-common-1.2.0-beta03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-common/1.2.0-beta03/benchmark-common-1.2.0-beta03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-common/1.2.0-beta05/benchmark-common-1.2.0-beta05-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-common/1.2.0-beta05/benchmark-common-1.2.0-beta05-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- benchmark/benchmark-junit4 -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-junit4/1.2.0-beta03/benchmark-junit4-1.2.0-beta03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-junit4/1.2.0-beta03/benchmark-junit4-1.2.0-beta03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-junit4/1.2.0-beta05/benchmark-junit4-1.2.0-beta05-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-junit4/1.2.0-beta05/benchmark-junit4-1.2.0-beta05-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- benchmark/benchmark-macro -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-macro/1.2.0-beta03/benchmark-macro-1.2.0-beta03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-macro/1.2.0-beta03/benchmark-macro-1.2.0-beta03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-macro/1.2.0-beta05/benchmark-macro-1.2.0-beta05-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-macro/1.2.0-beta05/benchmark-macro-1.2.0-beta05-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- benchmark/benchmark-macro-junit4 -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-macro-junit4/1.2.0-beta03/benchmark-macro-junit4-1.2.0-beta03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-macro-junit4/1.2.0-beta03/benchmark-macro-junit4-1.2.0-beta03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-macro-junit4/1.2.0-beta05/benchmark-macro-junit4-1.2.0-beta05-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/benchmark/benchmark-macro-junit4/1.2.0-beta05/benchmark-macro-junit4-1.2.0-beta05-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- biometric/biometric -->
@@ -164,28 +164,28 @@
     </content>
 
     <!-- collection/collection-jvm -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/collection/collection-jvm/1.3.0-alpha05/collection-jvm-1.3.0-alpha05-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/collection/collection-jvm/1.3.0-alpha05/collection-jvm-1.3.0-alpha05-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/collection/collection-jvm/1.4.0-alpha01/collection-jvm-1.4.0-alpha01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/collection/collection-jvm/1.4.0-alpha01/collection-jvm-1.4.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- collection/collection-ktx -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/collection/collection-ktx/1.3.0-alpha05/collection-ktx-1.3.0-alpha05-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/collection/collection-ktx/1.3.0-alpha05/collection-ktx-1.3.0-alpha05-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/collection/collection-ktx/1.4.0-alpha01/collection-ktx-1.4.0-alpha01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/collection/collection-ktx/1.4.0-alpha01/collection-ktx-1.4.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/animation/animation-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/animation/animation-android/1.6.0-alpha02/animation-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/animation/animation-android/1.6.0-alpha02/animation-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/animation/animation-android/1.6.0-alpha07/animation-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/animation/animation-android/1.6.0-alpha07/animation-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/animation/animation-core-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/animation/animation-core-android/1.6.0-alpha02/animation-core-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/animation/animation-core-android/1.6.0-alpha02/animation-core-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/animation/animation-core-android/1.6.0-alpha07/animation-core-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/animation/animation-core-android/1.6.0-alpha07/animation-core-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/animation/animation-graphics-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/animation/animation-graphics-android/1.6.0-alpha02/animation-graphics-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/animation/animation-graphics-android/1.6.0-alpha02/animation-graphics-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/animation/animation-graphics-android/1.6.0-alpha07/animation-graphics-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/animation/animation-graphics-android/1.6.0-alpha07/animation-graphics-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/compiler/compiler-hosted -->
@@ -194,48 +194,48 @@
     </content>
 
     <!-- compose/foundation/foundation-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/foundation/foundation-android/1.6.0-alpha02/foundation-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/foundation/foundation-android/1.6.0-alpha02/foundation-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/foundation/foundation-android/1.6.0-alpha07/foundation-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/foundation/foundation-android/1.6.0-alpha07/foundation-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/foundation/foundation-layout-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/foundation/foundation-layout-android/1.6.0-alpha02/foundation-layout-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/foundation/foundation-layout-android/1.6.0-alpha02/foundation-layout-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/foundation/foundation-layout-android/1.6.0-alpha07/foundation-layout-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/foundation/foundation-layout-android/1.6.0-alpha07/foundation-layout-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/material3/material3-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material3/material3-android/1.2.0-alpha04/material3-android-1.2.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material3/material3-android/1.2.0-alpha04/material3-android-1.2.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material3/material3-android/1.2.0-alpha08/material3-android-1.2.0-alpha08-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material3/material3-android/1.2.0-alpha08/material3-android-1.2.0-alpha08-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/material3/material3-window-size-class-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material3/material3-window-size-class-android/1.2.0-alpha04/material3-window-size-class-android-1.2.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material3/material3-window-size-class-android/1.2.0-alpha04/material3-window-size-class-android-1.2.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material3/material3-window-size-class-android/1.2.0-alpha08/material3-window-size-class-android-1.2.0-alpha08-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material3/material3-window-size-class-android/1.2.0-alpha08/material3-window-size-class-android-1.2.0-alpha08-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/material/material-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-android/1.6.0-alpha02/material-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-android/1.6.0-alpha02/material-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-android/1.6.0-alpha07/material-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-android/1.6.0-alpha07/material-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/material/material-icons-core-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-icons-core-android/1.6.0-alpha02/material-icons-core-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-icons-core-android/1.6.0-alpha02/material-icons-core-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-icons-core-android/1.6.0-alpha07/material-icons-core-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-icons-core-android/1.6.0-alpha07/material-icons-core-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/material/material-icons-extended-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-icons-extended-android/1.6.0-alpha02/material-icons-extended-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-icons-extended-android/1.6.0-alpha02/material-icons-extended-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-icons-extended-android/1.6.0-alpha07/material-icons-extended-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-icons-extended-android/1.6.0-alpha07/material-icons-extended-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/material/material-ripple-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-ripple-android/1.6.0-alpha02/material-ripple-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-ripple-android/1.6.0-alpha02/material-ripple-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-ripple-android/1.6.0-alpha07/material-ripple-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/material/material-ripple-android/1.6.0-alpha07/material-ripple-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/runtime/runtime-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/runtime/runtime-android/1.6.0-alpha02/runtime-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/runtime/runtime-android/1.6.0-alpha02/runtime-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/runtime/runtime-android/1.6.0-alpha07/runtime-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/runtime/runtime-android/1.6.0-alpha07/runtime-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/runtime/runtime-livedata -->
@@ -244,73 +244,73 @@
     </content>
 
     <!-- compose/runtime/runtime-saveable-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/runtime/runtime-saveable-android/1.6.0-alpha02/runtime-saveable-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/runtime/runtime-saveable-android/1.6.0-alpha02/runtime-saveable-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/runtime/runtime-saveable-android/1.6.0-alpha07/runtime-saveable-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/runtime/runtime-saveable-android/1.6.0-alpha07/runtime-saveable-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/runtime/runtime-tracing -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/runtime/runtime-tracing/1.0.0-alpha03/runtime-tracing-1.0.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/runtime/runtime-tracing/1.0.0-alpha03/runtime-tracing-1.0.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/runtime/runtime-tracing/1.0.0-alpha05/runtime-tracing-1.0.0-alpha05-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/runtime/runtime-tracing/1.0.0-alpha05/runtime-tracing-1.0.0-alpha05-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/ui/ui-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-android/1.6.0-alpha02/ui-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-android/1.6.0-alpha02/ui-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-android/1.6.0-alpha07/ui-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-android/1.6.0-alpha07/ui-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/ui/ui-geometry-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-geometry-android/1.6.0-alpha02/ui-geometry-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-geometry-android/1.6.0-alpha02/ui-geometry-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-geometry-android/1.6.0-alpha07/ui-geometry-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-geometry-android/1.6.0-alpha07/ui-geometry-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/ui/ui-graphics-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-graphics-android/1.6.0-alpha02/ui-graphics-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-graphics-android/1.6.0-alpha02/ui-graphics-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-graphics-android/1.6.0-alpha07/ui-graphics-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-graphics-android/1.6.0-alpha07/ui-graphics-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/ui/ui-test-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-test-android/1.6.0-alpha02/ui-test-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-test-android/1.6.0-alpha02/ui-test-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-test-android/1.6.0-alpha07/ui-test-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-test-android/1.6.0-alpha07/ui-test-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/ui/ui-test-junit4-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-test-junit4-android/1.6.0-alpha02/ui-test-junit4-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-test-junit4-android/1.6.0-alpha02/ui-test-junit4-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-test-junit4-android/1.6.0-alpha07/ui-test-junit4-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-test-junit4-android/1.6.0-alpha07/ui-test-junit4-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/ui/ui-test-manifest -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-test-manifest/1.6.0-alpha02/ui-test-manifest-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-test-manifest/1.6.0-alpha02/ui-test-manifest-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-test-manifest/1.6.0-alpha07/ui-test-manifest-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-test-manifest/1.6.0-alpha07/ui-test-manifest-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/ui/ui-text-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-text-android/1.6.0-alpha02/ui-text-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-text-android/1.6.0-alpha02/ui-text-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-text-android/1.6.0-alpha07/ui-text-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-text-android/1.6.0-alpha07/ui-text-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/ui/ui-tooling-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-tooling-android/1.6.0-alpha02/ui-tooling-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-tooling-android/1.6.0-alpha02/ui-tooling-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-tooling-android/1.6.0-alpha07/ui-tooling-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-tooling-android/1.6.0-alpha07/ui-tooling-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/ui/ui-tooling-data-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-tooling-data-android/1.6.0-alpha02/ui-tooling-data-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-tooling-data-android/1.6.0-alpha02/ui-tooling-data-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-tooling-data-android/1.6.0-alpha07/ui-tooling-data-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-tooling-data-android/1.6.0-alpha07/ui-tooling-data-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/ui/ui-tooling-preview-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-tooling-preview-android/1.6.0-alpha02/ui-tooling-preview-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-tooling-preview-android/1.6.0-alpha02/ui-tooling-preview-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-tooling-preview-android/1.6.0-alpha07/ui-tooling-preview-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-tooling-preview-android/1.6.0-alpha07/ui-tooling-preview-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/ui/ui-unit-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-unit-android/1.6.0-alpha02/ui-unit-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-unit-android/1.6.0-alpha02/ui-unit-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-unit-android/1.6.0-alpha07/ui-unit-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-unit-android/1.6.0-alpha07/ui-unit-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- compose/ui/ui-util-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-util-android/1.6.0-alpha02/ui-util-android-1.6.0-alpha02-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-util-android/1.6.0-alpha02/ui-util-android-1.6.0-alpha02-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-util-android/1.6.0-alpha07/ui-util-android-1.6.0-alpha07-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/compose/ui/ui-util-android/1.6.0-alpha07/ui-util-android-1.6.0-alpha07-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- concurrent/concurrent-futures -->
@@ -324,18 +324,18 @@
     </content>
 
     <!-- constraintlayout/constraintlayout -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/constraintlayout/constraintlayout/2.2.0-alpha12/constraintlayout-2.2.0-alpha12-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/constraintlayout/constraintlayout/2.2.0-alpha12/constraintlayout-2.2.0-alpha12-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/constraintlayout/constraintlayout/2.2.0-alpha13/constraintlayout-2.2.0-alpha13-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/constraintlayout/constraintlayout/2.2.0-alpha13/constraintlayout-2.2.0-alpha13-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- constraintlayout/constraintlayout-compose-android -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/constraintlayout/constraintlayout-compose-android/1.1.0-alpha12/constraintlayout-compose-android-1.1.0-alpha12-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/constraintlayout/constraintlayout-compose-android/1.1.0-alpha12/constraintlayout-compose-android-1.1.0-alpha12-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/constraintlayout/constraintlayout-compose-android/1.1.0-alpha13/constraintlayout-compose-android-1.1.0-alpha13-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/constraintlayout/constraintlayout-compose-android/1.1.0-alpha13/constraintlayout-compose-android-1.1.0-alpha13-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- constraintlayout/constraintlayout-core -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/constraintlayout/constraintlayout-core/1.1.0-alpha12/constraintlayout-core-1.1.0-alpha12-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/constraintlayout/constraintlayout-core/1.1.0-alpha12/constraintlayout-core-1.1.0-alpha12-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/constraintlayout/constraintlayout-core/1.1.0-alpha13/constraintlayout-core-1.1.0-alpha13-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/constraintlayout/constraintlayout-core/1.1.0-alpha13/constraintlayout-core-1.1.0-alpha13-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- coordinatorlayout/coordinatorlayout -->
@@ -464,23 +464,23 @@
     </content>
 
     <!-- fragment/fragment -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment/1.7.0-alpha03/fragment-1.7.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment/1.7.0-alpha03/fragment-1.7.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment/1.7.0-alpha05/fragment-1.7.0-alpha05-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment/1.7.0-alpha05/fragment-1.7.0-alpha05-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- fragment/fragment-ktx -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-ktx/1.7.0-alpha03/fragment-ktx-1.7.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-ktx/1.7.0-alpha03/fragment-ktx-1.7.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-ktx/1.7.0-alpha05/fragment-ktx-1.7.0-alpha05-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-ktx/1.7.0-alpha05/fragment-ktx-1.7.0-alpha05-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- fragment/fragment-testing -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-testing/1.7.0-alpha03/fragment-testing-1.7.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-testing/1.7.0-alpha03/fragment-testing-1.7.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-testing/1.7.0-alpha05/fragment-testing-1.7.0-alpha05-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-testing/1.7.0-alpha05/fragment-testing-1.7.0-alpha05-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- fragment/fragment-testing-manifest -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-testing-manifest/1.7.0-alpha03/fragment-testing-manifest-1.7.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-testing-manifest/1.7.0-alpha03/fragment-testing-manifest-1.7.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-testing-manifest/1.7.0-alpha05/fragment-testing-manifest-1.7.0-alpha05-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/fragment/fragment-testing-manifest/1.7.0-alpha05/fragment-testing-manifest-1.7.0-alpha05-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- gridlayout/gridlayout -->
@@ -524,83 +524,83 @@
     </content>
 
     <!-- lifecycle/lifecycle-common -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common/2.7.0-alpha01/lifecycle-common-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common/2.7.0-alpha01/lifecycle-common-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common/2.7.0-alpha02/lifecycle-common-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common/2.7.0-alpha02/lifecycle-common-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-common-java8 -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common-java8/2.7.0-alpha01/lifecycle-common-java8-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common-java8/2.7.0-alpha01/lifecycle-common-java8-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common-java8/2.7.0-alpha02/lifecycle-common-java8-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-common-java8/2.7.0-alpha02/lifecycle-common-java8-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-livedata -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata/2.7.0-alpha01/lifecycle-livedata-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata/2.7.0-alpha01/lifecycle-livedata-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata/2.7.0-alpha02/lifecycle-livedata-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata/2.7.0-alpha02/lifecycle-livedata-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-livedata-core -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core/2.7.0-alpha01/lifecycle-livedata-core-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core/2.7.0-alpha01/lifecycle-livedata-core-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core/2.7.0-alpha02/lifecycle-livedata-core-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core/2.7.0-alpha02/lifecycle-livedata-core-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-livedata-core-ktx -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core-ktx/2.7.0-alpha01/lifecycle-livedata-core-ktx-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core-ktx/2.7.0-alpha01/lifecycle-livedata-core-ktx-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core-ktx/2.7.0-alpha02/lifecycle-livedata-core-ktx-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-core-ktx/2.7.0-alpha02/lifecycle-livedata-core-ktx-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-livedata-ktx -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-ktx/2.7.0-alpha01/lifecycle-livedata-ktx-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-ktx/2.7.0-alpha01/lifecycle-livedata-ktx-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-ktx/2.7.0-alpha02/lifecycle-livedata-ktx-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-livedata-ktx/2.7.0-alpha02/lifecycle-livedata-ktx-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-process -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-process/2.7.0-alpha01/lifecycle-process-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-process/2.7.0-alpha01/lifecycle-process-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-process/2.7.0-alpha02/lifecycle-process-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-process/2.7.0-alpha02/lifecycle-process-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-runtime -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime/2.7.0-alpha01/lifecycle-runtime-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime/2.7.0-alpha01/lifecycle-runtime-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime/2.7.0-alpha02/lifecycle-runtime-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime/2.7.0-alpha02/lifecycle-runtime-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-runtime-compose -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-compose/2.7.0-alpha01/lifecycle-runtime-compose-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-compose/2.7.0-alpha01/lifecycle-runtime-compose-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-compose/2.7.0-alpha02/lifecycle-runtime-compose-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-compose/2.7.0-alpha02/lifecycle-runtime-compose-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-runtime-ktx -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-ktx/2.7.0-alpha01/lifecycle-runtime-ktx-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-ktx/2.7.0-alpha01/lifecycle-runtime-ktx-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-ktx/2.7.0-alpha02/lifecycle-runtime-ktx-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-ktx/2.7.0-alpha02/lifecycle-runtime-ktx-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-runtime-testing -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-testing/2.7.0-alpha01/lifecycle-runtime-testing-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-testing/2.7.0-alpha01/lifecycle-runtime-testing-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-testing/2.7.0-alpha02/lifecycle-runtime-testing-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-runtime-testing/2.7.0-alpha02/lifecycle-runtime-testing-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-service -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-service/2.7.0-alpha01/lifecycle-service-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-service/2.7.0-alpha01/lifecycle-service-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-service/2.7.0-alpha02/lifecycle-service-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-service/2.7.0-alpha02/lifecycle-service-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-viewmodel -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel/2.7.0-alpha01/lifecycle-viewmodel-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel/2.7.0-alpha01/lifecycle-viewmodel-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel/2.7.0-alpha02/lifecycle-viewmodel-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel/2.7.0-alpha02/lifecycle-viewmodel-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-viewmodel-compose -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-compose/2.7.0-alpha01/lifecycle-viewmodel-compose-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-compose/2.7.0-alpha01/lifecycle-viewmodel-compose-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-compose/2.7.0-alpha02/lifecycle-viewmodel-compose-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-compose/2.7.0-alpha02/lifecycle-viewmodel-compose-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-viewmodel-ktx -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-ktx/2.7.0-alpha01/lifecycle-viewmodel-ktx-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-ktx/2.7.0-alpha01/lifecycle-viewmodel-ktx-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-ktx/2.7.0-alpha02/lifecycle-viewmodel-ktx-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-ktx/2.7.0-alpha02/lifecycle-viewmodel-ktx-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- lifecycle/lifecycle-viewmodel-savedstate -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.7.0-alpha01/lifecycle-viewmodel-savedstate-2.7.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.7.0-alpha01/lifecycle-viewmodel-savedstate-2.7.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.7.0-alpha02/lifecycle-viewmodel-savedstate-2.7.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.7.0-alpha02/lifecycle-viewmodel-savedstate-2.7.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- loader/loader -->
@@ -688,24 +688,24 @@
       <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/navigation/navigation-ui-ktx/2.8.0-alpha01/navigation-ui-ktx-2.8.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
-    <!-- paging/paging-common -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-common/3.2.0-alpha05/paging-common-3.2.0-alpha05-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-common/3.2.0-alpha05/paging-common-3.2.0-alpha05-sources.jar!/" isTestSource="false" />
+    <!-- paging/paging-common-jvm -->
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-common-jvm/3.3.0-alpha01/paging-common-jvm-3.3.0-alpha01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-common-jvm/3.3.0-alpha01/paging-common-jvm-3.3.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- paging/paging-common-ktx -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-common-ktx/3.2.0-alpha05/paging-common-ktx-3.2.0-alpha05-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-common-ktx/3.2.0-alpha05/paging-common-ktx-3.2.0-alpha05-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-common-ktx/3.3.0-alpha01/paging-common-ktx-3.3.0-alpha01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-common-ktx/3.3.0-alpha01/paging-common-ktx-3.3.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- paging/paging-guava -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-guava/3.2.0-alpha05/paging-guava-3.2.0-alpha05-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-guava/3.2.0-alpha05/paging-guava-3.2.0-alpha05-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-guava/3.3.0-alpha01/paging-guava-3.3.0-alpha01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-guava/3.3.0-alpha01/paging-guava-3.3.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- paging/paging-runtime -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-runtime/3.2.0-alpha05/paging-runtime-3.2.0-alpha05-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-runtime/3.2.0-alpha05/paging-runtime-3.2.0-alpha05-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-runtime/3.3.0-alpha01/paging-runtime-3.3.0-alpha01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/paging/paging-runtime/3.3.0-alpha01/paging-runtime-3.3.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- palette/palette -->
@@ -729,38 +729,38 @@
     </content>
 
     <!-- privacysandbox/ads/ads-adservices -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ads/ads-adservices/1.1.0-alpha01/ads-adservices-1.1.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ads/ads-adservices/1.1.0-alpha01/ads-adservices-1.1.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ads/ads-adservices/1.1.0-beta02/ads-adservices-1.1.0-beta02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ads/ads-adservices/1.1.0-beta02/ads-adservices-1.1.0-beta02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- privacysandbox/ads/ads-adservices-java -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ads/ads-adservices-java/1.1.0-alpha01/ads-adservices-java-1.1.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ads/ads-adservices-java/1.1.0-alpha01/ads-adservices-java-1.1.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ads/ads-adservices-java/1.1.0-beta02/ads-adservices-java-1.1.0-beta02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ads/ads-adservices-java/1.1.0-beta02/ads-adservices-java-1.1.0-beta02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- privacysandbox/sdkruntime/sdkruntime-client -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/sdkruntime/sdkruntime-client/1.0.0-alpha08/sdkruntime-client-1.0.0-alpha08-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/sdkruntime/sdkruntime-client/1.0.0-alpha08/sdkruntime-client-1.0.0-alpha08-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/sdkruntime/sdkruntime-client/1.0.0-alpha09/sdkruntime-client-1.0.0-alpha09-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/sdkruntime/sdkruntime-client/1.0.0-alpha09/sdkruntime-client-1.0.0-alpha09-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- privacysandbox/sdkruntime/sdkruntime-core -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/sdkruntime/sdkruntime-core/1.0.0-alpha08/sdkruntime-core-1.0.0-alpha08-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/sdkruntime/sdkruntime-core/1.0.0-alpha08/sdkruntime-core-1.0.0-alpha08-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/sdkruntime/sdkruntime-core/1.0.0-alpha09/sdkruntime-core-1.0.0-alpha09-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/sdkruntime/sdkruntime-core/1.0.0-alpha09/sdkruntime-core-1.0.0-alpha09-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- privacysandbox/ui/ui-client -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ui/ui-client/1.0.0-alpha05/ui-client-1.0.0-alpha05-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ui/ui-client/1.0.0-alpha05/ui-client-1.0.0-alpha05-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ui/ui-client/1.0.0-alpha06/ui-client-1.0.0-alpha06-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ui/ui-client/1.0.0-alpha06/ui-client-1.0.0-alpha06-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- privacysandbox/ui/ui-core -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ui/ui-core/1.0.0-alpha05/ui-core-1.0.0-alpha05-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ui/ui-core/1.0.0-alpha05/ui-core-1.0.0-alpha05-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ui/ui-core/1.0.0-alpha06/ui-core-1.0.0-alpha06-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ui/ui-core/1.0.0-alpha06/ui-core-1.0.0-alpha06-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- privacysandbox/ui/ui-provider -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ui/ui-provider/1.0.0-alpha05/ui-provider-1.0.0-alpha05-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ui/ui-provider/1.0.0-alpha05/ui-provider-1.0.0-alpha05-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ui/ui-provider/1.0.0-alpha06/ui-provider-1.0.0-alpha06-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/privacysandbox/ui/ui-provider/1.0.0-alpha06/ui-provider-1.0.0-alpha06-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- profileinstaller/profileinstaller -->
@@ -799,53 +799,53 @@
     </content>
 
     <!-- room/room-common -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-common/2.6.0-alpha03/room-common-2.6.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-common/2.6.0-alpha03/room-common-2.6.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-common/2.6.0-rc01/room-common-2.6.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-common/2.6.0-rc01/room-common-2.6.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- room/room-compiler -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-compiler/2.6.0-alpha03/room-compiler-2.6.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-compiler/2.6.0-alpha03/room-compiler-2.6.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-compiler/2.6.0-rc01/room-compiler-2.6.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-compiler/2.6.0-rc01/room-compiler-2.6.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- room/room-compiler-processing -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-compiler-processing/2.6.0-alpha03/room-compiler-processing-2.6.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-compiler-processing/2.6.0-alpha03/room-compiler-processing-2.6.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-compiler-processing/2.6.0-rc01/room-compiler-processing-2.6.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-compiler-processing/2.6.0-rc01/room-compiler-processing-2.6.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- room/room-guava -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-guava/2.6.0-alpha03/room-guava-2.6.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-guava/2.6.0-alpha03/room-guava-2.6.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-guava/2.6.0-rc01/room-guava-2.6.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-guava/2.6.0-rc01/room-guava-2.6.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- room/room-ktx -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-ktx/2.6.0-alpha03/room-ktx-2.6.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-ktx/2.6.0-alpha03/room-ktx-2.6.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-ktx/2.6.0-rc01/room-ktx-2.6.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-ktx/2.6.0-rc01/room-ktx-2.6.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- room/room-migration -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-migration/2.6.0-alpha03/room-migration-2.6.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-migration/2.6.0-alpha03/room-migration-2.6.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-migration/2.6.0-rc01/room-migration-2.6.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-migration/2.6.0-rc01/room-migration-2.6.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- room/room-paging -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-paging/2.6.0-alpha03/room-paging-2.6.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-paging/2.6.0-alpha03/room-paging-2.6.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-paging/2.6.0-rc01/room-paging-2.6.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-paging/2.6.0-rc01/room-paging-2.6.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- room/room-paging-guava -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-paging-guava/2.6.0-alpha03/room-paging-guava-2.6.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-paging-guava/2.6.0-alpha03/room-paging-guava-2.6.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-paging-guava/2.6.0-rc01/room-paging-guava-2.6.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-paging-guava/2.6.0-rc01/room-paging-guava-2.6.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- room/room-runtime -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-runtime/2.6.0-alpha03/room-runtime-2.6.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-runtime/2.6.0-alpha03/room-runtime-2.6.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-runtime/2.6.0-rc01/room-runtime-2.6.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-runtime/2.6.0-rc01/room-runtime-2.6.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- room/room-testing -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-testing/2.6.0-alpha03/room-testing-2.6.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-testing/2.6.0-alpha03/room-testing-2.6.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-testing/2.6.0-rc01/room-testing-2.6.0-rc01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/room/room-testing/2.6.0-rc01/room-testing-2.6.0-rc01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- savedstate/savedstate -->
@@ -974,33 +974,33 @@
     </content>
 
     <!-- wear/compose/compose-foundation -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-foundation/1.3.0-alpha04/compose-foundation-1.3.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-foundation/1.3.0-alpha04/compose-foundation-1.3.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-foundation/1.3.0-alpha06/compose-foundation-1.3.0-alpha06-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-foundation/1.3.0-alpha06/compose-foundation-1.3.0-alpha06-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- wear/compose/compose-material -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-material/1.3.0-alpha04/compose-material-1.3.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-material/1.3.0-alpha04/compose-material-1.3.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-material/1.3.0-alpha06/compose-material-1.3.0-alpha06-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-material/1.3.0-alpha06/compose-material-1.3.0-alpha06-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- wear/compose/compose-material-core -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-material-core/1.3.0-alpha04/compose-material-core-1.3.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-material-core/1.3.0-alpha04/compose-material-core-1.3.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-material-core/1.3.0-alpha06/compose-material-core-1.3.0-alpha06-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-material-core/1.3.0-alpha06/compose-material-core-1.3.0-alpha06-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- wear/compose/compose-navigation -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-navigation/1.3.0-alpha04/compose-navigation-1.3.0-alpha04-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-navigation/1.3.0-alpha04/compose-navigation-1.3.0-alpha04-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-navigation/1.3.0-alpha06/compose-navigation-1.3.0-alpha06-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/compose/compose-navigation/1.3.0-alpha06/compose-navigation-1.3.0-alpha06-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- wear/wear -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/wear/1.3.0-rc01/wear-1.3.0-rc01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/wear/1.3.0-rc01/wear-1.3.0-rc01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/wear/1.4.0-alpha01/wear-1.4.0-alpha01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/wear/1.4.0-alpha01/wear-1.4.0-alpha01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- wear/wear-ongoing -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/wear-ongoing/1.1.0-alpha01/wear-ongoing-1.1.0-alpha01-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/wear-ongoing/1.1.0-alpha01/wear-ongoing-1.1.0-alpha01-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/wear-ongoing/1.1.0-alpha02/wear-ongoing-1.1.0-alpha02-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/wear/wear-ongoing/1.1.0-alpha02/wear-ongoing-1.1.0-alpha02-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- webkit/webkit -->
@@ -1034,18 +1034,18 @@
     </content>
 
     <!-- work/work-runtime -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/work/work-runtime/2.9.0-alpha03/work-runtime-2.9.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/work/work-runtime/2.9.0-alpha03/work-runtime-2.9.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/work/work-runtime/2.9.0-beta01/work-runtime-2.9.0-beta01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/work/work-runtime/2.9.0-beta01/work-runtime-2.9.0-beta01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- work/work-runtime-ktx -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/work/work-runtime-ktx/2.9.0-alpha03/work-runtime-ktx-2.9.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/work/work-runtime-ktx/2.9.0-alpha03/work-runtime-ktx-2.9.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/work/work-runtime-ktx/2.9.0-beta01/work-runtime-ktx-2.9.0-beta01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/work/work-runtime-ktx/2.9.0-beta01/work-runtime-ktx-2.9.0-beta01-sources.jar!/" isTestSource="false" />
     </content>
 
     <!-- work/work-testing -->
-    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/work/work-testing/2.9.0-alpha03/work-testing-2.9.0-alpha03-sources.jar!/">
-      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/work/work-testing/2.9.0-alpha03/work-testing-2.9.0-alpha03-sources.jar!/" isTestSource="false" />
+    <content url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/work/work-testing/2.9.0-beta01/work-testing-2.9.0-beta01-sources.jar!/">
+      <sourceFolder url="jar://$ANDROID_TREE$/prebuilts/sdk/current/androidx/m2repository/androidx/work/work-testing/2.9.0-beta01/work-testing-2.9.0-beta01-sources.jar!/" isTestSource="false" />
     </content>
 
     <orderEntry type="sourceFolder" forTests="false" />
